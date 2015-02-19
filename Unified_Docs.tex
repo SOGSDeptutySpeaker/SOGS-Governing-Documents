@@ -1,0 +1,116 @@
+\documentclass[12pt,letterpaper]{report}
+\usepackage[left=1.00in, right=1.00in, top=1.00in, bottom=1.00in]{geometry}
+\usepackage{makeidx}
+\usepackage[english]{babel}
+\usepackage{multicol}
+\hyphenation{com-mu-ni-cate  ad-mi-nis-tra-tion or-gan-iza-tion ref-er-en-dum U-ni-ver-si-ty}
+\usepackage{graphicx}
+\setcounter{secnumdepth}{5}
+\usepackage{titlesec}
+\usepackage{enumitem}
+\newlist{longenum}{enumerate}{20}
+%\renewcommand*\thesection{\arabic{section}}
+\setlist[longenum,1]{label=\thesection.\arabic*.}
+\setlist[longenum,2]{label=\arabic*.}
+\setlist[longenum,3]{label=\arabic*.}
+\setlist[longenum,4]{label=\arabic*.}
+\setlist[longenum,5]{label=\arabic*.}
+\setlist[longenum,6]{label=\arabic*.}
+\setlist[longenum,7]{label=\arabic*.}
+\setlist[longenum,8]{label=\arabic*.}
+\setlist[longenum,9]{label=\arabic*.}
+\setlist[longenum,10]{label=\arabic*.}
+\setlist[longenum,11]{label=\arabic*.}
+\setlist[longenum,12]{label=\arabic*.}
+\setlist[longenum,13]{label=\arabic*.}
+\setlist[longenum,14]{label=\arabic*.}
+\setlist[longenum,15]{label=\arabic*.}
+\setlist[longenum,16]{label=\arabic*.}
+\setlist[longenum,17]{label=\arabic*.}
+\setlist[longenum,18]{label=\arabic*.}
+\setlist[longenum,19]{label=\arabic*.}
+\setlist[longenum,20]{label=\arabic*.}
+\usepackage{lmodern}
+\renewcommand*\familydefault{\sfdefault} %% Only if the base font of the document is to be sans serif
+\usepackage[T1]{fontenc}
+\usepackage[none]{hyphenat}
+\title{Bylaws and Constitution}
+\makeindex
+
+%----------------------------------------------------------------------------------------
+%	TITLE PAGE
+%----------------------------------------------------------------------------------------
+\newcommand*{\titleGP}{\begingroup % Create the command for including the title page in the document
+\centering % Center all text
+\vspace*{\baselineskip} % White space at the top of the page
+
+\rule{\textwidth}{1.6pt}\vspace*{-\baselineskip}\vspace*{2pt} % Thick horizontal line
+\rule{\textwidth}{0.4pt}\\[\baselineskip] % Thin horizontal line
+
+{\LARGE CONSTITUTION, BYLAWS} 
+and
+{\LARGE POLICY DOCUMENTS}
+
+\rule{\textwidth}{0.4pt}\vspace*{-\baselineskip}\vspace{3.2pt} % Thin horizontal line
+\rule{\textwidth}{1.6pt}\\[\baselineskip] % Thick horizontal line
+
+
+
+\vspace*{2\baselineskip} % Whitespace between location/year and editors
+
+As Compiled on \today \\[\baselineskip]
+
+By the Speaker
+
+{\Large Christopher Shirreff\par} % Editor list
+\vspace*{\baselineskip} % White space at the top of the page
+
+with the assistance of the Deputy Speaker\\[\baselineskip]
+{\large Martin Lefebvre\par}
+
+
+\vfill % Whitespace between editor names and publisher logo
+
+\includegraphics{logo.jpg}\\[1cm]
+
+
+{\large THE SOCIETY OF GRADUATE STUDENTS}\par % Publisher
+\scshape % Small caps
+{\itshape The University Western Onario\par} % Editor affiliation
+London Ontario Canada\par % Location and year
+{\scshape 2014} \\[0.3\baselineskip] % Year published
+\endgroup}
+%----------------------------------------------------------------------------------------
+%	BLANK DOCUMENT
+%----------------------------------------------------------------------------------------
+
+\begin{document} 
+
+\pagestyle{empty} % Removes page numbers
+
+\titleGP % This command includes the title page
+
+\newpage
+
+\tableofcontents
+
+\newpage
+
+\include{Constitution}
+
+\include{Bylaws}
+\chapter{Operations Policies}
+\include{Elections}
+\include{Minutes}
+\include{Procurement}
+\chapter{Committee Policies}
+\chapter {Positions Policies}
+
+\chapter{Speaker's Rulings}
+\include{July2013Investigation}
+\include{Nov2014Alternates}
+
+\newpage
+\printindex
+
+\end{document}
