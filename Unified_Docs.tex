@@ -3,13 +3,13 @@
 \usepackage{makeidx}
 \usepackage[english]{babel}
 \usepackage{multicol}
+\usepackage{indentfirst}
 \hyphenation{com-mu-ni-cate  ad-mi-nis-tra-tion or-gan-iza-tion ref-er-en-dum U-ni-ver-si-ty}
 \usepackage{graphicx}
 \setcounter{secnumdepth}{5}
 \usepackage{titlesec}
 \usepackage{enumitem}
 \newlist{longenum}{enumerate}{20}
-%\renewcommand*\thesection{\arabic{section}}
 \setlist[longenum,1]{label=\thesection.\arabic*.}
 \setlist[longenum,2]{label=\arabic*.}
 \setlist[longenum,3]{label=\arabic*.}
@@ -102,7 +102,11 @@ London Ontario Canada\par % Location and year
 \include{Operations_Policy/Minutes}
 \include{Operations_Policy/Procurement}
 \chapter{Committee Policies}
-\include{Committee_Documents/GSTA}
+\addtocontents{toc}{\protect\setcounter{tocdepth}{1}}
+%\include{Committee_Documents/BCC}
+%\include{Committee_Documents/GSTA}
+\addtocontents{toc}{\protect\setcounter{tocdepth}{2}}
+
 \chapter {Positions Policies}
 
 \chapter{Speaker's Rulings}
