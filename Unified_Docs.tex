@@ -86,29 +86,27 @@ London Ontario Canada\par % Location and year
 
 \begin{document} 
 
-\pagestyle{empty} % Removes page numbers
+\pagestyle{empty} % Removes page numbers 
 
 \titleGP % This command includes the title page
 
-\newpage
-
-\tableofcontents
-
-\newpage
+\tableofcontents % This command creates the Table of Contents
+\pagebreak % This Command creates a pagebreak at the end of the ToC
+\pagestyle{plain}
 
 \include{Constitution}
 
 \include{Bylaws}
 \chapter{Operations Policies}
 \include{Operations_Policy/Elections}
-\include{Minutes}
+\include{Operations_Policy/Minutes}
 \include{Procurement}
 \chapter{Committee Policies}
 \chapter {Positions Policies}
 
 \chapter{Speaker's Rulings}
-\include{July2013Investigation}
-\include{Nov2014Alternates}
+\include{Rulings/July2013}
+\include{Rulings/Nov2014}
 
 \newpage
 
