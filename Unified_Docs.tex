@@ -2,6 +2,7 @@
 \usepackage[left=1.00in, right=1.00in, top=1.00in, bottom=1.00in]{geometry}
 \usepackage{makeidx}
 \usepackage[english]{babel}
+\usepackage[colorinlistoftodos]{todonotes} % Erase once To-Dos are done
 \usepackage{multicol}
 \usepackage{indentfirst}
 \hyphenation{com-mu-ni-cate  ad-mi-nis-tra-tion or-gan-iza-tion ref-er-en-dum U-ni-ver-si-ty}
@@ -60,13 +61,13 @@ and
 
 As Compiled on \today \\[\baselineskip]
 
-By the Speaker
+By the Deputy Speaker
 
-{\Large Christopher Shirreff\par} % Editor list
+{\Large Martin R. Lefebvre\par} % Editor list
 \vspace*{\baselineskip} % White space at the top of the page
 
-with the assistance of the Deputy Speaker\\[\baselineskip]
-{\large Martin Lefebvre\par}
+Under the Supervision of the Speaker \\[\baselineskip]
+{\large Christopher Shirreff\par}
 
 
 \vfill % Whitespace between editor names and publisher logo
@@ -78,7 +79,7 @@ with the assistance of the Deputy Speaker\\[\baselineskip]
 \scshape % Small caps
 {\itshape The University Western Ontario\par} % Editor affiliation
 London Ontario Canada\par % Location and year
-{\scshape 2014} \\[0.3\baselineskip] % Year published
+{\scshape 2015} \\[0.3\baselineskip] % Year published
 \endgroup}
 %----------------------------------------------------------------------------------------
 %	BLANK DOCUMENT
@@ -97,24 +98,34 @@ London Ontario Canada\par % Location and year
 \include{Constitution}
 
 \include{Bylaws}
-\chapter{Operations Policies}
-\include{Operations_Policy/Elections}
-\include{Operations_Policy/Minutes}
-\include{Operations_Policy/Procurement}
-\chapter{Committee Policies}
-\addtocontents{toc}{\protect\setcounter{tocdepth}{1}}
-%\include{Committee_Documents/BCC}
-%\include{Committee_Documents/GSTA}
-\addtocontents{toc}{\protect\setcounter{tocdepth}{2}}
 
-\chapter {Positions Policies}
+\chapter{Operations Manual}
+\include{Operations_Manual}
+
+\chapter{Policy Manual}
+\include{Policy_Manual}
+
+
+
+\chapter{Operations Policies}
+% \include{Operations_Policy/Conflict_of_Interest}
+% \include{Operations_Policy/Discipline_Code}
+% \include{Operations_Policy/Elections}
+% \include{Operations_Policy/Minutes}
+% \include{Operations_Policy/Procurement}
+
+ \chapter{Committee Policies}
+% %\addtocontents{toc}{\protect\setcounter{tocdepth}{1}}
+% %\include{Committee_Documents/BCC}
+ \include{Committee_Documents/GSTA}
+%\addtocontents{toc}{\protect\setcounter{tocdepth}{2}}
 
 \chapter{Speaker's Rulings}
 \include{Rulings/July2013}
 \include{Rulings/Nov2014}
 
 \newpage
-
+ 
 %\include{Example}
 \printindex
 
