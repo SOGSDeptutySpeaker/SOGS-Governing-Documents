@@ -1,0 +1,17 @@
+\select@language {english}
+\contentsline {chapter}{\numberline {1}Constitution}{5}
+\contentsline {chapter}{\numberline {2}Bylaws}{7}
+\contentsline {section}{\numberline {2.4}Elections}{7}
+\contentsline {subsection}{\numberline {2.4.1}Responsibility}{8}
+\contentsline {subsection}{\numberline {2.4.2}Appeals Review Commission}{8}
+\contentsline {subsection}{\numberline {2.4.3}Referendum specific Rules}{9}
+\contentsline {subsection}{\numberline {2.4.4}Presidential Election-specific Rules}{9}
+\contentsline {subsection}{\numberline {2.4.5}Campaigning}{9}
+\contentsline {subsection}{\numberline {2.4.6}Voting}{9}
+\contentsline {subsection}{\numberline {2.4.7}Counting Ballots}{10}
+\contentsline {subsection}{\numberline {2.4.8}Campaign Impropriety and Appeals}{10}
+\contentsline {subsection}{\numberline {2.4.9}Validity}{11}
+\contentsline {subsection}{\numberline {2.4.10}Campaign Expenses and Subsidy}{11}
+\contentsline {section}{\numberline {2.8}Elections Table}{12}
+\contentsline {chapter}{\numberline {3}Policy}{15}
+\contentsline {section}{\numberline {3.3}Elections Policy}{16}

@@ -48,9 +48,9 @@
 \rule{\textwidth}{1.6pt}\vspace*{-\baselineskip}\vspace*{2pt} % Thick horizontal line
 \rule{\textwidth}{0.4pt}\\[\baselineskip] % Thin horizontal line
 
-{\LARGE CONSTITUTION, BYLAWS} 
+{\LARGE SOGS ELECTIONS} 
 and
-{\LARGE POLICY DOCUMENTS}
+{\LARGE HANDBOOK}
 
 \rule{\textwidth}{0.4pt}\vspace*{-\baselineskip}\vspace{3.2pt} % Thin horizontal line
 \rule{\textwidth}{1.6pt}\\[\baselineskip] % Thick horizontal line
@@ -95,38 +95,34 @@ London Ontario Canada\par % Location and year
 \pagebreak % This Command creates a pagebreak at the end of the ToC
 \pagestyle{plain}
 
-\include{Constitution/Constitution}
 
-\include{Bylaw/Bylaws}
+%%%%These commands are used to insert the Term Limits section from the constitution into this document at the proper numbering
+\chapter{Constitution}
+\setcounter{section}{6}
+\setcounter{subsection}{2}
+\setcounter{subsubsection}{6}
+\begin{longenum}[ label*=\thesubsubsection.\arabic*., align=left]
 
-%\chapter{Operations Manual}
-%\include{Operations_Manual}
+\include{Elections/Term_limits}
+\end{longenum}
 
-%\chapter{Policy Manual}
-%\include{Policy_Manual}
+\chapter{Bylaws}
+\setcounter{section}{3}
+\section{Elections}
+\setcounter{subsection}{0}
+\setcounter{subsubsection}{0}
+\include{Elections/General_Election_Bylaw}
 
 
+\setcounter{section}{7}
+\section{Elections Table}
+\setcounter{subsection}{0}
+\setcounter{subsubsection}{0}
+\include{Elections/Elections_Table}
 
-\chapter{Operations Policies}
-\include{Operations_Policy/Conflict_of_Interest}
- \include{Operations_Policy/Discipline_Code}
- \include{Operations_Policy/Elections}
- \include{Operations_Policy/Minutes}
- \include{Operations_Policy/Procurement}
-
- \chapter{Committee Policies}
-% %\addtocontents{toc}{\protect\setcounter{tocdepth}{1}}
- \include{Committee_Documents/BCC}
- \include{Committee_Documents/GSTA}
-%\addtocontents{toc}{\protect\setcounter{tocdepth}{2}}
-
-\chapter{Speaker's Rulings}
-\include{Rulings/July2013}
-\include{Rulings/Nov2014}
-
-\newpage
- 
-%\include{Example}
+\chapter{Policy}
+\setcounter{section}{2}
+\include{Operations_Policy/Elections}
 \printindex
 
 \end{document}

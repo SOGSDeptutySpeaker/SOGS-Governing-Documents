@@ -114,16 +114,14 @@
 \contentsline {subsection}{\numberline {2.19.3}List of sanctions}{68}
 \contentsline {section}{\numberline {2.20}Rules of Order}{70}
 \contentsline {section}{\numberline {2.21}Dissemination of Amendments to the Society's Governing Documents}{71}
-\contentsline {chapter}{\numberline {3}Operations Manual}{73}
-\contentsline {chapter}{\numberline {4}Policy Manual}{75}
-\contentsline {chapter}{\numberline {5}Operations Policies}{77}
-\contentsline {section}{\numberline {5.1}Conflict of Interest}{78}
-\contentsline {section}{\numberline {5.2}Discipline Manual}{81}
-\contentsline {section}{\numberline {5.3}Elections Policy}{88}
-\contentsline {section}{\numberline {5.4}Minutes Writing Policy}{92}
-\contentsline {section}{\numberline {5.5}Procurement}{93}
-\contentsline {chapter}{\numberline {6}Committee Policies}{101}
-\contentsline {subsection}{\numberline {6.0.1}SOGS Bylaws and Constitution Committee}{102}
-\contentsline {section}{\numberline {6.1}Graduate Student Teaching Awards (GTSA) Committee}{103}
-\contentsline {subsection}{\numberline {6.1.1}Article I: Membership}{103}
-\contentsline {chapter}{\numberline {7}Speaker's Rulings}{105}
+\contentsline {chapter}{\numberline {3}Operations Policies}{73}
+\contentsline {section}{\numberline {3.1}Conflict of Interest}{74}
+\contentsline {section}{\numberline {3.2}Discipline Manual}{77}
+\contentsline {section}{\numberline {3.3}Elections Policy}{84}
+\contentsline {section}{\numberline {3.4}Minutes Writing Policy}{88}
+\contentsline {section}{\numberline {3.5}Procurement}{89}
+\contentsline {chapter}{\numberline {4}Committee Policies}{97}
+\contentsline {subsection}{\numberline {4.0.1}SOGS Bylaws and Constitution Committee}{98}
+\contentsline {section}{\numberline {4.1}Graduate Student Teaching Awards (GTSA) Committee}{99}
+\contentsline {subsection}{\numberline {4.1.1}Article I: Membership}{99}
+\contentsline {chapter}{\numberline {5}Speaker's Rulings}{101}
