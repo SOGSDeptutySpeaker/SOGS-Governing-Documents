@@ -17,6 +17,10 @@
 \indexentry{Election!Spending Limit}{9}
 \indexentry{Referendum!Binding on Society}{9}
 \indexentry{Referendum!Invalid}{9}
+\indexentry{Board of Governor!Election}{9}
+\indexentry{Senate!Election}{9}
+\indexentry{Election!Senate}{9}
+\indexentry{Election!Board of Governor}{9}
 \indexentry{President, The!Election}{9}
 \indexentry{Election!President}{9}
 \indexentry{Election!Suffrage}{9}
@@ -30,12 +34,12 @@
 \indexentry{Referendum!Campaign!End of Period}{9}
 \indexentry{Election!Campaign!Equal Time}{9}
 \indexentry{Referendum!Campaign!Equal Time}{9}
-\indexentry{Election!Vote!Ballot}{9}
-\indexentry{Referendum!Vote!Ballot}{9}
-\indexentry{Election!Vote!Voting Period}{9}
-\indexentry{Referendum!Vote!Voting Period}{9}
-\indexentry{Election!Vote!Advanced Poll}{9}
-\indexentry{Referendum!Vote!Advanced Poll}{9}
+\indexentry{Election!Vote!Ballot}{10}
+\indexentry{Referendum!Vote!Ballot}{10}
+\indexentry{Election!Vote!Voting Period}{10}
+\indexentry{Referendum!Vote!Voting Period}{10}
+\indexentry{Election!Vote!Advanced Poll}{10}
+\indexentry{Referendum!Vote!Advanced Poll}{10}
 \indexentry{Election!Vote!Results}{10}
 \indexentry{Referendum!Vote!Results}{10}
 \indexentry{Election!Quorum}{10}
@@ -62,6 +66,7 @@
 \indexentry{Election!Campaign Subsidy}{11}
 \indexentry{Referendum!Campaign Subsidy}{11}
 \indexentry{Chief Returning Officer!Campaign Subsidy}{11}
+\indexentry{Election!Campaign Subsidy}{11}
 \indexentry{Election!Dates}{13}
 \indexentry{Election!Policy}{16}
 \indexentry{Election!Scrutineer}{17}

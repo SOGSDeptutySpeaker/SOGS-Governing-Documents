@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.12.4)  24 NOV 2016 19:21
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.12.4)  13 DEC 2016 14:27
 entering extended mode
 **"Elections Handbook.tex"
 ("Elections Handbook.tex"
@@ -710,30 +710,30 @@ Overfull \hbox (0.85223pt too wide) in paragraph at lines 31--32
 [8
 
 ]
-Overfull \hbox (1.64688pt too wide) in paragraph at lines 89--92
+Overfull \hbox (1.64688pt too wide) in paragraph at lines 103--106
 []\T1/lmss/m/n/12 A se-cret bal-lot shall be held fol-low-ing the close of the 
 cam-paign pe-riod, for the Pres-i-den-tial
  []
 
 [9]
-Overfull \hbox (6.73157pt too wide) in paragraph at lines 107--112
+Overfull \hbox (6.73157pt too wide) in paragraph at lines 121--126
 []\T1/lmss/m/n/12 The Pres-i-den-tial elec-tion and all ref-er-enda shall have 
 no quo-rum un-less oth-er-wise man-dated
  []
 
 
-Overfull \hbox (7.90782pt too wide) in paragraph at lines 125--126
+Overfull \hbox (7.90782pt too wide) in paragraph at lines 139--140
 \T1/lmss/m/n/12 Im-pro-pri-ety and Ap-peals), where the CRO has de-ter-mined th
 at an act of cam-paign im-pro-pri-ety
  []
 
-
-Overfull \hbox (30.32939pt too wide) in paragraph at lines 152--156
+[10]
+Overfull \hbox (36.20438pt too wide) in paragraph at lines 166--170
 []\T1/lmss/m/n/12 Any full or as-so-ciate mem-ber of the So-ci-ety may chal-len
 ge the va-lid-ity of an elec-tion/referendum
  []
 
-[10]) [11] [12
+) [11] [12
 
 ] (Elections/Elections_Table.tex) [13
 
@@ -783,14 +783,14 @@ Here is how much of TeX's memory you used:
  16641 multiletter control sequences out of 15000+200000
  46343 words of font info for 37 fonts, out of 3000000 for 9000
  1030 hyphenation exceptions out of 8191
- 62i,6n,56p,654b,487s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 62i,8n,56p,654b,487s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program
  Files/MiKTeX 2.9/fonts/enc/dvips/lm/lm-ec.enc}<C:/Program Files/MiKTeX 2.9/fon
 ts/type1/public/lm/lmcsc10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/
 lm/lmss12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmss17.pfb><C:
 /Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmssbx10.pfb><C:/Program Files/
 MiKTeX 2.9/fonts/type1/public/lm/lmsso12.pfb>
-Output written on "Elections Handbook.pdf" (21 pages, 158024 bytes).
+Output written on "Elections Handbook.pdf" (21 pages, 159043 bytes).
 PDF statistics:
  95 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
