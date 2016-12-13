@@ -233,6 +233,10 @@
 \indexentry{Election!Spending Limit}{31}
 \indexentry{Referendum!Binding on Society}{31}
 \indexentry{Referendum!Invalid}{31}
+\indexentry{Board of Governor!Election}{31}
+\indexentry{Senate!Election}{31}
+\indexentry{Election!Senate}{31}
+\indexentry{Election!Board of Governor}{31}
 \indexentry{President, The!Election}{31}
 \indexentry{Election!President}{31}
 \indexentry{Election!Suffrage}{31}
@@ -246,12 +250,12 @@
 \indexentry{Referendum!Campaign!End of Period}{31}
 \indexentry{Election!Campaign!Equal Time}{31}
 \indexentry{Referendum!Campaign!Equal Time}{31}
-\indexentry{Election!Vote!Ballot}{31}
-\indexentry{Referendum!Vote!Ballot}{31}
-\indexentry{Election!Vote!Voting Period}{31}
-\indexentry{Referendum!Vote!Voting Period}{31}
-\indexentry{Election!Vote!Advanced Poll}{31}
-\indexentry{Referendum!Vote!Advanced Poll}{31}
+\indexentry{Election!Vote!Ballot}{32}
+\indexentry{Referendum!Vote!Ballot}{32}
+\indexentry{Election!Vote!Voting Period}{32}
+\indexentry{Referendum!Vote!Voting Period}{32}
+\indexentry{Election!Vote!Advanced Poll}{32}
+\indexentry{Referendum!Vote!Advanced Poll}{32}
 \indexentry{Election!Vote!Results}{32}
 \indexentry{Referendum!Vote!Results}{32}
 \indexentry{Election!Quorum}{32}
@@ -278,6 +282,7 @@
 \indexentry{Election!Campaign Subsidy}{33}
 \indexentry{Referendum!Campaign Subsidy}{33}
 \indexentry{Chief Returning Officer!Campaign Subsidy}{33}
+\indexentry{Election!Campaign Subsidy}{33}
 \indexentry{Election!Vice President!Ballot}{34}
 \indexentry{Election!Vice President!Acclamation}{34}
 \indexentry{Election!Vice President!Qualification}{34}

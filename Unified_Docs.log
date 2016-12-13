@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.12.4)  24 NOV 2016 19:22
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.12.4)  13 DEC 2016 14:37
 entering extended mode
 **Unified_Docs.tex
 (Unified_Docs.tex
@@ -685,7 +685,7 @@ LaTeX Font Info:    External font `lmex10' loaded for size
  [3] [4])
 \tf@toc=\write5
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Underfull \vbox (badness 3965) has occurred while \output is active []
 
  [5]
 (Constitution/Constitution.tex [6
@@ -838,30 +838,30 @@ Overfull \hbox (0.85223pt too wide) in paragraph at lines 31--32
  []
 
 [30]
-Overfull \hbox (1.64688pt too wide) in paragraph at lines 89--92
+Overfull \hbox (1.64688pt too wide) in paragraph at lines 103--106
 []\T1/lmss/m/n/12 A se-cret bal-lot shall be held fol-low-ing the close of the 
 cam-paign pe-riod, for the Pres-i-den-tial
  []
 
 [31]
-Overfull \hbox (6.73157pt too wide) in paragraph at lines 107--112
+Overfull \hbox (6.73157pt too wide) in paragraph at lines 121--126
 []\T1/lmss/m/n/12 The Pres-i-den-tial elec-tion and all ref-er-enda shall have 
 no quo-rum un-less oth-er-wise man-dated
  []
 
 
-Overfull \hbox (7.90782pt too wide) in paragraph at lines 125--126
+Overfull \hbox (7.90782pt too wide) in paragraph at lines 139--140
 \T1/lmss/m/n/12 Im-pro-pri-ety and Ap-peals), where the CRO has de-ter-mined th
 at an act of cam-paign im-pro-pri-ety
  []
 
-
-Overfull \hbox (30.32939pt too wide) in paragraph at lines 152--156
+[32]
+Overfull \hbox (36.20438pt too wide) in paragraph at lines 166--170
 []\T1/lmss/m/n/12 Any full or as-so-ciate mem-ber of the So-ci-ety may chal-len
 ge the va-lid-ity of an elec-tion/referendum
  []
 
-[32]) [33]
+) [33]
 Overfull \hbox (29.93303pt too wide) in paragraph at lines 421--423
 []\T1/lmss/m/n/12 Nominations for the elec-tions of the Vice-President Af-fairs
  and Com-mu-ni-ca-tions, Vice-President
@@ -1205,20 +1205,14 @@ Overfull \hbox (16.8431pt too wide) in paragraph at lines 211--212
 fit or co-op-er-a-tive
  []
 
-
-Overfull \hbox (14.22508pt too wide) in paragraph at lines 215--216
-[]\T1/lmss/m/n/12 The re-port shall in-clude: the rec-om-men-da-tion and ra-tio
--nale of the com-mit-tee,
- []
-
 [94]
-Overfull \hbox (6.58542pt too wide) in paragraph at lines 230--231
+Overfull \hbox (6.58542pt too wide) in paragraph at lines 232--233
 []\T1/lmss/m/n/12 The Ori-en-ta-tion and So-cial Com-mit-tee shall be the req-u
 i-si-tion-ing com-mit-tee
  []
 
 
-Overfull \hbox (16.8431pt too wide) in paragraph at lines 234--235
+Overfull \hbox (16.8431pt too wide) in paragraph at lines 236--237
 []\T1/lmss/m/n/12 At least one bid must be sought from a non-profit/not-for-pro
 fit or co-op-er-a-tive
  []
@@ -1318,7 +1312,7 @@ b><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmss17.pfb><C:/Program Fil
 es/MiKTeX 2.9/fonts/type1/public/lm/lmss8.pfb><C:/Program Files/MiKTeX 2.9/font
 s/type1/public/lm/lmssbx10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/
 lm/lmsso12.pfb>
-Output written on Unified_Docs.pdf (116 pages, 390806 bytes).
+Output written on Unified_Docs.pdf (116 pages, 391698 bytes).
 PDF statistics:
  412 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
