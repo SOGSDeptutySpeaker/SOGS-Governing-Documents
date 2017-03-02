@@ -160,10 +160,10 @@
     \subitem All Candidates Meeting, 31
     \subitem Campaign Impropreity
       \subsubitem Challege of Validity, 33
-      \subsubitem Disqualification, 32
+      \subsubitem Disqualification, 33
       \subsubitem Investigation, 32
-      \subsubitem Subsidy, 32
-      \subsubitem Void Election, 32
+      \subsubitem Subsidy, 33
+      \subsubitem Void Election, 33
     \subitem Campaign Subsidy, 33
     \subitem Eligibility, 25
     \subitem Recall
@@ -186,7 +186,7 @@
       \subsubitem Advocate, 26
       \subsubitem Community Building, 26
       \subsubitem Liaison, 26
-      \subsubitem Report, 26
+      \subsubitem Report, 27
     \subitem Election
       \subsubitem Advertisement, 35
       \subsubitem Ballot, 35
@@ -383,10 +383,10 @@
   \item Deputy Chief Returning Officer
     \subitem All Candidates M eeting, 31
     \subitem Chairperson of BCC, 48
-    \subitem Conflict of Interest, 25
-    \subitem Eligibility, 25
+    \subitem Conflict of Interest, 26
+    \subitem Eligibility, 26
     \subitem Investigation, 25
-    \subitem Remuneration, 25
+    \subitem Remuneration, 26
     \subitem Succession, 38
   \item Deputy Speaker
     \subitem Advise Speaker, 28
@@ -394,7 +394,7 @@
     \subitem Chairperson of BCC, 48
     \subitem Duties
       \subsubitem Dissenting Opinion, 28
-      \subsubitem Maintain Governing Documents, 27
+      \subsubitem Maintain Governing Documents, 28
       \subsubitem Research for Speaker, 28
   \item Disciplinary Manual
     \subitem Update, 27
@@ -453,9 +453,9 @@
       \subsubitem Allegation, 32
       \subsubitem Challenge of Validity, 33
     \subitem Campaign Improriety
-      \subsubitem Disqualification, 32
-      \subsubitem Subsidy, 32
-      \subsubitem Void Election, 32
+      \subsubitem Disqualification, 33
+      \subsubitem Subsidy, 33
+      \subsubitem Void Election, 33
     \subitem Campaign Subsidy, 33
     \subitem Chief Returning Officer, 25
     \subitem Commissioner
@@ -684,6 +684,8 @@
       \subsubitem PSAC 610, 21
       \subsubitem University Students' Council, 21
       \subsubitem UWO Faculty and Staff Associations, 21
+    \subitem President-Elect, 32
+    \subitem Transition, 32
   \item President, The, 21
     \subitem Bursaries and Scholarships, 23
     \subitem Calling Council Meeting, 62
@@ -710,6 +712,7 @@
     \subitem Special Meeting, 21
     \subitem Succession, 36
       \subsubitem Interim CRO, 38
+  \item President-Elect, 32
   \item Procurement, 89--95
   \item PSAC 610
     \subitem Ex-Officio Member of Council, 14
@@ -768,9 +771,9 @@
     \subitem Campaign Impropriety
       \subsubitem Allegation, 32
       \subsubitem Challege of Validity, 33
-      \subsubitem Disqualification, 32
-      \subsubitem Subsidy, 32
-      \subsubitem Void Election, 32
+      \subsubitem Disqualification, 33
+      \subsubitem Subsidy, 33
+      \subsubitem Void Election, 33
     \subitem Campaign Subsidy, 33
     \subitem Invalid, 31
     \subitem Quorum, 32
@@ -782,7 +785,7 @@
       \subsubitem Tie, 32
       \subsubitem Voting Period, 32
   \item Reports
-    \subitem Commissioner, 26
+    \subitem Commissioner, 27
     \subitem Commissioner Constituency Meeting, 27
     \subitem Council, 62
     \subitem Executive Officer, 20
