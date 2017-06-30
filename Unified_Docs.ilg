@@ -1,6 +1,9 @@
 This is makeindex, version 2.15 [MiKTeX 2.9 64-bit] (kpathsea + Thai support).
-Scanning input file Unified_Docs.idx....done (745 entries accepted, 0 rejected).
-Sorting entries.........done (7757 comparisons).
-Generating output file Unified_Docs.ind....done (915 lines written, 0 warnings).
+Scanning input file Unified_Docs.idx....
+!! Input index error (file = Unified_Docs.idx, line = 89):
+   -- Extra `!' at position 45 of first argument.
+done (748 entries accepted, 1 rejected).
+Sorting entries.........done (7574 comparisons).
+Generating output file Unified_Docs.ind....done (919 lines written, 0 warnings).
 Output written in Unified_Docs.ind.
 Transcript written in Unified_Docs.ilg.

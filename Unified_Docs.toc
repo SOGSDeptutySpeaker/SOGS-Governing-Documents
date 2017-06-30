@@ -92,30 +92,31 @@
 \contentsline {subsubsection}{\numberline {2.9.5.12}Equity Issues Committee}{51}
 \contentsline {subsubsection}{\numberline {2.9.5.13}Health Plan Committee (HPC)}{51}
 \contentsline {subsubsection}{\numberline {2.9.5.14}Sustainability Committee (SC)}{52}
+\contentsline {subsubsection}{\numberline {2.9.5.15}Graduate Peer Support Committee (GPS}{52}
 \contentsline {subsection}{\numberline {2.9.6}Commissions}{52}
 \contentsline {subsubsection}{\numberline {2.9.6.1}General}{52}
 \contentsline {subsubsection}{\numberline {2.9.6.2}Women's Concern Commission}{52}
-\contentsline {subsection}{\numberline {2.9.7}Official Liaison Table}{53}
-\contentsline {section}{\numberline {2.10}Personnel}{54}
-\contentsline {section}{\numberline {2.11}Conflict of Interest}{55}
-\contentsline {section}{\numberline {2.12}Finances}{57}
-\contentsline {section}{\numberline {2.13}Graduate Support Programs}{59}
-\contentsline {section}{\numberline {2.14}Disclosure of Information}{60}
-\contentsline {section}{\numberline {2.15}Meetings}{61}
-\contentsline {subsection}{\numberline {2.15.1}Reports}{61}
-\contentsline {subsection}{\numberline {2.15.2}General Meetings}{61}
-\contentsline {subsection}{\numberline {2.15.3}Council Meetings}{62}
-\contentsline {subsection}{\numberline {2.15.4}Executive Meeting}{64}
-\contentsline {section}{\numberline {2.16}The Policy Manual}{65}
-\contentsline {section}{\numberline {2.17}Communications}{66}
-\contentsline {subsection}{\numberline {2.17.1}Communications}{66}
-\contentsline {section}{\numberline {2.18}Non-Discrimination and Harassment}{67}
-\contentsline {section}{\numberline {2.19}Disciplinary Measures}{68}
-\contentsline {subsection}{\numberline {2.19.1}General}{68}
-\contentsline {subsection}{\numberline {2.19.2}Disciplinary Measures on an Employee}{68}
-\contentsline {subsection}{\numberline {2.19.3}List of sanctions}{68}
-\contentsline {section}{\numberline {2.20}Rules of Order}{70}
-\contentsline {section}{\numberline {2.21}Dissemination of Amendments to the Society's Governing Documents}{71}
+\contentsline {subsection}{\numberline {2.9.7}Official Liaison Table}{54}
+\contentsline {section}{\numberline {2.10}Personnel}{55}
+\contentsline {section}{\numberline {2.11}Conflict of Interest}{56}
+\contentsline {section}{\numberline {2.12}Finances}{58}
+\contentsline {section}{\numberline {2.13}Graduate Support Programs}{60}
+\contentsline {section}{\numberline {2.14}Disclosure of Information}{61}
+\contentsline {section}{\numberline {2.15}Meetings}{62}
+\contentsline {subsection}{\numberline {2.15.1}Reports}{62}
+\contentsline {subsection}{\numberline {2.15.2}General Meetings}{62}
+\contentsline {subsection}{\numberline {2.15.3}Council Meetings}{63}
+\contentsline {subsection}{\numberline {2.15.4}Executive Meeting}{65}
+\contentsline {section}{\numberline {2.16}The Policy Manual}{66}
+\contentsline {section}{\numberline {2.17}Communications}{67}
+\contentsline {subsection}{\numberline {2.17.1}Communications}{67}
+\contentsline {section}{\numberline {2.18}Non-Discrimination and Harassment}{68}
+\contentsline {section}{\numberline {2.19}Disciplinary Measures}{69}
+\contentsline {subsection}{\numberline {2.19.1}General}{69}
+\contentsline {subsection}{\numberline {2.19.2}Disciplinary Measures on an Employee}{69}
+\contentsline {subsection}{\numberline {2.19.3}List of sanctions}{69}
+\contentsline {section}{\numberline {2.20}Rules of Order}{71}
+\contentsline {section}{\numberline {2.21}Dissemination of Amendments to the Society's Governing Documents}{72}
 \contentsline {chapter}{\numberline {3}Operations Policies}{73}
 \contentsline {section}{\numberline {3.1}Conflict of Interest}{74}
 \contentsline {section}{\numberline {3.2}Discipline Manual}{77}
@@ -123,7 +124,7 @@
 \contentsline {section}{\numberline {3.4}Minutes Writing Policy}{88}
 \contentsline {section}{\numberline {3.5}Procurement}{89}
 \contentsline {chapter}{\numberline {4}Committee Policies}{97}
-\contentsline {subsection}{\numberline {4.0.1}SOGS Bylaws and Constitution Committee}{98}
-\contentsline {section}{\numberline {4.1}Graduate Student Teaching Awards (GTSA) Committee}{99}
-\contentsline {subsection}{\numberline {4.1.1}Article I: Membership}{99}
+\contentsline {section}{\numberline {4.1}SOGS Bylaws and Constitution Committee}{98}
+\contentsline {section}{\numberline {4.2}Graduate Student Teaching Awards (GTSA) Committee}{99}
+\contentsline {subsection}{\numberline {4.2.1}Article I: Membership}{99}
 \contentsline {chapter}{\numberline {5}Speaker's Rulings}{101}
