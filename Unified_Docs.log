@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.12.4)  29 JUN 2017 20:08
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.12.4)  10 JUL 2017 17:01
 entering extended mode
 **Unified_Docs.tex
 (Unified_Docs.tex
@@ -564,12 +564,7 @@ LaTeX Info: Redefining \_ on input line 43.
 \@indexfile=\write4
 
 Writing index file Unified_Docs.idx
-(Unified_Docs.aux (Constitution/Constitution.aux) (Bylaw/Bylaws.aux)
-(Operations_Policy/Conflict_of_Interest.aux)
-(Operations_Policy/Discipline_Code.aux) (Operations_Policy/Elections.aux)
-(Operations_Policy/Minutes.aux) (Operations_Policy/Procurement.aux)
-(Committee_Documents/BCC.aux) (Committee_Documents/GSTA.aux)
-(Rulings/July2013.aux) (Rulings/Nov2014.aux))
+(Unified_Docs.aux)
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 88.
 LaTeX Font Info:    ... okay on input line 88.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 88.
@@ -583,8 +578,7 @@ LaTeX Font Info:    ... okay on input line 88.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 88.
 LaTeX Font Info:    ... okay on input line 88.
 LaTeX Font Info:    Try loading font information for T1+lmss on input line 88.
-
-("C:\Program Files\MiKTeX 2.9\tex\latex\lm\t1lmss.fd"
+ ("C:\Program Files\MiKTeX 2.9\tex\latex\lm\t1lmss.fd"
 File: t1lmss.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 *geometry* driver: auto-detecting
@@ -1129,11 +1123,15 @@ Overfull \hbox (0.72375pt too wide) in paragraph at lines 30--31
  wherein they ac-knowl-edge
  []
 
-[85] [86]) [87] (Operations_Policy/Minutes.tex) [88
+[85] [86]
+
+LaTeX Warning: Reference `Presidential Subsidy' on page 87 undefined on input l
+ine 98.
+
+) [87] (Operations_Policy/Minutes.tex) [88
 
 
-]
-(Operations_Policy/Procurement.tex
+] (Operations_Policy/Procurement.tex
 Overfull \hbox (14.80577pt too wide) in paragraph at lines 13--15
 \T1/lmss/m/n/12 ac-cor-dance with the res-o-lu-tions from coun-cil, re-flect th
 e val-ues of SOGS as a not-for-profit
@@ -1307,12 +1305,18 @@ Underfull \hbox (badness 10000) in paragraph at lines 30--40
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
  ) 
 Here is how much of TeX's memory you used:
- 13751 strings out of 493698
- 266950 string characters out of 3144409
- 323288 words of memory out of 3000000
- 16686 multiletter control sequences out of 15000+200000
+ 13718 strings out of 493698
+ 266028 string characters out of 3144409
+ 316252 words of memory out of 3000000
+ 16675 multiletter control sequences out of 15000+200000
  68500 words of font info for 51 fonts, out of 3000000 for 9000
  1030 hyphenation exceptions out of 8191
  62i,8n,56p,1046b,605s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1324,7 +1328,7 @@ b><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmss17.pfb><C:/Program Fil
 es/MiKTeX 2.9/fonts/type1/public/lm/lmss8.pfb><C:/Program Files/MiKTeX 2.9/font
 s/type1/public/lm/lmssbx10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/
 lm/lmsso12.pfb>
-Output written on Unified_Docs.pdf (116 pages, 393005 bytes).
+Output written on Unified_Docs.pdf (116 pages, 393291 bytes).
 PDF statistics:
  412 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
