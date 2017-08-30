@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.12.4)  11 AUG 2017 21:21
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.12.4)  30 AUG 2017 00:21
 entering extended mode
 **Unified_Docs.tex
 (Unified_Docs.tex
@@ -902,96 +902,101 @@ Overfull \hbox (33.17093pt too wide) in paragraph at lines 695--695
 -mit-tee chair-per-sons| 
  []
 
-[42] [43] [44] [45]
-Overfull \hbox (5.86183pt too wide) in paragraph at lines 833--835
+[42] [43]
+Overfull \hbox (17.35371pt too wide) in paragraph at lines 750--766
+ [] 
+ []
+
+[44] [45]
+Overfull \hbox (5.86183pt too wide) in paragraph at lines 834--836
 []\T1/lmss/m/n/12 The Of-fi-cial Li-ai-son shall be con-sid-ered an ex-officio,
  non-voting mem-ber of the com-mit-tee.
  []
 
 
-Overfull \hbox (3.85255pt too wide) in paragraph at lines 852--853
+Overfull \hbox (3.85255pt too wide) in paragraph at lines 853--854
 []\T1/lmss/m/n/12 Each com-mit-tee shall have a Com-mit-tee Pol-icy doc-u-ment,
  dis-tinct from other com-mit-tees'
  []
 
 [46] [47] [48]
-Overfull \hbox (1.49677pt too wide) in paragraph at lines 958--959
+Overfull \hbox (1.49677pt too wide) in paragraph at lines 959--960
 []\T1/lmss/m/n/12 shall have rep-re-sen-ta-tion by at least one stu-dent in at 
 least 3 di-vi-sions (Arts/Humanities;
  []
 
 [49] [50] [51]
-Overfull \hbox (5.1897pt too wide) in paragraph at lines 1112--1113
+Overfull \hbox (5.1897pt too wide) in paragraph at lines 1113--1114
 []\T1/lmss/m/n/12 shall dis-cuss and make rec-om-men-da-tions to Coun-cil on is
 -sues af-fect-ing grad-u-ate stu-dents
  []
 
 [52]
-Overfull \hbox (11.72055pt too wide) in paragraph at lines 1117--1118
+Overfull \hbox (11.72055pt too wide) in paragraph at lines 1118--1119
 []\T1/lmss/m/n/12 members of the Com-mis-sion must be grad-u-ate stu-dents who 
 are women and/or in-di-vid-u-als
  []
 
 [53] [54] [55]
 LaTeX Font Info:    Try loading font information for OMS+lmss on input line 117
-3.
-LaTeX Font Info:    No file OMSlmss.fd. on input line 1173.
+4.
+LaTeX Font Info:    No file OMSlmss.fd. on input line 1174.
 
 
 LaTeX Font Warning: Font shape `OMS/lmss/m/n' undefined
 (Font)              using `OMS/cmsy/m/n' instead
-(Font)              for symbol `textbullet' on input line 1173.
+(Font)              for symbol `textbullet' on input line 1174.
 
 
-Overfull \hbox (6.74786pt too wide) in paragraph at lines 1190--1191
+Overfull \hbox (6.74786pt too wide) in paragraph at lines 1191--1192
 []\T1/lmss/m/n/12 Recuse one-self from all par-tic-i-pa-tion, in-clud-ing ad-mi
 n-is-tra-tive, in the ac-tiv-ity
  []
 
 [56] [57]
-Overfull \hbox (3.50224pt too wide) in paragraph at lines 1232--1234
+Overfull \hbox (3.50224pt too wide) in paragraph at lines 1233--1235
 []\T1/lmss/m/n/12 The ad-min-is-tra-tive and mem-ber-ship fees to be levied on 
 full and as-so-ciate mem-bers
  []
 
 
-Overfull \hbox (8.8447pt too wide) in paragraph at lines 1239--1242
+Overfull \hbox (8.8447pt too wide) in paragraph at lines 1240--1243
 []\T1/lmss/m/n/12 Any in-crease over and above the max-i-mum in-creases listed 
 above shall be in-tro-duced
  []
 
 [58] [59] [60]
-Overfull \hbox (2.51387pt too wide) in paragraph at lines 1292--1295
+Overfull \hbox (2.51387pt too wide) in paragraph at lines 1293--1296
 []\T1/lmss/m/n/12 Upon re-quest of a full or as-so-ciate mem-ber of the So-ci-e
 ty, the Pres-i-dent must con-fi-den-tially
  []
 
 [61] [62] [63] [64] [65] [66] [67] [68]
-Overfull \hbox (18.63054pt too wide) in paragraph at lines 1574--1575
+Overfull \hbox (18.63054pt too wide) in paragraph at lines 1575--1576
 []\T1/lmss/m/n/12 A mem-ber may have his or her right to en-ter the Grad Club r
 e-voked, notwith-stand-ing
  []
 
 
-Overfull \hbox (10.0102pt too wide) in paragraph at lines 1575--1576
+Overfull \hbox (10.0102pt too wide) in paragraph at lines 1576--1577
 \T1/lmss/m/n/12 notwith-stand-ing the right granted by the Con-sti-tu-tion of t
 he So-ci-ety and notwith-stand-ing
  []
 
 [69]
-Overfull \hbox (4.20718pt too wide) in paragraph at lines 1587--1588
+Overfull \hbox (4.20718pt too wide) in paragraph at lines 1588--1589
 []\T1/lmss/m/n/12 A mem-ber of the Ex-ec-u-tive may be pro-hib-ited from sign-i
 ng or en-dors-ing con-tracts
  []
 
 [70] [71]
-Overfull \hbox (28.99516pt too wide) in paragraph at lines 1605--1605
+Overfull \hbox (28.99516pt too wide) in paragraph at lines 1606--1606
  |[]\T1/lmss/bx/n/17.28 Dissemination of Amend-ments to the So-ci-ety's Gov-ern
 -ing
  []
 
 
-Overfull \hbox (10.42212pt too wide) in paragraph at lines 1610--1611
+Overfull \hbox (10.42212pt too wide) in paragraph at lines 1611--1612
 []\T1/lmss/m/n/12 Enforcement of amend-ments dur-ing the Im-ple-men-ta-tion Pha
 se shall be lim-ited to cor-rec-tions
  []
@@ -1311,7 +1316,7 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 Here is how much of TeX's memory you used:
  13751 strings out of 493698
  266950 string characters out of 3144409
- 323288 words of memory out of 3000000
+ 323211 words of memory out of 3000000
  16686 multiletter control sequences out of 15000+200000
  68500 words of font info for 51 fonts, out of 3000000 for 9000
  1030 hyphenation exceptions out of 8191
@@ -1324,7 +1329,7 @@ b><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmss17.pfb><C:/Program Fil
 es/MiKTeX 2.9/fonts/type1/public/lm/lmss8.pfb><C:/Program Files/MiKTeX 2.9/font
 s/type1/public/lm/lmssbx10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/
 lm/lmsso12.pfb>
-Output written on Unified_Docs.pdf (116 pages, 393042 bytes).
+Output written on Unified_Docs.pdf (116 pages, 393102 bytes).
 PDF statistics:
  412 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
