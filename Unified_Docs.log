@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  6 NOV 2017 12:55
+=======
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2017.9.27)  6 NOV 2017 13:00
+>>>>>>> 6ea3f3ca1813fe61a0c80c62be20a3179704e4ec
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -573,6 +577,7 @@ LaTeX Info: Redefining \_ on input line 43.
 
 
 Writing index file Unified_Docs.idx
+<<<<<<< HEAD
 (./Unified_Docs.aux (./Constitution/Constitution.aux) (./Bylaw/Bylaws.aux)
 (./Elections/Elections_Table.aux) (./Bylaw/Bylaws_Post_Election_Table.aux)
 (./Operations_Policy/Conflict_of_Interest.aux)
@@ -580,6 +585,15 @@ Writing index file Unified_Docs.idx
 (./Operations_Policy/Minutes.aux) (./Operations_Policy/Procurement.aux)
 (./Committee_Documents/BCC.aux) (./Committee_Documents/GSTA.aux)
 (./Rulings/July2013.aux) (./Rulings/Nov2014.aux))
+=======
+(Unified_Docs.aux (Constitution/Constitution.aux) (Bylaw/Bylaws.aux)
+(Elections/Elections_Table.aux) (Bylaw/Bylaws_Post_Election_Table.aux)
+(Operations_Policy/Conflict_of_Interest.aux)
+(Operations_Policy/Discipline_Code.aux) (Operations_Policy/Elections.aux)
+(Operations_Policy/Minutes.aux) (Operations_Policy/Procurement.aux)
+(Committee_Documents/BCC.aux) (Committee_Documents/GSTA.aux)
+(Rulings/July2013.aux) (Rulings/Nov2014.aux))
+>>>>>>> 6ea3f3ca1813fe61a0c80c62be20a3179704e4ec
 \openout1 = `Unified_Docs.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 88.
@@ -596,7 +610,11 @@ LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 88.
 LaTeX Font Info:    ... okay on input line 88.
 LaTeX Font Info:    Try loading font information for T1+lmss on input line 88.
 
+<<<<<<< HEAD
 (/usr/local/texlive/2017/texmf-dist/tex/latex/lm/t1lmss.fd
+=======
+("C:\Program Files\MiKTeX 2.9\tex\latex\lm\t1lmss.fd"
+>>>>>>> 6ea3f3ca1813fe61a0c80c62be20a3179704e4ec
 File: t1lmss.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 *geometry* driver: auto-detecting
@@ -1011,77 +1029,130 @@ m each Grad-u-ate As-so-ci-a-tion/Department
  []
 
 [50] [51]
+<<<<<<< HEAD
 Overfull \hbox (5.1897pt too wide) in paragraph at lines 349--350
+=======
+Overfull \hbox (5.1897pt too wide) in paragraph at lines 347--348
+>>>>>>> 6ea3f3ca1813fe61a0c80c62be20a3179704e4ec
 []\T1/lmss/m/n/12 shall dis-cuss and make rec-om-men-da-tions to Coun-cil on is
 -sues af-fect-ing grad-u-ate stu-dents
  []
 
 [52]
+<<<<<<< HEAD
 Overfull \hbox (11.72055pt too wide) in paragraph at lines 354--355
+=======
+Overfull \hbox (11.72055pt too wide) in paragraph at lines 352--353
+>>>>>>> 6ea3f3ca1813fe61a0c80c62be20a3179704e4ec
 []\T1/lmss/m/n/12 members of the Com-mis-sion must be grad-u-ate stu-dents who 
 are women and/or in-di-vid-u-als
  []
 
 [53] [54] [55]
+<<<<<<< HEAD
 LaTeX Font Info:    Try loading font information for OMS+lmss on input line 410
 .
 LaTeX Font Info:    No file OMSlmss.fd. on input line 410.
+=======
+LaTeX Font Info:    Try loading font information for OMS+lmss on input line 408
+.
+LaTeX Font Info:    No file OMSlmss.fd. on input line 408.
+>>>>>>> 6ea3f3ca1813fe61a0c80c62be20a3179704e4ec
 
 
 LaTeX Font Warning: Font shape `OMS/lmss/m/n' undefined
 (Font)              using `OMS/cmsy/m/n' instead
+<<<<<<< HEAD
 (Font)              for symbol `textbullet' on input line 410.
 
 
 Overfull \hbox (6.74786pt too wide) in paragraph at lines 427--428
+=======
+(Font)              for symbol `textbullet' on input line 408.
+
+
+Overfull \hbox (6.74786pt too wide) in paragraph at lines 425--426
+>>>>>>> 6ea3f3ca1813fe61a0c80c62be20a3179704e4ec
 []\T1/lmss/m/n/12 Recuse one-self from all par-tic-i-pa-tion, in-clud-ing ad-mi
 n-is-tra-tive, in the ac-tiv-ity
  []
 
 [56] [57]
+<<<<<<< HEAD
 Overfull \hbox (3.50224pt too wide) in paragraph at lines 469--471
+=======
+Overfull \hbox (3.50224pt too wide) in paragraph at lines 467--469
+>>>>>>> 6ea3f3ca1813fe61a0c80c62be20a3179704e4ec
 []\T1/lmss/m/n/12 The ad-min-is-tra-tive and mem-ber-ship fees to be levied on 
 full and as-so-ciate mem-bers
  []
 
 
+<<<<<<< HEAD
 Overfull \hbox (8.8447pt too wide) in paragraph at lines 476--479
+=======
+Overfull \hbox (8.8447pt too wide) in paragraph at lines 474--477
+>>>>>>> 6ea3f3ca1813fe61a0c80c62be20a3179704e4ec
 []\T1/lmss/m/n/12 Any in-crease over and above the max-i-mum in-creases listed 
 above shall be in-tro-duced
  []
 
 [58] [59] [60]
+<<<<<<< HEAD
 Overfull \hbox (2.51387pt too wide) in paragraph at lines 529--532
+=======
+Overfull \hbox (2.51387pt too wide) in paragraph at lines 527--530
+>>>>>>> 6ea3f3ca1813fe61a0c80c62be20a3179704e4ec
 []\T1/lmss/m/n/12 Upon re-quest of a full or as-so-ciate mem-ber of the So-ci-e
 ty, the Pres-i-dent must con-fi-den-tially
  []
 
 [61] [62] [63] [64] [65] [66] [67] [68]
+<<<<<<< HEAD
 Overfull \hbox (18.63054pt too wide) in paragraph at lines 811--812
+=======
+Overfull \hbox (18.63054pt too wide) in paragraph at lines 809--810
+>>>>>>> 6ea3f3ca1813fe61a0c80c62be20a3179704e4ec
 []\T1/lmss/m/n/12 A mem-ber may have his or her right to en-ter the Grad Club r
 e-voked, notwith-stand-ing
  []
 
 
+<<<<<<< HEAD
 Overfull \hbox (10.0102pt too wide) in paragraph at lines 812--813
+=======
+Overfull \hbox (10.0102pt too wide) in paragraph at lines 810--811
+>>>>>>> 6ea3f3ca1813fe61a0c80c62be20a3179704e4ec
 \T1/lmss/m/n/12 notwith-stand-ing the right granted by the Con-sti-tu-tion of t
 he So-ci-ety and notwith-stand-ing
  []
 
 [69]
+<<<<<<< HEAD
 Overfull \hbox (4.20718pt too wide) in paragraph at lines 824--825
+=======
+Overfull \hbox (4.20718pt too wide) in paragraph at lines 822--823
+>>>>>>> 6ea3f3ca1813fe61a0c80c62be20a3179704e4ec
 []\T1/lmss/m/n/12 A mem-ber of the Ex-ec-u-tive may be pro-hib-ited from sign-i
 ng or en-dors-ing con-tracts
  []
 
 [70] [71]
+<<<<<<< HEAD
 Overfull \hbox (28.99516pt too wide) in paragraph at lines 842--842
+=======
+Overfull \hbox (28.99516pt too wide) in paragraph at lines 840--840
+>>>>>>> 6ea3f3ca1813fe61a0c80c62be20a3179704e4ec
 |[]\T1/lmss/bx/n/17.28 Dissemination of Amend-ments to the So-ci-ety's Gov-ern-
 ing
  []
 
 
+<<<<<<< HEAD
 Overfull \hbox (10.42212pt too wide) in paragraph at lines 847--848
+=======
+Overfull \hbox (10.42212pt too wide) in paragraph at lines 845--846
+>>>>>>> 6ea3f3ca1813fe61a0c80c62be20a3179704e4ec
 []\T1/lmss/m/n/12 Enforcement of amend-ments dur-ing the Im-ple-men-ta-tion Pha
 se shall be lim-ited to cor-rec-tions
  []
@@ -1238,7 +1309,11 @@ Overfull \hbox (0.72375pt too wide) in paragraph at lines 30--31
 \openout2 = `Operations_Policy/Procurement.aux'.
 
 
+<<<<<<< HEAD
 (./Operations_Policy/Procurement.tex
+=======
+(Operations_Policy/Procurement.tex
+>>>>>>> 6ea3f3ca1813fe61a0c80c62be20a3179704e4ec
 Overfull \hbox (14.80577pt too wide) in paragraph at lines 13--15
 \T1/lmss/m/n/12 ac-cor-dance with the res-o-lu-tions from coun-cil, re-flect th
 e val-ues of SOGS as a not-for-profit
@@ -1427,6 +1502,7 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
+<<<<<<< HEAD
  14235 strings out of 492995
  278223 string characters out of 6132704
  339259 words of memory out of 5000000
@@ -1443,6 +1519,24 @@ type1/public/lm/lmss17.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/publ
 ic/lm/lmss8.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/lm/lmssb
 x10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/lm/lmsso12.pfb>
 Output written on Unified_Docs.pdf (116 pages, 352895 bytes).
+=======
+ 14240 strings out of 493323
+ 276440 string characters out of 3139066
+ 338532 words of memory out of 3000000
+ 17345 multiletter control sequences out of 15000+200000
+ 68500 words of font info for 51 fonts, out of 3000000 for 9000
+ 1146 hyphenation exceptions out of 8191
+ 62i,8n,56p,1048b,605s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/lm/lm-ec.enc}<C:/Program Files/M
+iKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.
+9/fonts/type1/public/lm/lmcsc10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/pu
+blic/lm/lmss10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmss12.pf
+b><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmss17.pfb><C:/Program Fil
+es/MiKTeX 2.9/fonts/type1/public/lm/lmss8.pfb><C:/Program Files/MiKTeX 2.9/font
+s/type1/public/lm/lmssbx10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/
+lm/lmsso12.pfb>
+Output written on Unified_Docs.pdf (116 pages, 393434 bytes).
+>>>>>>> 6ea3f3ca1813fe61a0c80c62be20a3179704e4ec
 PDF statistics:
  416 PDF objects out of 1000 (max. 8388607)
  286 compressed objects within 3 object streams
