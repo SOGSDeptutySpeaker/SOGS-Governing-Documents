@@ -95,7 +95,7 @@
 \contentsline {subsubsection}{\numberline {2.9.5.15}Graduate Peer Support Committee (GPS}{52}
 \contentsline {subsection}{\numberline {2.9.6}Commissions}{52}
 \contentsline {subsubsection}{\numberline {2.9.6.1}General}{52}
-\contentsline {subsubsection}{\numberline {2.9.6.2}Women's Concern Commission}{52}
+\contentsline {subsubsection}{\numberline {2.9.6.2}Women's Concern Commission}{53}
 \contentsline {subsection}{\numberline {2.9.7}Official Liaison Table}{54}
 \contentsline {section}{\numberline {2.10}Personnel}{55}
 \contentsline {section}{\numberline {2.11}Conflict of Interest}{56}
