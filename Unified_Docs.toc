@@ -29,10 +29,10 @@
 \contentsline {subsection}{\numberline {2.1.2}The President}{21}
 \contentsline {subsection}{\numberline {2.1.3}The Vice--President Advocacy}{22}
 \contentsline {subsection}{\numberline {2.1.4}The Vice-President Academic}{22}
-\contentsline {subsection}{\numberline {2.1.5}The Vice-President Student Services}{22}
-\contentsline {subsection}{\numberline {2.1.6}The Vice-President Finance}{22}
-\contentsline {section}{\numberline {2.2}Duties of the Non-Executive Officers}{24}
-\contentsline {subsection}{\numberline {2.2.1}Non-executive Officers}{24}
+\contentsline {subsection}{\numberline {2.1.5}The Vice--President Student Services}{22}
+\contentsline {subsection}{\numberline {2.1.6}The Vice--President Finance}{22}
+\contentsline {section}{\numberline {2.2}Duties of the Non--Executive Officers}{24}
+\contentsline {subsection}{\numberline {2.2.1}Non--executive Officers}{24}
 \contentsline {subsection}{\numberline {2.2.2}The Speaker}{24}
 \contentsline {subsection}{\numberline {2.2.3}The Chief Returning Officer (CRO)}{25}
 \contentsline {subsection}{\numberline {2.2.4}The Deputy Chief Returning Officer (DCRO)}{25}
@@ -55,19 +55,19 @@
 \contentsline {subsection}{\numberline {2.4.11}Validity}{33}
 \contentsline {subsection}{\numberline {2.4.12}Campaign Expenses and Subsidy}{33}
 \contentsline {section}{\numberline {2.5}Other Elections}{34}
-\contentsline {subsection}{\numberline {2.5.1}Vice-Presidents}{34}
+\contentsline {subsection}{\numberline {2.5.1}Vice--Presidents}{34}
 \contentsline {subsection}{\numberline {2.5.2}Speaker}{34}
 \contentsline {subsection}{\numberline {2.5.3}Commissioners}{35}
 \contentsline {section}{\numberline {2.6}Exceptional Circumstances}{36}
-\contentsline {subsection}{\numberline {2.6.1}By-Election}{36}
+\contentsline {subsection}{\numberline {2.6.1}By--Election}{36}
 \contentsline {subsection}{\numberline {2.6.2}Executive and Non-Executive Officers}{37}
-\contentsline {subsection}{\numberline {2.6.3}Non-Presidential By-Elections}{38}
+\contentsline {subsection}{\numberline {2.6.3}Non--Presidential By--Elections}{38}
 \contentsline {subsection}{\numberline {2.6.4}Councillor By-elections}{39}
 \contentsline {section}{\numberline {2.7}Recall}{40}
 \contentsline {subsection}{\numberline {2.7.1}General}{40}
 \contentsline {subsection}{\numberline {2.7.2}Jurisdiction}{40}
 \contentsline {subsection}{\numberline {2.7.3}Recall of the President}{41}
-\contentsline {subsection}{\numberline {2.7.4}Recall of executive, non-executive officers and committee chairpersons}{42}
+\contentsline {subsection}{\numberline {2.7.4}Recall of executive, non--executive officers and committee chairpersons}{42}
 \contentsline {subsection}{\numberline {2.7.5}Recall of Councilors}{42}
 \contentsline {subsection}{\numberline {2.7.6}Recall of Members of the Appeals Review Commission}{43}
 \contentsline {subsection}{\numberline {2.7.7}Recall of Committee Membership}{43}
