@@ -12,17 +12,17 @@
 \contentsline {subsection}{\numberline {1.5.2}Associate Membership}{12}
 \contentsline {subsection}{\numberline {1.5.3}Honorary Membership}{13}
 \contentsline {subsection}{\numberline {1.5.4}Membership Granted by Council}{13}
-\contentsline {section}{\numberline {1.6}Government}{14}
-\contentsline {subsection}{\numberline {1.6.1}The Council}{14}
-\contentsline {subsection}{\numberline {1.6.2}The Executive}{14}
-\contentsline {subsection}{\numberline {1.6.3}Non--Executive Officers}{15}
-\contentsline {subsection}{\numberline {1.6.4}Committees}{15}
-\contentsline {subsection}{\numberline {1.6.5}Term Limites for Committees}{15}
-\contentsline {section}{\numberline {1.7}Finance and banking}{16}
-\contentsline {section}{\numberline {1.8}Amendments to the Constitution and Bylaws}{17}
-\contentsline {subsection}{\numberline {1.8.1}Amendments to the Constitution}{17}
-\contentsline {subsection}{\numberline {1.8.2}Amendments to the Bylaws}{17}
-\contentsline {subsection}{\numberline {1.8.3}Dissemination of Amendments}{17}
+\contentsline {section}{\numberline {1.6}Government}{15}
+\contentsline {subsection}{\numberline {1.6.1}The Council}{15}
+\contentsline {subsection}{\numberline {1.6.2}The Executive}{15}
+\contentsline {subsection}{\numberline {1.6.3}Non--Executive Officers}{16}
+\contentsline {subsection}{\numberline {1.6.4}Committees}{16}
+\contentsline {subsection}{\numberline {1.6.5}Term Limites for Committees}{16}
+\contentsline {section}{\numberline {1.7}Finance and banking}{17}
+\contentsline {section}{\numberline {1.8}Amendments to the Constitution and Bylaws}{18}
+\contentsline {subsection}{\numberline {1.8.1}Amendments to the Constitution}{18}
+\contentsline {subsection}{\numberline {1.8.2}Amendments to the Bylaws}{18}
+\contentsline {subsection}{\numberline {1.8.3}Dissemination of Amendments}{18}
 \contentsline {chapter}{\numberline {2}Bylaws}{19}
 \contentsline {section}{\numberline {2.1}Duties of the Executive}{20}
 \contentsline {subsection}{\numberline {2.1.1}The Executive (General)}{20}
