@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2017.9.27)  18 OCT 2017 12:08
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2017.9.27)  6 NOV 2017 13:00
 entering extended mode
 **./Unified_Docs.tex
 (Unified_Docs.tex
@@ -566,7 +566,13 @@ LaTeX Info: Redefining \_ on input line 43.
 
 
 Writing index file Unified_Docs.idx
-(Unified_Docs.aux)
+(Unified_Docs.aux (Constitution/Constitution.aux) (Bylaw/Bylaws.aux)
+(Elections/Elections_Table.aux) (Bylaw/Bylaws_Post_Election_Table.aux)
+(Operations_Policy/Conflict_of_Interest.aux)
+(Operations_Policy/Discipline_Code.aux) (Operations_Policy/Elections.aux)
+(Operations_Policy/Minutes.aux) (Operations_Policy/Procurement.aux)
+(Committee_Documents/BCC.aux) (Committee_Documents/GSTA.aux)
+(Rulings/July2013.aux) (Rulings/Nov2014.aux))
 \openout1 = `Unified_Docs.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 88.
@@ -582,7 +588,8 @@ LaTeX Font Info:    ... okay on input line 88.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 88.
 LaTeX Font Info:    ... okay on input line 88.
 LaTeX Font Info:    Try loading font information for T1+lmss on input line 88.
- ("C:\Program Files\MiKTeX 2.9\tex\latex\lm\t1lmss.fd"
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\lm\t1lmss.fd"
 File: t1lmss.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 *geometry* driver: auto-detecting
@@ -992,77 +999,77 @@ m each Grad-u-ate As-so-ci-a-tion/Department
  []
 
 [50] [51]
-Overfull \hbox (5.1897pt too wide) in paragraph at lines 345--346
+Overfull \hbox (5.1897pt too wide) in paragraph at lines 347--348
 []\T1/lmss/m/n/12 shall dis-cuss and make rec-om-men-da-tions to Coun-cil on is
 -sues af-fect-ing grad-u-ate stu-dents
  []
 
 [52]
-Overfull \hbox (11.72055pt too wide) in paragraph at lines 350--351
+Overfull \hbox (11.72055pt too wide) in paragraph at lines 352--353
 []\T1/lmss/m/n/12 members of the Com-mis-sion must be grad-u-ate stu-dents who 
 are women and/or in-di-vid-u-als
  []
 
 [53] [54] [55]
-LaTeX Font Info:    Try loading font information for OMS+lmss on input line 406
+LaTeX Font Info:    Try loading font information for OMS+lmss on input line 408
 .
-LaTeX Font Info:    No file OMSlmss.fd. on input line 406.
+LaTeX Font Info:    No file OMSlmss.fd. on input line 408.
 
 
 LaTeX Font Warning: Font shape `OMS/lmss/m/n' undefined
 (Font)              using `OMS/cmsy/m/n' instead
-(Font)              for symbol `textbullet' on input line 406.
+(Font)              for symbol `textbullet' on input line 408.
 
 
-Overfull \hbox (6.74786pt too wide) in paragraph at lines 423--424
+Overfull \hbox (6.74786pt too wide) in paragraph at lines 425--426
 []\T1/lmss/m/n/12 Recuse one-self from all par-tic-i-pa-tion, in-clud-ing ad-mi
 n-is-tra-tive, in the ac-tiv-ity
  []
 
 [56] [57]
-Overfull \hbox (3.50224pt too wide) in paragraph at lines 465--467
+Overfull \hbox (3.50224pt too wide) in paragraph at lines 467--469
 []\T1/lmss/m/n/12 The ad-min-is-tra-tive and mem-ber-ship fees to be levied on 
 full and as-so-ciate mem-bers
  []
 
 
-Overfull \hbox (8.8447pt too wide) in paragraph at lines 472--475
+Overfull \hbox (8.8447pt too wide) in paragraph at lines 474--477
 []\T1/lmss/m/n/12 Any in-crease over and above the max-i-mum in-creases listed 
 above shall be in-tro-duced
  []
 
 [58] [59] [60]
-Overfull \hbox (2.51387pt too wide) in paragraph at lines 525--528
+Overfull \hbox (2.51387pt too wide) in paragraph at lines 527--530
 []\T1/lmss/m/n/12 Upon re-quest of a full or as-so-ciate mem-ber of the So-ci-e
 ty, the Pres-i-dent must con-fi-den-tially
  []
 
 [61] [62] [63] [64] [65] [66] [67] [68]
-Overfull \hbox (18.63054pt too wide) in paragraph at lines 807--808
+Overfull \hbox (18.63054pt too wide) in paragraph at lines 809--810
 []\T1/lmss/m/n/12 A mem-ber may have his or her right to en-ter the Grad Club r
 e-voked, notwith-stand-ing
  []
 
 
-Overfull \hbox (10.0102pt too wide) in paragraph at lines 808--809
+Overfull \hbox (10.0102pt too wide) in paragraph at lines 810--811
 \T1/lmss/m/n/12 notwith-stand-ing the right granted by the Con-sti-tu-tion of t
 he So-ci-ety and notwith-stand-ing
  []
 
 [69]
-Overfull \hbox (4.20718pt too wide) in paragraph at lines 820--821
+Overfull \hbox (4.20718pt too wide) in paragraph at lines 822--823
 []\T1/lmss/m/n/12 A mem-ber of the Ex-ec-u-tive may be pro-hib-ited from sign-i
 ng or en-dors-ing con-tracts
  []
 
 [70] [71]
-Overfull \hbox (28.99516pt too wide) in paragraph at lines 838--838
+Overfull \hbox (28.99516pt too wide) in paragraph at lines 840--840
 |[]\T1/lmss/bx/n/17.28 Dissemination of Amend-ments to the So-ci-ety's Gov-ern-
 ing
  []
 
 
-Overfull \hbox (10.42212pt too wide) in paragraph at lines 843--844
+Overfull \hbox (10.42212pt too wide) in paragraph at lines 845--846
 []\T1/lmss/m/n/12 Enforcement of amend-ments dur-ing the Im-ple-men-ta-tion Pha
 se shall be lim-ited to cor-rec-tions
  []
@@ -1209,12 +1216,7 @@ Overfull \hbox (0.72375pt too wide) in paragraph at lines 30--31
  wherein they ac-knowl-edge
  []
 
-[85] [86]
-
-LaTeX Warning: Reference `Presidential Subsidy' on page 87 undefined on input l
-ine 98.
-
-) [87]
+[85] [86]) [87]
 \openout2 = `Operations_Policy/Minutes.aux'.
 
  (Operations_Policy/Minutes.tex) [88
@@ -1223,7 +1225,8 @@ ine 98.
 ]
 \openout2 = `Operations_Policy/Procurement.aux'.
 
- (Operations_Policy/Procurement.tex
+
+(Operations_Policy/Procurement.tex
 Overfull \hbox (14.80577pt too wide) in paragraph at lines 13--15
 \T1/lmss/m/n/12 ac-cor-dance with the res-o-lu-tions from coun-cil, re-flect th
 e val-ues of SOGS as a not-for-profit
@@ -1410,18 +1413,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 30--40
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-
-LaTeX Warning: There were undefined references.
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
  ) 
 Here is how much of TeX's memory you used:
- 14201 strings out of 493323
- 275325 string characters out of 3139066
- 330222 words of memory out of 3000000
- 17332 multiletter control sequences out of 15000+200000
+ 14240 strings out of 493323
+ 276440 string characters out of 3139066
+ 338532 words of memory out of 3000000
+ 17345 multiletter control sequences out of 15000+200000
  68500 words of font info for 51 fonts, out of 3000000 for 9000
  1146 hyphenation exceptions out of 8191
  62i,8n,56p,1048b,605s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1433,7 +1430,7 @@ b><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmss17.pfb><C:/Program Fil
 es/MiKTeX 2.9/fonts/type1/public/lm/lmss8.pfb><C:/Program Files/MiKTeX 2.9/font
 s/type1/public/lm/lmssbx10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/
 lm/lmsso12.pfb>
-Output written on Unified_Docs.pdf (116 pages, 393711 bytes).
+Output written on Unified_Docs.pdf (116 pages, 393434 bytes).
 PDF statistics:
  412 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
