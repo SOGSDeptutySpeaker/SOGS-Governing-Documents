@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  6 NOV 2017 16:49
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  6 NOV 2017 17:19
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -767,25 +767,25 @@ File: logo.jpg Graphic file (type jpg)
 Package pdftex.def Info: logo.jpg used on input line 9.
 (pdftex.def)             Requested size: 67.75294pt x 123.46092pt.
  [7] [8] [9] [10] [11] [12] [13] [14]
-Overfull \hbox (28.61154pt too wide) in paragraph at lines 145--148
+Overfull \hbox (28.61154pt too wide) in paragraph at lines 146--147
 []\T1/lmss/m/n/12 Council shall be re-spon-si-ble for de-ter-min-ing mat-ters o
 f pol-icy and su-per-vis-ing the ad-mi-nis-tra-tion
  []
 
 
-Overfull \hbox (1.70105pt too wide) in paragraph at lines 154--156
+Overfull \hbox (1.70105pt too wide) in paragraph at lines 151--153
 []\T1/lmss/m/n/12 Enrolment for the fall term shall de-ter-mine the num-ber of 
 rep-re-sen-ta-tives each de-part-ment
  []
 
 
-Overfull \hbox (18.93445pt too wide) in paragraph at lines 154--156
+Overfull \hbox (18.93445pt too wide) in paragraph at lines 151--153
 \T1/lmss/m/n/12 (or pro-gram) shall have on Coun-cil for the aca-demic year. Th
 e spe-cific num-ber of rep-re-sen-ta-tives
  []
 
 [15]
-Overfull \hbox (9.60587pt too wide) in paragraph at lines 189--191
+Overfull \hbox (9.60587pt too wide) in paragraph at lines 186--187
 []\T1/lmss/m/n/12 The Ex-ec-u-tive shall, at its dis-cre-tion, call a meet-ing 
 of all Ex-ec-u-tive Of-fi-cers, Com-mis-sion-ers
  []
@@ -1027,12 +1027,6 @@ ty, the Pres-i-dent must con-fi-den-tially
  []
 
 [61] [62] [63] [64] [65] [66] [67] [68]
-Overfull \hbox (18.63054pt too wide) in paragraph at lines 816--817
-[]\T1/lmss/m/n/12 A mem-ber may have his or her right to en-ter the Grad Club r
-e-voked, notwith-stand-ing
- []
-
-
 Overfull \hbox (10.0102pt too wide) in paragraph at lines 817--818
 \T1/lmss/m/n/12 notwith-stand-ing the right granted by the Con-sti-tu-tion of t
 he So-ci-ety and notwith-stand-ing
@@ -1412,7 +1406,7 @@ ist/fonts/type1/public/lm/lmss12.pfb></usr/local/texlive/2017/texmf-dist/fonts/
 type1/public/lm/lmss17.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/publ
 ic/lm/lmss8.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/lm/lmssb
 x10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/lm/lmsso12.pfb>
-Output written on Unified_Docs.pdf (116 pages, 353034 bytes).
+Output written on Unified_Docs.pdf (116 pages, 353227 bytes).
 PDF statistics:
  416 PDF objects out of 1000 (max. 8388607)
  286 compressed objects within 3 object streams
