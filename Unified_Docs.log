@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  6 NOV 2017 15:47
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  6 NOV 2017 16:24
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -766,32 +766,26 @@ File: logo.jpg Graphic file (type jpg)
 <use logo.jpg>
 Package pdftex.def Info: logo.jpg used on input line 9.
 (pdftex.def)             Requested size: 67.75294pt x 123.46092pt.
- [7] [8] [9] [10] [11]
-Overfull \hbox (11.86339pt too wide) in paragraph at lines 97--98
-[]\T1/lmss/m/n/12 a Leave of Ab-sence hav-ing been granted by the School of Gra
-d-u-ate and Post-doc-toral
- []
-
-[12] [13] [14]
-Overfull \hbox (28.61154pt too wide) in paragraph at lines 145--146
+ [7] [8] [9] [10] [11] [12] [13] [14]
+Overfull \hbox (28.61154pt too wide) in paragraph at lines 145--148
 []\T1/lmss/m/n/12 Council shall be re-spon-si-ble for de-ter-min-ing mat-ters o
 f pol-icy and su-per-vis-ing the ad-mi-nis-tra-tion
  []
 
 
-Overfull \hbox (1.70105pt too wide) in paragraph at lines 150--151
+Overfull \hbox (1.70105pt too wide) in paragraph at lines 154--156
 []\T1/lmss/m/n/12 Enrolment for the fall term shall de-ter-mine the num-ber of 
 rep-re-sen-ta-tives each de-part-ment
  []
 
 
-Overfull \hbox (18.93445pt too wide) in paragraph at lines 150--151
+Overfull \hbox (18.93445pt too wide) in paragraph at lines 154--156
 \T1/lmss/m/n/12 (or pro-gram) shall have on Coun-cil for the aca-demic year. Th
 e spe-cific num-ber of rep-re-sen-ta-tives
  []
 
 [15]
-Overfull \hbox (9.60587pt too wide) in paragraph at lines 182--184
+Overfull \hbox (9.60587pt too wide) in paragraph at lines 189--191
 []\T1/lmss/m/n/12 The Ex-ec-u-tive shall, at its dis-cre-tion, call a meet-ing 
 of all Ex-ec-u-tive Of-fi-cers, Com-mis-sion-ers
  []
@@ -815,9 +809,9 @@ Overfull \hbox (17.62482pt too wide) in paragraph at lines 4--9
 
 
 ]
-Overfull \hbox (0.2099pt too wide) in paragraph at lines 33--34
+Overfull \hbox (2.16821pt too wide) in paragraph at lines 33--34
 []\T1/lmss/m/n/12 shall not oc-cupy a vot-ing po-si-tion on any com-mit-tee, ex
--cept-ing ex-officio vot-ing per-mis-sions
+-cept-ing ex--officio vot-ing per-mis-sions
  []
 
 
@@ -922,31 +916,25 @@ Overfull \hbox (36.20438pt too wide) in paragraph at lines 183--187
 ge the va-lid-ity of an elec-tion/referendum
  []
 
-) [33]
-Overfull \hbox (33.84966pt too wide) in paragraph at lines 430--432
-[]\T1/lmss/m/n/12 Nominations for the elec-tions of the Vice--President Af-fair
-s and Com-mu-ni-ca-tions, Vice--President
- []
-
-[34] [35] [36] [37]
+) [33] [34] [35] [36] [37]
 Overfull \hbox (0.6631pt too wide) in paragraph at lines 553--554
 []\T1/lmss/m/n/12 by a mem-ber elected Speaker pro tem at a Coun-cil meet-ing. 
 The Pres-i-dent
  []
 
 [38] [39] [40]
-Underfull \hbox (badness 10000) in paragraph at lines 664--665
+Underfull \hbox (badness 10000) in paragraph at lines 662--663
 
  []
 
 
-Overfull \hbox (9.18173pt too wide) in paragraph at lines 667--668
+Overfull \hbox (9.18173pt too wide) in paragraph at lines 665--666
 []\T1/lmss/m/n/12 Departments or Pro-grams with-out a duly con-sti-tuted Grad-u
 -ate Stu-dent As-so-ci-a-tion
  []
 
 [41]
-Overfull \hbox (35.81093pt too wide) in paragraph at lines 701--701
+Overfull \hbox (35.81093pt too wide) in paragraph at lines 699--699
 |[]\T1/lmss/bx/n/14.4 Recall of ex-ec-u-tive, non--executive of-fi-cers and com
 -mit-tee chair-per-sons| 
  []
@@ -1424,7 +1412,7 @@ ist/fonts/type1/public/lm/lmss12.pfb></usr/local/texlive/2017/texmf-dist/fonts/
 type1/public/lm/lmss17.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/publ
 ic/lm/lmss8.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/lm/lmssb
 x10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/lm/lmsso12.pfb>
-Output written on Unified_Docs.pdf (116 pages, 353058 bytes).
+Output written on Unified_Docs.pdf (116 pages, 353014 bytes).
 PDF statistics:
  416 PDF objects out of 1000 (max. 8388607)
  286 compressed objects within 3 object streams
