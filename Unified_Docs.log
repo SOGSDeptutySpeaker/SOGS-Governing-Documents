@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  6 NOV 2017 16:24
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  6 NOV 2017 16:49
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -975,9 +975,9 @@ least 3 di-vi-sions (Arts/Humanities;
  []
 
 [49]
-Overfull \hbox (34.05524pt too wide) in paragraph at lines 227--229
-[]\T1/lmss/m/n/12 shall en-deavor to co-or-di-nate with rep-re-sen-ta-tions fro
-m each Grad-u-ate As-so-ci-a-tion/Department
+Overfull \hbox (40.41017pt too wide) in paragraph at lines 227--229
+[]\T1/lmss/m/n/12 shall en-deav-our to co-or-di-nate with rep-re-sen-ta-tions f
+rom each Grad-u-ate As-so-ci-a-tion/Department
  []
 
 [50] [51]
@@ -1412,7 +1412,7 @@ ist/fonts/type1/public/lm/lmss12.pfb></usr/local/texlive/2017/texmf-dist/fonts/
 type1/public/lm/lmss17.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/publ
 ic/lm/lmss8.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/lm/lmssb
 x10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/lm/lmsso12.pfb>
-Output written on Unified_Docs.pdf (116 pages, 353014 bytes).
+Output written on Unified_Docs.pdf (116 pages, 353034 bytes).
 PDF statistics:
  416 PDF objects out of 1000 (max. 8388607)
  286 compressed objects within 3 object streams
