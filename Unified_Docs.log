@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  6 NOV 2017 17:19
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  17 NOV 2017 15:00
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -746,7 +746,7 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 \openout5 = `Unified_Docs.toc'.
 
 
-Underfull \vbox (badness 2608) has occurred while \output is active []
+Underfull \vbox (badness 1655) has occurred while \output is active []
 
  [5]
 \openout2 = `Constitution/Constitution.aux'.
@@ -933,13 +933,7 @@ Overfull \hbox (9.18173pt too wide) in paragraph at lines 665--666
 -ate Stu-dent As-so-ci-a-tion
  []
 
-[41]
-Overfull \hbox (35.81093pt too wide) in paragraph at lines 699--699
-|[]\T1/lmss/bx/n/14.4 Recall of ex-ec-u-tive, non--executive of-fi-cers and com
--mit-tee chair-per-sons| 
- []
-
-[42] [43])
+[41] [42] [43])
 \openout2 = `Elections/Elections_Table.aux'.
 
  (./Elections/Elections_Table.tex
@@ -969,83 +963,83 @@ Overfull \hbox (3.85255pt too wide) in paragraph at lines 84--85
  []
 
 [46] [47] [48]
-Overfull \hbox (1.49677pt too wide) in paragraph at lines 192--193
+Overfull \hbox (37.95445pt too wide) in paragraph at lines 196--197
 []\T1/lmss/m/n/12 shall have rep-re-sen-ta-tion by at least one stu-dent in at 
-least 3 di-vi-sions (Arts/Humanities;
+least three (3) di-vi-sions (Arts/Humanities;
  []
 
 [49]
-Overfull \hbox (40.41017pt too wide) in paragraph at lines 227--229
+Overfull \hbox (40.41017pt too wide) in paragraph at lines 231--233
 []\T1/lmss/m/n/12 shall en-deav-our to co-or-di-nate with rep-re-sen-ta-tions f
 rom each Grad-u-ate As-so-ci-a-tion/Department
  []
 
 [50] [51]
-Overfull \hbox (5.1897pt too wide) in paragraph at lines 349--350
+Overfull \hbox (5.1897pt too wide) in paragraph at lines 353--354
 []\T1/lmss/m/n/12 shall dis-cuss and make rec-om-men-da-tions to Coun-cil on is
 -sues af-fect-ing grad-u-ate stu-dents
  []
 
 [52]
-Overfull \hbox (11.72055pt too wide) in paragraph at lines 354--355
+Overfull \hbox (11.72055pt too wide) in paragraph at lines 358--359
 []\T1/lmss/m/n/12 members of the Com-mis-sion must be grad-u-ate stu-dents who 
 are women and/or in-di-vid-u-als
  []
 
 [53] [54] [55]
-LaTeX Font Info:    Try loading font information for OMS+lmss on input line 410
+LaTeX Font Info:    Try loading font information for OMS+lmss on input line 414
 .
-LaTeX Font Info:    No file OMSlmss.fd. on input line 410.
+LaTeX Font Info:    No file OMSlmss.fd. on input line 414.
 
 
 LaTeX Font Warning: Font shape `OMS/lmss/m/n' undefined
 (Font)              using `OMS/cmsy/m/n' instead
-(Font)              for symbol `textbullet' on input line 410.
+(Font)              for symbol `textbullet' on input line 414.
 
 
-Overfull \hbox (6.74786pt too wide) in paragraph at lines 427--428
+Overfull \hbox (6.74786pt too wide) in paragraph at lines 431--432
 []\T1/lmss/m/n/12 Recuse one-self from all par-tic-i-pa-tion, in-clud-ing ad-mi
 n-is-tra-tive, in the ac-tiv-ity
  []
 
 [56] [57]
-Overfull \hbox (3.50224pt too wide) in paragraph at lines 469--471
+Overfull \hbox (3.50224pt too wide) in paragraph at lines 473--475
 []\T1/lmss/m/n/12 The ad-min-is-tra-tive and mem-ber-ship fees to be levied on 
 full and as-so-ciate mem-bers
  []
 
 
-Overfull \hbox (8.8447pt too wide) in paragraph at lines 476--479
+Overfull \hbox (8.8447pt too wide) in paragraph at lines 480--483
 []\T1/lmss/m/n/12 Any in-crease over and above the max-i-mum in-creases listed 
 above shall be in-tro-duced
  []
 
 [58] [59] [60]
-Overfull \hbox (2.51387pt too wide) in paragraph at lines 529--532
+Overfull \hbox (2.51387pt too wide) in paragraph at lines 533--536
 []\T1/lmss/m/n/12 Upon re-quest of a full or as-so-ciate mem-ber of the So-ci-e
 ty, the Pres-i-dent must con-fi-den-tially
  []
 
 [61] [62] [63] [64] [65] [66] [67] [68]
-Overfull \hbox (10.0102pt too wide) in paragraph at lines 817--818
+Overfull \hbox (10.0102pt too wide) in paragraph at lines 821--822
 \T1/lmss/m/n/12 notwith-stand-ing the right granted by the Con-sti-tu-tion of t
 he So-ci-ety and notwith-stand-ing
  []
 
 [69]
-Overfull \hbox (4.20718pt too wide) in paragraph at lines 829--830
+Overfull \hbox (4.20718pt too wide) in paragraph at lines 833--834
 []\T1/lmss/m/n/12 A mem-ber of the Ex-ec-u-tive may be pro-hib-ited from sign-i
 ng or en-dors-ing con-tracts
  []
 
 [70] [71]
-Overfull \hbox (28.99516pt too wide) in paragraph at lines 847--847
+Overfull \hbox (28.99516pt too wide) in paragraph at lines 851--851
 |[]\T1/lmss/bx/n/17.28 Dissemination of Amend-ments to the So-ci-ety's Gov-ern-
 ing
  []
 
 
-Overfull \hbox (10.42212pt too wide) in paragraph at lines 852--853
+Overfull \hbox (10.42212pt too wide) in paragraph at lines 856--857
 []\T1/lmss/m/n/12 Enforcement of amend-ments dur-ing the Im-ple-men-ta-tion Pha
 se shall be lim-ited to cor-rec-tions
  []
@@ -1067,12 +1061,6 @@ Overfull \hbox (2.45877pt too wide) in paragraph at lines 29--31
 [74
 
 ]
-Overfull \hbox (19.49866pt too wide) in paragraph at lines 34--36
-[]\T1/lmss/m/n/12 A tri-bunal shall con-sist of four SOGS mem-bers in good stan
-d-ing: the Speaker (non-voting),
- []
-
-
 Overfull \hbox (10.13614pt too wide) in paragraph at lines 37--40
 []\T1/lmss/m/n/12 The tri-bunal shall as-sem-ble within seven busi-ness days, b
 ar-ring un-fore-seen cir-cum-stances,
@@ -1391,12 +1379,12 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 14235 strings out of 492995
- 278223 string characters out of 6132704
- 339260 words of memory out of 5000000
+ 14236 strings out of 492995
+ 278236 string characters out of 6132704
+ 339262 words of memory out of 5000000
  17357 multiletter control sequences out of 15000+600000
  68500 words of font info for 51 fonts, out of 8000000 for 9000
- 1146 hyphenation exceptions out of 8191
+ 1147 hyphenation exceptions out of 8191
  62i,8n,56p,1045b,605s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2017/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}</usr/local/
 texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/t
@@ -1406,7 +1394,7 @@ ist/fonts/type1/public/lm/lmss12.pfb></usr/local/texlive/2017/texmf-dist/fonts/
 type1/public/lm/lmss17.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/publ
 ic/lm/lmss8.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/lm/lmssb
 x10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/lm/lmsso12.pfb>
-Output written on Unified_Docs.pdf (116 pages, 353227 bytes).
+Output written on Unified_Docs.pdf (116 pages, 353286 bytes).
 PDF statistics:
  416 PDF objects out of 1000 (max. 8388607)
  286 compressed objects within 3 object streams
