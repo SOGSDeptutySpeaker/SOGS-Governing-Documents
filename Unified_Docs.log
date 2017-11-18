@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2017.9.27)  17 NOV 2017 23:21
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2017.9.27)  18 NOV 2017 00:38
 entering extended mode
 **./Unified_Docs.tex
 (Unified_Docs.tex
@@ -492,27 +492,32 @@ Package: enumitem 2011/09/28 v3.5.2 Customized lists
 \enit@inbox=\box64
 \enitdp@description=\count126
 )
-\c@longenumi=\count127
-\c@longenumii=\count128
-\c@longenumiii=\count129
-\c@longenumiv=\count130
-\c@longenumv=\count131
-\c@longenumvi=\count132
-\c@longenumvii=\count133
-\c@longenumviii=\count134
-\c@longenumix=\count135
-\c@longenumx=\count136
-\c@longenumxi=\count137
-\c@longenumxii=\count138
-\c@longenumxiii=\count139
-\c@longenumxiv=\count140
-\c@longenumxv=\count141
-\c@longenumxvi=\count142
-\c@longenumxvii=\count143
-\c@longenumxviii=\count144
-\c@longenumxix=\count145
-\c@longenumxx=\count146
-\enitdp@longenum=\count147
+("C:\Program Files\MiKTeX 2.9\tex\latex\endnotes\endnotes.sty"
+\c@endnote=\count127
+\endnotesep=\dimen177
+\@enotes=\write4
+)
+\c@longenumi=\count128
+\c@longenumii=\count129
+\c@longenumiii=\count130
+\c@longenumiv=\count131
+\c@longenumv=\count132
+\c@longenumvi=\count133
+\c@longenumvii=\count134
+\c@longenumviii=\count135
+\c@longenumix=\count136
+\c@longenumx=\count137
+\c@longenumxi=\count138
+\c@longenumxii=\count139
+\c@longenumxiii=\count140
+\c@longenumxiv=\count141
+\c@longenumxv=\count142
+\c@longenumxvi=\count143
+\c@longenumxvii=\count144
+\c@longenumxviii=\count145
+\c@longenumxix=\count146
+\c@longenumxx=\count147
+\enitdp@longenum=\count148
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\lm\lmodern.sty"
 Package: lmodern 2009/10/30 v1.6 Latin Modern Fonts
@@ -561,8 +566,8 @@ Package: hyphenat 2009/09/02 v2.3c hyphenation utilities
 \langwohyphens=\language76
 LaTeX Info: Redefining \_ on input line 43.
 )
-\@indexfile=\write4
-\openout4 = `Unified_Docs.idx'.
+\@indexfile=\write5
+\openout5 = `Unified_Docs.idx'.
 
 
 Writing index file Unified_Docs.idx
@@ -575,19 +580,19 @@ Writing index file Unified_Docs.idx
 (Rulings/July2013.aux) (Rulings/Nov2014.aux) (Rulings/Nov2017.aux))
 \openout1 = `Unified_Docs.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 88.
-LaTeX Font Info:    ... okay on input line 88.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 88.
-LaTeX Font Info:    ... okay on input line 88.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 88.
-LaTeX Font Info:    ... okay on input line 88.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 88.
-LaTeX Font Info:    ... okay on input line 88.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 88.
-LaTeX Font Info:    ... okay on input line 88.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 88.
-LaTeX Font Info:    ... okay on input line 88.
-LaTeX Font Info:    Try loading font information for T1+lmss on input line 88.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 89.
+LaTeX Font Info:    ... okay on input line 89.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 89.
+LaTeX Font Info:    ... okay on input line 89.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 89.
+LaTeX Font Info:    ... okay on input line 89.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 89.
+LaTeX Font Info:    ... okay on input line 89.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 89.
+LaTeX Font Info:    ... okay on input line 89.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 89.
+LaTeX Font Info:    ... okay on input line 89.
+LaTeX Font Info:    Try loading font information for T1+lmss on input line 89.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\lm\t1lmss.fd"
 File: t1lmss.fd 2009/10/30 v1.6 Font defs for Latin Modern
@@ -628,16 +633,16 @@ File: t1lmss.fd 2009/10/30 v1.6 Font defs for Latin Modern
 
 ("C:\Program Files\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count148
-\scratchdimen=\dimen177
+\scratchcounter=\count149
+\scratchdimen=\dimen178
 \scratchbox=\box65
-\nofMPsegments=\count149
-\nofMParguments=\count150
+\nofMPsegments=\count150
+\nofMParguments=\count151
 \everyMPshowfont=\toks32
-\MPscratchCnt=\count151
-\MPscratchDim=\dimen178
-\MPnumerator=\count152
-\makeMPintoPDFobject=\count153
+\MPscratchCnt=\count152
+\MPscratchDim=\dimen179
+\MPnumerator=\count153
+\makeMPintoPDFobject=\count154
 \everyMPtoPDFconversion=\toks33
 ) ("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\pdftexcmds.sty"
 Package: pdftexcmds 2017/03/19 v0.25 Utility functions of pdfTeX for LuaTeX (HO
@@ -685,19 +690,19 @@ ABD: EveryShipout initializing macros
 <logo.jpg, id=4, 67.75313pt x 123.46124pt>
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 92.
+Package pdftex.def Info: logo.jpg used on input line 93.
 (pdftex.def)             Requested size: 67.75294pt x 123.46092pt.
-LaTeX Font Info:    Try loading font information for T1+lmr on input line 92.
+LaTeX Font Info:    Try loading font information for T1+lmr on input line 93.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\lm\t1lmr.fd"
 File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 
 LaTeX Font Warning: Font shape `T1/lmss/m/sc' in size <12> not available
-(Font)              Font shape `T1/lmr/m/sc' tried instead on input line 92.
+(Font)              Font shape `T1/lmr/m/sc' tried instead on input line 93.
 
 LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <12> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 92.
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 93.
 [1
 
 {C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map} <./logo.jpg>] [2
@@ -730,8 +735,8 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <6> on input line 3.
  [3] [4])
-\tf@toc=\write5
-\openout5 = `Unified_Docs.toc'.
+\tf@toc=\write6
+\openout6 = `Unified_Docs.toc'.
 
 
 Underfull \vbox (badness 1655) has occurred while \output is active []
@@ -1363,7 +1368,7 @@ their un-der-stood res-ig-na-tion.
 
 
 ] [108])
-Underfull \hbox (badness 10000) in paragraph at lines 76--127
+Underfull \hbox (badness 10000) in paragraph at lines 77--128
 
  []
 
@@ -1386,10 +1391,10 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 14249 strings out of 493323
- 276592 string characters out of 3139066
- 339174 words of memory out of 3000000
- 17346 multiletter control sequences out of 15000+200000
+ 14287 strings out of 493323
+ 277148 string characters out of 3139066
+ 339780 words of memory out of 3000000
+ 17380 multiletter control sequences out of 15000+200000
  68500 words of font info for 51 fonts, out of 3000000 for 9000
  1147 hyphenation exceptions out of 8191
  62i,8n,56p,1048b,605s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1401,7 +1406,7 @@ b><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmss17.pfb><C:/Program Fil
 es/MiKTeX 2.9/fonts/type1/public/lm/lmss8.pfb><C:/Program Files/MiKTeX 2.9/font
 s/type1/public/lm/lmssbx10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/
 lm/lmsso12.pfb>
-Output written on Unified_Docs.pdf (120 pages, 405643 bytes).
+Output written on Unified_Docs.pdf (120 pages, 405861 bytes).
 PDF statistics:
  424 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
