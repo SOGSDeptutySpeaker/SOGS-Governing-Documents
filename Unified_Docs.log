@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  20 NOV 2017 15:22
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  20 NOV 2017 15:31
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1202,12 +1202,6 @@ Overfull \hbox (3.74823pt too wide) in paragraph at lines 55--57
 
 
 (./Operations_Policy/Procurement.tex
-Overfull \hbox (14.80577pt too wide) in paragraph at lines 13--15
-\T1/lmss/m/n/12 ac-cor-dance with the res-o-lu-tions from coun-cil, re-flect th
-e val-ues of SOGS as a not-for-profit
- []
-
-
 Overfull \hbox (7.3762pt too wide) in paragraph at lines 25--27
 []\T1/lmss/bx/n/12 Requisitioning Com-mit-tee: \T1/lmss/m/n/12 The com-mit-tee 
 which pre-pares a pro-cure-ment pro-cess
@@ -1261,12 +1255,6 @@ Overfull \hbox (3.92752pt too wide) in paragraph at lines 131--132
  ra-tio-nale of the req-ui-si-tion-ing
  []
 
-
-Overfull \hbox (3.48708pt too wide) in paragraph at lines 137--138
-\T1/lmss/m/n/12 prece-dents as a non-voting mem-ber. The req-ui-si-tion-ing com
--mit-tee re-views all re-sponses
- []
-
 [93] [94]
 Overfull \hbox (14.22508pt too wide) in paragraph at lines 195--196
 []\T1/lmss/m/n/12 The re-port shall in-clude: the rec-om-men-da-tion and ra-tio
@@ -1289,12 +1277,6 @@ fit or co-op-er-a-tive
 Overfull \hbox (6.58542pt too wide) in paragraph at lines 232--233
 []\T1/lmss/m/n/12 The Ori-en-ta-tion and So-cial Com-mit-tee shall be the req-u
 i-si-tion-ing com-mit-tee
- []
-
-
-Overfull \hbox (16.8431pt too wide) in paragraph at lines 236--237
-[]\T1/lmss/m/n/12 At least one bid must be sought from a non-profit/not-for-pro
-fit or co-op-er-a-tive
  []
 
 ) [96]
@@ -1424,7 +1406,7 @@ ist/fonts/type1/public/lm/lmss12.pfb></usr/local/texlive/2017/texmf-dist/fonts/
 type1/public/lm/lmss17.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/publ
 ic/lm/lmss8.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/lm/lmssb
 x10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/lm/lmsso12.pfb>
-Output written on Unified_Docs.pdf (120 pages, 363795 bytes).
+Output written on Unified_Docs.pdf (120 pages, 363996 bytes).
 PDF statistics:
  428 PDF objects out of 1000 (max. 8388607)
  294 compressed objects within 3 object streams
