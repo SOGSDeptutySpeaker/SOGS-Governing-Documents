@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  20 NOV 2017 16:19
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  20 NOV 2017 16:40
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1283,7 +1283,11 @@ Chapter 4.
 [97
 
 
+] [98
+
 ]
+Chapter 5.
+[99]
 \openout2 = `Rulings/July2013.aux'.
 
  (./Rulings/July2013.tex
@@ -1292,7 +1296,7 @@ Overfull \hbox (5.09343pt too wide) in paragraph at lines 35--36
 ers of the In-ves-tiga-tive
  []
 
-[98
+[100
 
 ]
 LaTeX Font Info:    External font `lmex10' loaded for size
@@ -1301,12 +1305,12 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <7> on input line 54.
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <5> on input line 54.
- [99] [100]
+ [101] [102]
 Underfull \hbox (badness 10000) in paragraph at lines 87--97
 
  []
 
-) [101]
+) [103]
 \openout2 = `Rulings/Nov2014.aux'.
 
  (./Rulings/Nov2014.tex
@@ -1320,7 +1324,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 30--40
 
  []
 
-) [102
+) [104
 
 
 ]
@@ -1332,19 +1336,19 @@ Overfull \hbox (0.24078pt too wide) in paragraph at lines 29--30
 their un-der-stood res-ig-na-tion. 
  []
 
-[103
+[105
 
 
-] [104])
-Underfull \hbox (badness 10000) in paragraph at lines 77--128
+] [106])
+Underfull \hbox (badness 10000) in paragraph at lines 77--130
 
  []
 
-[105] (./Unified_Docs.ind [106
+[107] (./Unified_Docs.ind [108
 
 
-] [107] [108] [109] [110] [111] [112] [113]
-[114] [115] [116
+] [109] [110] [111] [112] [113] [114] [115]
+[116] [117] [118
 
 ]) (./Unified_Docs.aux (./Constitution/Constitution.aux)
 (./Bylaw/Bylaws.aux) (./Elections/Elections_Table.aux)
@@ -1373,10 +1377,10 @@ ist/fonts/type1/public/lm/lmss12.pfb></usr/local/texlive/2017/texmf-dist/fonts/
 type1/public/lm/lmss17.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/publ
 ic/lm/lmss8.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/lm/lmssb
 x10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/lm/lmsso12.pfb>
-Output written on Unified_Docs.pdf (116 pages, 361404 bytes).
+Output written on Unified_Docs.pdf (118 pages, 361859 bytes).
 PDF statistics:
- 416 PDF objects out of 1000 (max. 8388607)
- 286 compressed objects within 3 object streams
+ 422 PDF objects out of 1000 (max. 8388607)
+ 290 compressed objects within 3 object streams
  0 named destinations out of 1000 (max. 500000)
  18 words of extra memory for PDF output out of 10000 (max. 10000000)
 

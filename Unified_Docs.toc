@@ -123,4 +123,5 @@
 \contentsline {section}{\numberline {3.3}Elections Policy}{85}
 \contentsline {section}{\numberline {3.4}Minutes Writing Policy}{89}
 \contentsline {section}{\numberline {3.5}Procurement}{90}
-\contentsline {chapter}{\numberline {4}Speaker's Rulings}{97}
+\contentsline {chapter}{\numberline {4}Committee Policies}{97}
+\contentsline {chapter}{\numberline {5}Speaker's Rulings}{99}
