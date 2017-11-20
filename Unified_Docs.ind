@@ -10,6 +10,7 @@
 
   \indexspace
 
+  \item Absenteeism, 46
   \item Accountant, 22
   \item Accounts Manager, 22
   \item Ad Hoc Committee
@@ -52,23 +53,23 @@
     \subitem Election, 31
   \item Budget, 23
     \subitem Amendment
-      \subsubitem Consulting Finance Committee, 48
+      \subsubitem Consulting Finance Committee, 49
     \subitem Fee Changes, 58
     \subitem Fees
       \subsubitem Consumer Price Index, 58
     \subitem Finance Committee
       \subsubitem Assist Creation, 49
     \subitem Grad Club
-      \subsubitem Grad Club Committee Consultation, 49
+      \subsubitem Grad Club Committee Consultation, 50
     \subitem Graduate Support Program
       \subsubitem Maximum Help, 60
     \subitem Preparation
       \subsubitem Finance Committee, 58
-      \subsubitem Vice-President Finance, 58
+      \subsubitem Vice--President Finance, 58
   \item Bus Pass, 90
-  \item By-Election
+  \item By--Election
     \subitem Councilor, 39
-    \subitem Non-Presidential, 38
+    \subitem Non--Presidential, 38
       \subsubitem Council, 38
       \subsubitem No Candidates, 38
       \subsubitem Nomination, 38
@@ -80,13 +81,15 @@
       \subsubitem Nomination Period, 36
       \subsubitem Rescheduling Due to Lack of Candidates, 37
       \subsubitem Scrutineer, 36
-      \subsubitem Spending Limit, 36
+      \subsubitem Spending Limit, 37
       \subsubitem Tie Breaking Vote, 36
       \subsubitem Use of Media, 36
       \subsubitem Use of Society Space, 36
     \subitem Recall
-      \subsubitem Extra Scrutineer, 42
       \subsubitem President, 41
+  \item By-Election
+    \subitem Recall
+      \subsubitem Extra Scrutineer, 42
     \subitem Resignation, 36
   \item Bylaw
     \subitem Amendment, 18
@@ -108,22 +111,22 @@
     \subitem General Meeting, 24
   \item Chairperson
     \subitem Academic
-      \subsubitem Interim VP-Academic, 37
+      \subsubitem Interim Vice--President Academic, 37
     \subitem Appeals Review Commission
       \subsubitem Duties, 82
     \subitem Bylaws and Constitution, 28
       \subsubitem Advise Members, 48
       \subsubitem Assist Speaker, 48
-      \subsubitem Ex Officio DCRO, 48
-      \subsubitem Ex-officio member of Policy Committee, 48
+      \subsubitem Ex--Officio DCRO, 48
+      \subsubitem Ex--officio member of Policy Committee, 48
       \subsubitem Familiarity with Roberts Rules, 48
       \subsubitem Interim CRO, 38
       \subsubitem Interim Speaker, 38
       \subsubitem Serve as Speaker Pro Tem, 48
     \subitem Equity
-      \subsubitem Interim VP-External, 37
+      \subsubitem Interim Vice--President Advocacy, 37
     \subitem Finance
-      \subsubitem Interim VP-Finance, 37
+      \subsubitem Interim Vice-President Finance, 37
     \subitem General Duties, 45
       \subsubitem Agenda, 45
       \subsubitem Annual Report, 46
@@ -135,26 +138,26 @@
       \subsubitem Notifying Speaker of Vacancy, 45
       \subsubitem Selection, 45
     \subitem Grad Club
-      \subsubitem Interim VP-Finance, 37
+      \subsubitem Interim Vice--President Finance, 37
     \subitem Gradcast
       \subsubitem Interim VP-Academic, 37
     \subitem GSIC
-      \subsubitem Interim VP-External, 37
+      \subsubitem Interim Vice--President Advocacy, 37
     \subitem GSTA
-      \subsubitem Interim VP-Academic, 37
+      \subsubitem Interim Vice--President Academic, 37
       \subsubitem Mandate, 48
     \subitem Health Plan
-      \subsubitem Interim VP-Student Services, 37
+      \subsubitem Interim Vice--President Student Services, 37
     \subitem IGSIC
-      \subsubitem Interim VP-Student Services, 37
+      \subsubitem Interim Vice--President Student Services, 37
     \subitem Orientation and Social
-      \subsubitem Interim VP-Student Services, 37
+      \subsubitem Interim Vice--President Student Services, 37
     \subitem Policy
-      \subsubitem Ex-Officio BCC Member, 51
+      \subsubitem Ex--Officio BCC Member, 51
       \subsubitem Motions Database, 51
       \subsubitem Policy Manual, 51
     \subitem Sustainability
-      \subsubitem Interim VP-Finance, 37
+      \subsubitem Interim Vice--President Finance, 37
   \item Chief Financial Officer, 22
   \item Chief Returning Officer
     \subitem All Candidates Meeting, 31
@@ -171,9 +174,10 @@
     \subitem Remuneration, 25
     \subitem Succession, 38
   \item Commission, 52
-    \subitem Women's Consern Commission
-      \subsubitem Mandate, 52
+    \subitem Women's Concern Commission
       \subsubitem Membership, 53
+    \subitem Women's Consern Commission
+      \subsubitem Mandate, 53
   \item Commissioner, 26
     \subitem Constituency, 26
     \subitem Constituency Meeting
@@ -192,6 +196,8 @@
       \subsubitem Ballot, 35
       \subsubitem Term, 35
     \subitem Ex-Officio on of Equity Committee, 51
+    \subitem Liaison
+      \subsubitem Vice--President Advocacy, 22
     \subitem Mandate, 26
     \subitem Recall, 26, 27, 41
       \subsubitem Vote, 42
@@ -226,18 +232,18 @@
     \subitem Disbanding, 45
     \subitem Electing a Chairperson, 38
     \subitem Equity Issues Committee
-      \subsubitem Commissioner as ex-Officio, 51
+      \subsubitem Commissioner as ex--Officio, 51
       \subsubitem Mandate, 51
     \subitem Executive Participation, 20
       \subsubitem President, The, 21
     \subitem Finance
-      \subsubitem Assist VP Finance, 49
+      \subsubitem Assist Vice--President Finance, 49
       \subsubitem Budget, 58
-      \subsubitem Budget Amendments, 48
-      \subsubitem Mandate, 48
-      \subsubitem Monitor Long-Term Investments, 49
+      \subsubitem Budget Amendments, 49
+      \subsubitem Mandate, 49
+      \subsubitem Monitor Long--Term Investments, 49
     \subitem Grad Club Committee
-      \subsubitem Assist Budget Making, 49
+      \subsubitem Assist Budget Making, 50
       \subsubitem Grad Club Oversight, 49
       \subsubitem Mandate, 49
       \subsubitem Review Grad Club Policies, 49
@@ -247,15 +253,16 @@
       \subsubitem Mandate, 52
     \subitem GSIC
       \subsubitem Mandate, 50
-      \subsubitem Select Non-Executive Delegates to CFS, 50
+      \subsubitem Select Non--Executive Delegates to CFS, 51
     \subitem GSTA
       \subsubitem Composition, 48
       \subsubitem Equal Distribution, 48
       \subsubitem Mandate, 48
       \subsubitem PSAC 610, 48
     \subitem Health Plan
-      \subsubitem Ex-Officio, 51
+      \subsubitem Ex-Officio, 52
       \subsubitem Mandate, 51
+      \subsubitem Mental health and wellness, 52
     \subitem Honoraria, 20
     \subitem IGSIC
       \subsubitem Mandate, 50
@@ -286,6 +293,10 @@
       \subsubitem Role, 47
     \subitem Quorum, 46
       \subsubitem Determining Quorum, 46
+    \subitem Recall, 43
+      \subsubitem Procedure, 107
+    \subitem Removal
+      \subsubitem Absenteeism, 107
     \subitem Submitting Business to Council, 63
     \subitem Sustainability
       \subsubitem Mandate, 52
@@ -444,8 +455,8 @@
     \subitem Appeals Review Commission, 30
     \subitem Balloting System, 30
     \subitem Board of Governor, 31
-    \subitem By-Election, 36
-      \subsubitem Non-Presidential, 38
+    \subitem By--Election, 36
+      \subsubitem Non--Presidential, 38
     \subitem Call of Nomination, 30
     \subitem Campaign, 31
       \subsubitem All Candidates Meeting, 31
@@ -479,7 +490,7 @@
       \subsubitem Vacancy, 34
     \subitem Spending Limit, 31
     \subitem Suffrage, 31
-    \subitem Vice President
+    \subitem Vice--President
       \subsubitem Acclamation, 34
       \subsubitem Ballot, 34
       \subsubitem Qualification, 34
@@ -497,8 +508,8 @@
   \item Employee
     \subitem Salary Information, 61
     \subitem View Employee File, 61
-  \item Ex-Officio
-    \subitem Ombudsperson, 27
+  \item Ex--Officio
+    \subitem Ombudsperson, 28
   \item Executive, The
     \subitem Calling Council Meeting, 63
     \subitem Chairing Committee, 20
@@ -545,7 +556,7 @@
       \subsubitem Emergency Loans, 21
     \subitem Loan Agreement, 21, 23
     \subitem Loan Authority, 58
-    \subitem Long-Term investments, 23
+    \subitem Long--Term investments, 23
     \subitem Monthly Financial Report, 23
     \subitem President, The, 21
     \subitem Procurement, 89--95
@@ -628,6 +639,9 @@
 
   \indexspace
 
+  \item Non--Executive
+    \subitem Recall, 41
+      \subsubitem Vote, 42
   \item Non--Executive, The, 24
     \subitem Council Membership, 15
     \subitem Voting, 15
@@ -638,8 +652,6 @@
     \subitem Protected Classes, 68
   \item Non-Executive
     \subitem Council Voting, 63
-    \subitem Recall, 41
-      \subsubitem Vote, 42
   \item Non-Executive, The
     \subitem Duties, 16
     \subitem Membership, 16
@@ -702,12 +714,12 @@
       \subsubitem Travel Grants, 60
     \subitem Loan Agreement, 21
     \subitem Loan Authority, 58
-    \subitem Long-Term Investments, 21, 23
+    \subitem Long--Term Investments, 21, 23
     \subitem Office Staff, 21
     \subitem Personnel Contract, 55
     \subitem Recall, 41
       \subsubitem Agenda, 41
-      \subsubitem By-Election, 41
+      \subsubitem By--Election, 41
       \subsubitem Vote, 41
     \subitem Signing Authority, 58
     \subitem Special Meeting, 21
@@ -734,7 +746,7 @@
     \subitem Council
       \subsubitem Alternate Councilors, 64
       \subsubitem Fall/Winter, 64
-      \subsubitem Non-VOting Members, 64
+      \subsubitem Non-Voting Members, 64
       \subsubitem Summer, 64
     \subitem Executive Meeting, 65
     \subitem General Meeting, 62
@@ -752,15 +764,16 @@
     \subitem Councilor, 41, 42
     \subitem Executive, 41
       \subsubitem Vote, 42
-    \subitem Non-Executive, 41
+    \subitem Non--Executive, 41
+    \subitem Non-Executive
       \subsubitem Vote, 42
     \subitem Petition, 40
     \subitem Place in Agenda, 40
     \subitem President, 41
       \subsubitem Agenda, 41
-      \subsubitem By-Election, 41
+      \subsubitem By--Election, 41
       \subsubitem Vote, 41
-    \subitem Running in By-Election, 40
+    \subitem Running in By--Election, 40
     \subitem Speaker, The
       \subsubitem Vacate Position, 25
   \item Referendum, 31
@@ -815,6 +828,9 @@
     \subitem Name, 8
     \subitem Powers and Jurisdiction, 11
     \subitem Purpose, 9
+  \item Speaker
+    \subitem Rulings
+      \subsubitem Absenteeism on Committees, 107
   \item Speaker's Ruling, 24
     \subitem Dissenting Opinion, 28
   \item Speaker, The, 24
@@ -822,7 +838,7 @@
       \subsubitem False Information, 62, 64
       \subsubitem Sensitive Information, 62, 64
     \subitem Bylaws and Constitution, 24
-    \subitem Censoring Libelous Statements, 40
+    \subitem Censoring Libellous Statements, 40
     \subitem Chairing
       \subsubitem Council, 24
       \subsubitem General Meeting, 24
@@ -833,7 +849,7 @@
       \subsubitem Advertisement, 34
       \subsubitem Nomination, 34
       \subsubitem Vacancy, 34
-    \subitem Facilitating Councilor By-Election, 39
+    \subitem Facilitating Councilor By--Election, 39
     \subitem Final Authority on Rules, 24
     \subitem New Councillor Package, 24
     \subitem Recall, 25, 41
@@ -843,7 +859,7 @@
     \subitem Succession, 38
       \subsubitem Interim CRO, 38
     \subitem Tie Breaking Vote, 15
-      \subsubitem By-Election, 36
+      \subsubitem By--Election, 36
   \item Special Meeting, 21
 
   \indexspace
@@ -854,13 +870,11 @@
 
   \item Vacancy
     \subitem President, 36
-  \item Vice--President Advocacy, 22
-  \item Vice-President
+  \item Vice--President
     \subitem Recall, 41
       \subsubitem Vote, 42
     \subitem Signing Authority, 58
-    \subitem Voting, 15
-  \item Vice-President Academic, 22
+  \item Vice--President Academic, 22
     \subitem Gradcast, 22
     \subitem Graduate Student Teaching Awards, 22
     \subitem Recall, 41
@@ -868,40 +882,35 @@
     \subitem Succession, 37
       \subsubitem President, 36
     \subitem Western Research Forum, 22
-  \item Vice-President Advocacy
-    \subitem Drafting and Issuing Statements, 67
+  \item Vice--President Advocacy, 22
     \subitem Liaison
       \subsubitem Commissioners, 22
     \subitem Recall, 41
       \subsubitem Vote, 42
     \subitem Succession, 37
-  \item Vice-President Finance, 22
+  \item Vice--President Finance, 22
     \subitem  Accountant, 22
     \subitem Accounts Manager, 22
     \subitem Audit, 23
     \subitem Budget, 23, 58
     \subitem Bursaries and Scholarships, 23
     \subitem Chief Financial Officer, 22
-    \subitem Contract Review Subcommittee, 55
     \subitem Deposits, 22
     \subitem Grad Club, 23
       \subsubitem Inventory, 23
       \subsubitem Liaison with Manager, 23
     \subitem Graduate Support Program Administration
-      \subsubitem Child Care, 60
       \subsubitem Emergency Loans, 21, 60
-      \subsubitem Maximum Funding, 60
-      \subsubitem Travel Grants, 60
     \subitem Liaison with Hospitality and Food Services, 23
     \subitem Loan Agreement, 21
     \subitem Loan Authority, 58
-    \subitem Long-Term Investments, 23
+    \subitem Long--Term Investments, 23
     \subitem Monthly Financial Report, 23
     \subitem Recall, 41
       \subsubitem Vote, 42
     \subitem Succession, 37
     \subitem Year End Statement, 23
-  \item Vice-President Student Services, 22
+  \item Vice--President Student Services, 22
     \subitem Athletic Events, 22
     \subitem Bus Pass, 22
     \subitem Health Plan, 22
@@ -909,12 +918,23 @@
       \subsubitem Vote, 42
     \subitem Social Events, 22
     \subitem Succession, 37
+  \item Vice-President
+    \subitem Voting, 15
+  \item Vice-President Advocacy
+    \subitem Drafting and Issuing Statements, 67
+  \item Vice-President Finance
+    \subitem Contract Review Subcommittee, 55
+    \subitem Graduate Support Program Administration
+      \subsubitem Child Care, 60
+      \subsubitem Maximum Funding, 60
+      \subsubitem Travel Grants, 60
 
   \indexspace
 
   \item Western Research Forum, 22, 47
-  \item Women's Consern Commission
-    \subitem Mandate, 52
+  \item Women's Concern Commission
     \subitem Membership, 53
+  \item Women's Consern Commission
+    \subitem Mandate, 53
 
 \end{theindex}
