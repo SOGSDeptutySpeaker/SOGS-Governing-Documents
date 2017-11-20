@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  20 NOV 2017 15:00
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  20 NOV 2017 15:14
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1119,13 +1119,13 @@ Overfull \hbox (12.50877pt too wide) in paragraph at lines 58--59
 -so-ever, dis-rupt-ing or ob-struct-ing
  []
 
-
+[78]
 Overfull \hbox (25.95374pt too wide) in paragraph at lines 66--67
 []\T1/lmss/m/n/12 Contravention of The Uni-ver-sity of West-ern On-tario Non-Di
 scrimination/Harassment
  []
 
-[78]
+
 Overfull \hbox (5.98904pt too wide) in paragraph at lines 68--69
 []\T1/lmss/m/n/12 Engaging in con-duct that is, or is rea-son-ably seen to be, 
 hu-mil-i-at-ing or de-mean-ing
@@ -1155,7 +1155,7 @@ Overfull \hbox (25.74677pt too wide) in paragraph at lines 245--248
 to twenty-four of ini-tial im-ple-men-ta-tion
  []
 
-) [83]
+) [83] [84]
 \openout2 = `Operations_Policy/Elections.aux'.
 
  (./Operations_Policy/Elections.tex
@@ -1170,7 +1170,7 @@ Overfull \hbox (2.63312pt too wide) in paragraph at lines 21--22
 ve mem-ber while be-ing Pres-i-dent. 
  []
 
-[84
+[85
 
 
 ]
@@ -1185,10 +1185,10 @@ Overfull \hbox (0.72375pt too wide) in paragraph at lines 30--31
  wherein they ac-knowl-edge
  []
 
-[85] [86]) [87]
+[86] [87]) [88]
 \openout2 = `Operations_Policy/Minutes.aux'.
 
- (./Operations_Policy/Minutes.tex) [88
+ (./Operations_Policy/Minutes.tex) [89
 
 
 ]
@@ -1213,7 +1213,7 @@ Overfull \hbox (13.08696pt too wide) in paragraph at lines 50--51
 re all pur-chases re-quir-ing com-pet-i-tive
  []
 
-[89
+[90
 
 
 ]
@@ -1240,7 +1240,7 @@ Overfull \hbox (0.35669pt too wide) in paragraph at lines 75--76
 l RFQ doc-u-ments to all sup-pli-ers
  []
 
-[90]
+[91]
 Overfull \hbox (6.17398pt too wide) in paragraph at lines 95--96
 []\T1/lmss/m/n/12 In any sit-u-a-tions where the req-ui-si-tion-ing com-mit-tee
  has agreed to manda-tory
@@ -1249,7 +1249,7 @@ Overfull \hbox (6.17398pt too wide) in paragraph at lines 95--96
 LaTeX Font Info:    Font shape `T1/lmss/bx/it' in size <12> not available
 (Font)              Font shape `T1/lmss/bx/sl' tried instead on input line 114.
 
-[91]
+[92]
 Overfull \hbox (3.92752pt too wide) in paragraph at lines 131--132
 []\T1/lmss/m/n/12 All qual-i-fy-ing bids shall be eval-u-ated. All bids and the
  ra-tio-nale of the req-ui-si-tion-ing
@@ -1261,7 +1261,7 @@ Overfull \hbox (3.48708pt too wide) in paragraph at lines 137--138
 -mit-tee re-views all re-sponses
  []
 
-[92] [93]
+[93] [94]
 Overfull \hbox (14.22508pt too wide) in paragraph at lines 195--196
 []\T1/lmss/m/n/12 The re-port shall in-clude: the rec-om-men-da-tion and ra-tio
 -nale of the com-mit-tee,
@@ -1279,7 +1279,7 @@ Overfull \hbox (16.8431pt too wide) in paragraph at lines 211--212
 fit or co-op-er-a-tive
  []
 
-[94]
+[95]
 Overfull \hbox (6.58542pt too wide) in paragraph at lines 232--233
 []\T1/lmss/m/n/12 The Ori-en-ta-tion and So-cial Com-mit-tee shall be the req-u
 i-si-tion-ing com-mit-tee
@@ -1291,12 +1291,12 @@ Overfull \hbox (16.8431pt too wide) in paragraph at lines 236--237
 fit or co-op-er-a-tive
  []
 
-) [95] [96
+) [96]
+Chapter 4.
+[97
 
 
 ]
-Chapter 4.
-[97]
 \openout2 = `Committee_Documents/BCC.aux'.
 
  (./Committee_Documents/BCC.tex) [98
@@ -1401,6 +1401,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 77--128
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
  ) 
 Here is how much of TeX's memory you used:
  14283 strings out of 492995
@@ -1409,7 +1412,7 @@ Here is how much of TeX's memory you used:
  17392 multiletter control sequences out of 15000+600000
  68500 words of font info for 51 fonts, out of 8000000 for 9000
  1148 hyphenation exceptions out of 8191
- 62i,8n,56p,1045b,605s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 62i,8n,56p,1045b,597s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2017/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}</usr/local/
 texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/t
 exlive/2017/texmf-dist/fonts/type1/public/lm/lmcsc10.pfb></usr/local/texlive/20
@@ -1418,7 +1421,7 @@ ist/fonts/type1/public/lm/lmss12.pfb></usr/local/texlive/2017/texmf-dist/fonts/
 type1/public/lm/lmss17.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/publ
 ic/lm/lmss8.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/lm/lmssb
 x10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/lm/lmsso12.pfb>
-Output written on Unified_Docs.pdf (120 pages, 363696 bytes).
+Output written on Unified_Docs.pdf (120 pages, 363806 bytes).
 PDF statistics:
  428 PDF objects out of 1000 (max. 8388607)
  294 compressed objects within 3 object streams

@@ -120,9 +120,9 @@
 \contentsline {chapter}{\numberline {3}Operations Policies}{73}
 \contentsline {section}{\numberline {3.1}Conflict of Interest}{74}
 \contentsline {section}{\numberline {3.2}Discipline Manual}{77}
-\contentsline {section}{\numberline {3.3}Elections Policy}{84}
-\contentsline {section}{\numberline {3.4}Minutes Writing Policy}{88}
-\contentsline {section}{\numberline {3.5}Procurement}{89}
+\contentsline {section}{\numberline {3.3}Elections Policy}{85}
+\contentsline {section}{\numberline {3.4}Minutes Writing Policy}{89}
+\contentsline {section}{\numberline {3.5}Procurement}{90}
 \contentsline {chapter}{\numberline {4}Committee Policies}{97}
 \contentsline {section}{\numberline {4.1}SOGS Bylaws and Constitution Committee}{98}
 \contentsline {section}{\numberline {4.2}Graduate Student Teaching Awards (GTSA) Committee}{99}
