@@ -124,4 +124,12 @@
 \contentsline {section}{\numberline {3.4}Minutes Writing Policy}{89}
 \contentsline {section}{\numberline {3.5}Procurement}{90}
 \contentsline {chapter}{\numberline {4}Committee Policies}{97}
-\contentsline {chapter}{\numberline {5}Speaker's Rulings}{99}
+\contentsline {section}{\numberline {4.1}Graduate Student Teaching Awards (GTSA) Committee}{98}
+\contentsline {subsection}{\numberline {4.1.1}Article I: Membership}{98}
+\contentsline {section}{\numberline {4.2}Orientation and Social Committee}{99}
+\contentsline {subsection}{\numberline {4.2.1}Ratified}{99}
+\contentsline {subsection}{\numberline {4.2.2}About}{99}
+\contentsline {subsection}{\numberline {4.2.3}Article 1: Membership}{99}
+\contentsline {subsection}{\numberline {4.2.4}Article 2: Fall Orientation}{99}
+\contentsline {subsection}{\numberline {4.2.5}Article 3: Socials and Sports}{99}
+\contentsline {chapter}{\numberline {5}Speaker's Rulings}{101}
