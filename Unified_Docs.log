@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2017.9.27)  24 NOV 2017 13:37
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2017.9.27)  29 NOV 2017 14:34
 entering extended mode
 **./Unified_Docs.tex
 (Unified_Docs.tex
@@ -1380,14 +1380,11 @@ ons/Elections_Table.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
  ) 
 Here is how much of TeX's memory you used:
  14290 strings out of 493323
  277184 string characters out of 3139066
- 344767 words of memory out of 3000000
+ 344766 words of memory out of 3000000
  17381 multiletter control sequences out of 15000+200000
  68500 words of font info for 51 fonts, out of 3000000 for 9000
  1148 hyphenation exceptions out of 8191
@@ -1400,7 +1397,7 @@ b><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmss17.pfb><C:/Program Fil
 es/MiKTeX 2.9/fonts/type1/public/lm/lmss8.pfb><C:/Program Files/MiKTeX 2.9/font
 s/type1/public/lm/lmssbx10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/
 lm/lmsso12.pfb>
-Output written on Unified_Docs.pdf (117 pages, 406449 bytes).
+Output written on Unified_Docs.pdf (117 pages, 406384 bytes).
 PDF statistics:
  415 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
