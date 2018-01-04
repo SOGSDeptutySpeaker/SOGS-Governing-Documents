@@ -1,18 +1,20 @@
 \select@language {english}
-\contentsline {chapter}{\numberline {1}Constitution}{5}
-\contentsline {chapter}{\numberline {2}Bylaws}{7}
-\contentsline {section}{\numberline {2.4}Elections}{7}
-\contentsline {subsection}{\numberline {2.4.1}Responsibility}{8}
-\contentsline {subsection}{\numberline {2.4.2}Appeals Review Commission}{8}
-\contentsline {subsection}{\numberline {2.4.3}Referendum specific Rules}{9}
-\contentsline {subsection}{\numberline {2.4.4}Graduate Student Representative to the Board of Governor and Graduate Student Representative to the Senate Election Rules}{9}
-\contentsline {subsection}{\numberline {2.4.5}Presidential Election-specific Rules}{9}
-\contentsline {subsection}{\numberline {2.4.6}Campaigning}{9}
-\contentsline {subsection}{\numberline {2.4.7}Voting}{10}
-\contentsline {subsection}{\numberline {2.4.8}Counting Ballots}{10}
-\contentsline {subsection}{\numberline {2.4.9}Campaign Impropriety and Appeals}{10}
-\contentsline {subsection}{\numberline {2.4.10}Validity}{11}
-\contentsline {subsection}{\numberline {2.4.11}Campaign Expenses and Subsidy}{11}
-\contentsline {section}{\numberline {2.8}Elections Table}{12}
-\contentsline {chapter}{\numberline {3}Policy}{15}
-\contentsline {section}{\numberline {3.3}Elections Policy}{16}
+\contentsline {chapter}{\numberline {1}Constitution}{3}
+\contentsline {chapter}{\numberline {2}Bylaws}{5}
+\contentsline {section}{\numberline {2.4}Elections}{5}
+\contentsline {subsection}{\numberline {2.4.1}Responsibility}{6}
+\contentsline {subsection}{\numberline {2.4.2}Appeals Review Commission}{6}
+\contentsline {subsection}{\numberline {2.4.3}Referendum Specific Rules}{7}
+\contentsline {subsection}{\numberline {2.4.4}Graduate Student Representative to the Board of Governor and Graduate Student Representative to the Senate Election Rules}{7}
+\contentsline {subsection}{\numberline {2.4.5}Presidential Election-specific Rules}{7}
+\contentsline {subsection}{\numberline {2.4.6}Campaigning}{7}
+\contentsline {subsection}{\numberline {2.4.7}Voting}{8}
+\contentsline {subsection}{\numberline {2.4.8}Counting Ballots}{8}
+\contentsline {subsection}{\numberline {2.4.9}Transition}{8}
+\contentsline {subsection}{\numberline {2.4.10}Campaign Impropriety and Appeals}{8}
+\contentsline {subsection}{\numberline {2.4.11}Validity}{9}
+\contentsline {subsection}{\numberline {2.4.12}Campaign Expenses and Subsidy}{9}
+\contentsline {section}{\numberline {2.8}Elections Table}{10}
+\contentsline {section}{\numberline {2.9}Elections Table}{11}
+\contentsline {chapter}{\numberline {3}Policy}{12}
+\contentsline {section}{\numberline {3.3}Elections Policy}{13}

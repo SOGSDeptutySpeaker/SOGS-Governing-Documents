@@ -1,74 +1,77 @@
-\indexentry{Executive, The!Term Limits}{6}
-\indexentry{Term Limits}{6}
-\indexentry{Election!Responsibilities of the CRO}{8}
-\indexentry{Election!Call of Nomination}{8}
-\indexentry{Election!Balloting System}{8}
-\indexentry{Election!Date of Election}{8}
-\indexentry{Election!Anouncement of Result}{8}
-\indexentry{Appeals Review Commission!Mandate}{8}
-\indexentry{Appeals Review Commission!Rules of Procedure}{8}
-\indexentry{Appeals Review Commission!Summons}{8}
-\indexentry{Election!Appeals Review Commission}{8}
-\indexentry{Appeals Review Commission!Election}{8}
-\indexentry{Appeals Review Commission!Quorum}{8}
-\indexentry{Quorum!Appeals Review Commission}{8}
-\indexentry{Referendum}{9}
-\indexentry{Referendum!Spending Limit}{9}
-\indexentry{Election!Spending Limit}{9}
-\indexentry{Referendum!Binding on Society}{9}
-\indexentry{Referendum!Invalid}{9}
-\indexentry{Board of Governor!Election}{9}
-\indexentry{Senate!Election}{9}
-\indexentry{Election!Senate}{9}
-\indexentry{Election!Board of Governor}{9}
-\indexentry{President, The!Election}{9}
-\indexentry{Election!President}{9}
-\indexentry{Election!Suffrage}{9}
-\indexentry{Election!Campaign}{9}
-\indexentry{Referendum!Campaign}{9}
-\indexentry{Election!Campaign!All Candidates Meeting}{9}
-\indexentry{Deputy Chief Returning Officer!All Candidates M eeting}{9}
-\indexentry{Referendum!All Candidates Meeting}{9}
-\indexentry{Chief Returning Officer!All Candidates Meeting}{9}
-\indexentry{Election!Campaign!End of Period}{9}
-\indexentry{Referendum!Campaign!End of Period}{9}
-\indexentry{Election!Campaign!Equal Time}{9}
-\indexentry{Referendum!Campaign!Equal Time}{9}
-\indexentry{Election!Vote!Ballot}{10}
-\indexentry{Referendum!Vote!Ballot}{10}
-\indexentry{Election!Vote!Voting Period}{10}
-\indexentry{Referendum!Vote!Voting Period}{10}
-\indexentry{Election!Vote!Advanced Poll}{10}
-\indexentry{Referendum!Vote!Advanced Poll}{10}
-\indexentry{Election!Vote!Results}{10}
-\indexentry{Referendum!Vote!Results}{10}
-\indexentry{Election!Quorum}{10}
-\indexentry{Referendum!Quorum}{10}
-\indexentry{Quorum!Presidential Election}{10}
-\indexentry{Quorum!Refrendum}{10}
-\indexentry{Election!Vote!Tie}{10}
-\indexentry{Referendum!Vote!Tie}{10}
-\indexentry{Election!Campaign Impropriety!Allegation}{10}
-\indexentry{Referendum!Campaign Impropriety!Allegation}{10}
-\indexentry{Chief Returning Officer!Campaign Impropreity!Investigation}{10}
-\indexentry{Election!Campaign Improriety!Subsidy}{10}
-\indexentry{Referendum!Campaign Impropriety!Subsidy}{10}
-\indexentry{Chief Returning Officer!Campaign Impropreity!Subsidy}{10}
-\indexentry{Election!Campaign Improriety!Disqualification}{10}
-\indexentry{Referendum!Campaign Impropriety!Disqualification}{10}
-\indexentry{Chief Returning Officer!Campaign Impropreity!Disqualification}{10}
-\indexentry{Election!Campaign Improriety!Void Election}{10}
-\indexentry{Referendum!Campaign Impropriety!Void Election}{10}
-\indexentry{Chief Returning Officer!Campaign Impropreity!Void Election}{10}
-\indexentry{Election!Campaign Impropriety!Challenge of Validity}{11}
-\indexentry{Referendum!Campaign Impropriety!Challege of Validity}{11}
-\indexentry{Chief Returning Officer!Campaign Impropreity!Challege of Validity}{11}
-\indexentry{Election!Campaign Subsidy}{11}
-\indexentry{Referendum!Campaign Subsidy}{11}
-\indexentry{Chief Returning Officer!Campaign Subsidy}{11}
-\indexentry{Election!Campaign Subsidy}{11}
-\indexentry{Election!Dates}{13}
-\indexentry{Election!Policy}{16}
-\indexentry{Election!Scrutineer}{17}
-\indexentry{Election!Appeals}{18}
-\indexentry{Election!Elections Appeals Commission}{18}
+\indexentry{Executive, The!Term Limits}{4}
+\indexentry{Term Limits}{4}
+\indexentry{Election!Responsibilities of the CRO}{6}
+\indexentry{Election!Call of Nomination}{6}
+\indexentry{Election!Balloting System}{6}
+\indexentry{Election!Date of Election}{6}
+\indexentry{Election!Anouncement of Result}{6}
+\indexentry{Appeals Review Commission!Mandate}{6}
+\indexentry{Appeals Review Commission!Rules of Procedure}{6}
+\indexentry{Appeals Review Commission!Summons}{6}
+\indexentry{Election!Appeals Review Commission}{6}
+\indexentry{Appeals Review Commission!Election}{6}
+\indexentry{Appeals Review Commission!Quorum}{6}
+\indexentry{Quorum!Appeals Review Commission}{6}
+\indexentry{Referendum}{7}
+\indexentry{Referendum!Spending Limit}{7}
+\indexentry{Election!Spending Limit}{7}
+\indexentry{Referendum!Binding on Society}{7}
+\indexentry{Referendum!Invalid}{7}
+\indexentry{Board of Governor!Election}{7}
+\indexentry{Senate!Election}{7}
+\indexentry{Election!Senate}{7}
+\indexentry{Election!Board of Governor}{7}
+\indexentry{President, The!Election}{7}
+\indexentry{Election!President}{7}
+\indexentry{Election!Suffrage}{7}
+\indexentry{Election!Campaign}{7}
+\indexentry{Referendum!Campaign}{7}
+\indexentry{Election!Campaign!All Candidates Meeting}{7}
+\indexentry{Deputy Chief Returning Officer!All Candidates M eeting}{7}
+\indexentry{Referendum!All Candidates Meeting}{7}
+\indexentry{Chief Returning Officer!All Candidates Meeting}{7}
+\indexentry{Election!Campaign!End of Period}{7}
+\indexentry{Referendum!Campaign!End of Period}{7}
+\indexentry{Election!Campaign!Equal Time}{7}
+\indexentry{Referendum!Campaign!Equal Time}{7}
+\indexentry{Election!Vote!Ballot}{8}
+\indexentry{Referendum!Vote!Ballot}{8}
+\indexentry{Election!Vote!Voting Period}{8}
+\indexentry{Referendum!Vote!Voting Period}{8}
+\indexentry{Election!Vote!Advanced Poll}{8}
+\indexentry{Referendum!Vote!Advanced Poll}{8}
+\indexentry{Election!Vote!Results}{8}
+\indexentry{Referendum!Vote!Results}{8}
+\indexentry{Election!Quorum}{8}
+\indexentry{Referendum!Quorum}{8}
+\indexentry{Quorum!Presidential Election}{8}
+\indexentry{Quorum!Refrendum}{8}
+\indexentry{Election!Vote!Tie}{8}
+\indexentry{Referendum!Vote!Tie}{8}
+\indexentry{President!Transition}{8}
+\indexentry{President!President-Elect}{8}
+\indexentry{President-Elect}{8}
+\indexentry{Election!Campaign Impropriety!Allegation}{8}
+\indexentry{Referendum!Campaign Impropriety!Allegation}{8}
+\indexentry{Chief Returning Officer!Campaign Impropreity!Investigation}{8}
+\indexentry{Election!Campaign Improriety!Subsidy}{9}
+\indexentry{Referendum!Campaign Impropriety!Subsidy}{9}
+\indexentry{Chief Returning Officer!Campaign Impropreity!Subsidy}{9}
+\indexentry{Election!Campaign Improriety!Disqualification}{9}
+\indexentry{Referendum!Campaign Impropriety!Disqualification}{9}
+\indexentry{Chief Returning Officer!Campaign Impropreity!Disqualification}{9}
+\indexentry{Election!Campaign Improriety!Void Election}{9}
+\indexentry{Referendum!Campaign Impropriety!Void Election}{9}
+\indexentry{Chief Returning Officer!Campaign Impropreity!Void Election}{9}
+\indexentry{Election!Campaign Impropriety!Challenge of Validity}{9}
+\indexentry{Referendum!Campaign Impropriety!Challege of Validity}{9}
+\indexentry{Chief Returning Officer!Campaign Impropreity!Challege of Validity}{9}
+\indexentry{Election!Campaign Subsidy}{9}
+\indexentry{Referendum!Campaign Subsidy}{9}
+\indexentry{Chief Returning Officer!Campaign Subsidy}{9}
+\indexentry{Election!Campaign Subsidy}{9}
+\indexentry{Election!Dates}{11}
+\indexentry{Election!Policy}{13}
+\indexentry{Election!Scrutineer}{14}
+\indexentry{Election!Appeals}{16}
+\indexentry{Election!Elections Appeals Commission}{16}
