@@ -87,14 +87,14 @@
 \contentsline {subsubsection}{\numberline {2.9.5.7}The International Graduate Students' Issues Committee (IGSIC)}{48}
 \contentsline {subsubsection}{\numberline {2.9.5.8}The Orientation and Social Committee (OSC)}{48}
 \contentsline {subsubsection}{\numberline {2.9.5.9}Gradcast Editorial Board}{48}
-\contentsline {subsubsection}{\numberline {2.9.5.10}The Graduate Student Issues Committee}{48}
+\contentsline {subsubsection}{\numberline {2.9.5.10}The Graduate Student Issues Committee}{49}
 \contentsline {subsubsection}{\numberline {2.9.5.11}The Policy Committee}{49}
 \contentsline {subsubsection}{\numberline {2.9.5.12}Equity Issues Committee}{49}
-\contentsline {subsubsection}{\numberline {2.9.5.13}Health Plan Committee (HPC)}{49}
+\contentsline {subsubsection}{\numberline {2.9.5.13}Health Plan Committee (HPC)}{50}
 \contentsline {subsubsection}{\numberline {2.9.5.14}Sustainability Committee (SC)}{50}
 \contentsline {subsubsection}{\numberline {2.9.5.15}Graduate Peer Support Committee (GPS}{50}
-\contentsline {subsection}{\numberline {2.9.6}Commissions}{50}
-\contentsline {subsubsection}{\numberline {2.9.6.1}General}{50}
+\contentsline {subsection}{\numberline {2.9.6}Commissions}{51}
+\contentsline {subsubsection}{\numberline {2.9.6.1}General}{51}
 \contentsline {subsubsection}{\numberline {2.9.6.2}Women's Concern Commission}{51}
 \contentsline {subsection}{\numberline {2.9.7}Official Liaison Table}{52}
 \contentsline {section}{\numberline {2.10}Personnel}{53}
