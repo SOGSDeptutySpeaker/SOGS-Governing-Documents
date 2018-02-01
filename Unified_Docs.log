@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  25 JAN 2018 21:26
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  1 FEB 2018 13:54
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -834,50 +834,68 @@ Overfull \hbox (12.06393pt too wide) in paragraph at lines 107--108
 r-ests and con-cerns with academic-related
  []
 
+
+Overfull \hbox (28.3725pt too wide) in paragraph at lines 130--132
+[]\T1/lmss/m/n/12 shall at-tend West-ern's Men-tal Health and Well-ness Com-mit
+-tee, or send a So-ci-ety rep-re-sen-ta-tion
+ []
+
+
+Overfull \hbox (7.4104pt too wide) in paragraph at lines 138--142
+[]\T1/lmss/m/n/12 shall work in part-ner-ship with Graduate-relevant ser-vices 
+(e.g. SGPS Ori-en-ta-tion, Grad-u-ate
+ []
+
 [20]
-Overfull \hbox (5.13884pt too wide) in paragraph at lines 153--157
+Overfull \hbox (1.83229pt too wide) in paragraph at lines 142--144
+[]\T1/lmss/m/n/12 shall con-sult with the So-ci-ety Com-mu-ni-ca-tions Ad-min-i
+s-tra-tor on the Grad-u-ate Ori-en-ta-tion
+ []
+
+
+Overfull \hbox (5.13884pt too wide) in paragraph at lines 171--175
 []\T1/lmss/m/n/12 shall, with the Pres-i-dent, and with Coun-cil's ap-proval, b
 e re-spon-si-ble for the ad-mi-nis-tra-tion
  []
 
 [21] [22]
-Overfull \hbox (4.95152pt too wide) in paragraph at lines 220--222
+Overfull \hbox (4.95152pt too wide) in paragraph at lines 238--240
 []\T1/lmss/m/n/12 shall de-ter-mine the num-ber of de-part-men-tal and part--ti
 me rep-re-sen-ta-tives and co--ordinate
  []
 
 
-Overfull \hbox (4.20877pt too wide) in paragraph at lines 233--235
+Overfull \hbox (4.20877pt too wide) in paragraph at lines 251--253
 \T1/lmss/m/n/12 of-fi-cial sum-mary of Robert's Rules, de-scrip-tions of the co
 m-mit-tees of the So-ci-ety, de-scrip-tions
  []
 
 [23]
-Overfull \hbox (0.33524pt too wide) in paragraph at lines 277--279
+Overfull \hbox (0.33524pt too wide) in paragraph at lines 295--297
 []\T1/lmss/m/n/12 be re-spon-si-ble for over-see-ing in-ves-ti-ga-tions of cam-
 paign im-pro-pri-eties and charges
  []
 
 [24]
-Overfull \hbox (19.9537pt too wide) in paragraph at lines 288--290
+Overfull \hbox (19.9537pt too wide) in paragraph at lines 306--308
 []\T1/lmss/m/n/12 The Ex-ec-u-tive and Coun-cil shall have the au-thor-ity to c
 re-ate, dis-solve, or amend com-mis-sioner
  []
 
 
-Overfull \hbox (14.604pt too wide) in paragraph at lines 309--311
+Overfull \hbox (14.604pt too wide) in paragraph at lines 327--329
 \T1/lmss/m/n/12 con-stituency group mem-bers and al-lies to the con-stituency g
 roup when pos-si-ble and ap-pro-pri-ate
  []
 
 [25]
-Overfull \hbox (11.30719pt too wide) in paragraph at lines 366--367
+Overfull \hbox (11.30719pt too wide) in paragraph at lines 384--385
 []\T1/lmss/m/n/12 shall not oc-cupy a vot-ing po-si-tion on any com-mit-tee, ex
 -cept-ing ex--officio vot-ing per-mis-sions
  []
 
 [26] [27]
-Overfull \hbox (15.61336pt too wide) in paragraph at lines 395--396
+Overfull \hbox (15.61336pt too wide) in paragraph at lines 413--414
 \T1/lmss/m/n/12 grad-u-ate stu-dent or-gan-iza-tion ex-ists, be se-lected by th
 at or-gan-iza-tion, which shall com-mu-ni-cate
  []
@@ -919,18 +937,18 @@ ge the va-lid-ity of an elec-tion/referendum
  []
 
 ) [32] [33] [34] [35] [36]
-Overfull \hbox (0.6631pt too wide) in paragraph at lines 555--556
+Overfull \hbox (0.6631pt too wide) in paragraph at lines 573--574
 []\T1/lmss/m/n/12 by a mem-ber elected Speaker pro tem at a Coun-cil meet-ing. 
 The Pres-i-dent
  []
 
 [37] [38] [39]
-Underfull \hbox (badness 10000) in paragraph at lines 664--665
+Underfull \hbox (badness 10000) in paragraph at lines 682--683
 
  []
 
 
-Overfull \hbox (9.18173pt too wide) in paragraph at lines 667--668
+Overfull \hbox (9.18173pt too wide) in paragraph at lines 685--686
 []\T1/lmss/m/n/12 Departments or Pro-grams with-out a duly con-sti-tuted Grad-u
 -ate Stu-dent As-so-ci-a-tion
  []
@@ -1403,7 +1421,7 @@ ist/fonts/type1/public/lm/lmss12.pfb></usr/local/texlive/2017/texmf-dist/fonts/
 type1/public/lm/lmss17.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/publ
 ic/lm/lmss8.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/lm/lmssb
 x10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/lm/lmsso12.pfb>
-Output written on Unified_Docs.pdf (118 pages, 366218 bytes).
+Output written on Unified_Docs.pdf (118 pages, 367219 bytes).
 PDF statistics:
  422 PDF objects out of 1000 (max. 8388607)
  290 compressed objects within 3 object streams
