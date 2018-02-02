@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  1 FEB 2018 14:09
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  2 FEB 2018 13:28
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -583,8 +583,9 @@ Writing index file Unified_Docs.idx
 (./Operations_Policy/Conflict_of_Interest.aux)
 (./Operations_Policy/Discipline_Code.aux) (./Operations_Policy/Elections.aux)
 (./Operations_Policy/Minutes.aux) (./Operations_Policy/Procurement.aux)
-(./Committee_Documents/GSTA.aux) (./Committee_Documents/OSC.aux)
-(./Rulings/July2013.aux) (./Rulings/Nov2014.aux) (./Rulings/Nov2017.aux))
+(./Committee_Documents/GSTA.aux) (./Committee_Documents/Gradcast.aux)
+(./Committee_Documents/OSC.aux) (./Rulings/July2013.aux) (./Rulings/Nov2014.aux
+) (./Rulings/Nov2017.aux))
 \openout1 = `Unified_Docs.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 89.
@@ -746,15 +747,15 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <6> on input line 3.
  [2
 
-] [3])
+] [3] [4])
 \tf@toc=\write6
 \openout6 = `Unified_Docs.toc'.
 
- [4]
+
+[5]
 \openout2 = `Constitution/Constitution.aux'.
 
-
-(./Constitution/Constitution.tex
+ (./Constitution/Constitution.tex
 Chapter 1.
 
 Overfull \hbox (17.62482pt too wide) in paragraph at lines 3--4
@@ -765,10 +766,10 @@ File: logo.jpg Graphic file (type jpg)
 <use logo.jpg>
 Package pdftex.def Info: logo.jpg used on input line 9.
 (pdftex.def)             Requested size: 67.75294pt x 123.46092pt.
- [5
+ [6
 
 
-] [6] [7] [8] [9] [10] [11] [12]
+] [7] [8] [9] [10] [11] [12] [13]
 Overfull \hbox (28.61154pt too wide) in paragraph at lines 146--147
 []\T1/lmss/m/n/12 Council shall be re-spon-si-ble for de-ter-min-ing mat-ters o
 f pol-icy and su-per-vis-ing the ad-mi-nis-tra-tion
@@ -786,13 +787,13 @@ Overfull \hbox (18.93445pt too wide) in paragraph at lines 151--153
 e spe-cific num-ber of rep-re-sen-ta-tives
  []
 
-[13]
+[14]
 Overfull \hbox (9.60587pt too wide) in paragraph at lines 186--187
 []\T1/lmss/m/n/12 The Ex-ec-u-tive shall, at its dis-cre-tion, call a meet-ing 
 of all Ex-ec-u-tive Of-fi-cers, Com-mis-sion-ers
  []
 
-(./Elections/Term_limits.tex) [14] [15] [16])
+(./Elections/Term_limits.tex) [15] [16] [17])
 \openout2 = `Bylaw/Bylaws.aux'.
 
  (./Bylaw/Bylaws.tex
@@ -806,7 +807,7 @@ Overfull \hbox (17.62482pt too wide) in paragraph at lines 4--9
 [][]
  []
 
-[17
+[18
 
 
 
@@ -822,13 +823,13 @@ Overfull \hbox (2.75127pt too wide) in paragraph at lines 35--38
 ct-ing a in-terim chair-per-son
  []
 
-[18]
+[19]
 Overfull \hbox (8.7719pt too wide) in paragraph at lines 80--83
 []\T1/lmss/m/n/12 The Pres-i-dent shall, as ap-pro-pri-ate, call a meet-ing of 
 all Ex-ec-u-tive Of-fi-cers, Com-mis-sion-ers
  []
 
-[19]
+[20]
 Overfull \hbox (12.06393pt too wide) in paragraph at lines 107--108
 []\T1/lmss/m/n/12 shall en-sure rep-re-sen-ta-tion of grad-u-ate stu-dent in-te
 r-ests and con-cerns with academic-related
@@ -846,7 +847,7 @@ Overfull \hbox (7.4104pt too wide) in paragraph at lines 138--142
 (e.g. SGPS Ori-en-ta-tion, Grad-u-ate
  []
 
-[20]
+[21]
 Overfull \hbox (1.83229pt too wide) in paragraph at lines 142--144
 []\T1/lmss/m/n/12 shall con-sult with the So-ci-ety Com-mu-ni-ca-tions Ad-min-i
 s-tra-tor on the Grad-u-ate Ori-en-ta-tion
@@ -858,7 +859,7 @@ Overfull \hbox (5.13884pt too wide) in paragraph at lines 171--175
 e re-spon-si-ble for the ad-mi-nis-tra-tion
  []
 
-[21] [22]
+[22] [23]
 Overfull \hbox (4.95152pt too wide) in paragraph at lines 238--240
 []\T1/lmss/m/n/12 shall de-ter-mine the num-ber of de-part-men-tal and part--ti
 me rep-re-sen-ta-tives and co--ordinate
@@ -870,13 +871,13 @@ Overfull \hbox (4.20877pt too wide) in paragraph at lines 251--253
 m-mit-tees of the So-ci-ety, de-scrip-tions
  []
 
-[23]
+[24]
 Overfull \hbox (0.33524pt too wide) in paragraph at lines 295--297
 []\T1/lmss/m/n/12 be re-spon-si-ble for over-see-ing in-ves-ti-ga-tions of cam-
 paign im-pro-pri-eties and charges
  []
 
-[24]
+[25]
 Overfull \hbox (19.9537pt too wide) in paragraph at lines 306--308
 []\T1/lmss/m/n/12 The Ex-ec-u-tive and Coun-cil shall have the au-thor-ity to c
 re-ate, dis-solve, or amend com-mis-sioner
@@ -888,19 +889,19 @@ Overfull \hbox (14.604pt too wide) in paragraph at lines 327--329
 roup when pos-si-ble and ap-pro-pri-ate
  []
 
-[25]
+[26]
 Overfull \hbox (11.30719pt too wide) in paragraph at lines 384--385
 []\T1/lmss/m/n/12 shall not oc-cupy a vot-ing po-si-tion on any com-mit-tee, ex
 -cept-ing ex--officio vot-ing per-mis-sions
  []
 
-[26] [27]
+[27] [28]
 Overfull \hbox (15.61336pt too wide) in paragraph at lines 413--414
 \T1/lmss/m/n/12 grad-u-ate stu-dent or-gan-iza-tion ex-ists, be se-lected by th
 at or-gan-iza-tion, which shall com-mu-ni-cate
  []
 
-[28] (./Elections/General_Election_Bylaw.tex
+[29] (./Elections/General_Election_Bylaw.tex
 Overfull \hbox (6.4796pt too wide) in paragraph at lines 26--27
 []\T1/lmss/m/n/12 An Ap-peals Re-view Com-mis-sion Hear-ing shall re-quest the 
 ap-pear-ance of in-di-vid-u-als
@@ -912,13 +913,13 @@ Overfull \hbox (0.85223pt too wide) in paragraph at lines 31--32
 -view Com-mis-sion
  []
 
-[29]
+[30]
 Overfull \hbox (1.64688pt too wide) in paragraph at lines 103--106
 []\T1/lmss/m/n/12 A se-cret bal-lot shall be held fol-low-ing the close of the 
 cam-paign pe-riod, for the Pres-i-den-tial
  []
 
-[30]
+[31]
 Overfull \hbox (6.73157pt too wide) in paragraph at lines 121--126
 []\T1/lmss/m/n/12 The Pres-i-den-tial elec-tion and all ref-er-enda shall have 
 no quo-rum un-less oth-er-wise man-dated
@@ -930,19 +931,19 @@ Overfull \hbox (7.90782pt too wide) in paragraph at lines 156--157
 at an act of cam-paign im-pro-pri-ety
  []
 
-[31]
+[32]
 Overfull \hbox (36.20438pt too wide) in paragraph at lines 183--187
 []\T1/lmss/m/n/12 Any full or as-so-ciate mem-ber of the So-ci-ety may chal-len
 ge the va-lid-ity of an elec-tion/referendum
  []
 
-) [32] [33] [34] [35] [36]
+) [33] [34] [35] [36] [37]
 Overfull \hbox (0.6631pt too wide) in paragraph at lines 573--574
 []\T1/lmss/m/n/12 by a mem-ber elected Speaker pro tem at a Coun-cil meet-ing. 
 The Pres-i-dent
  []
 
-[37] [38] [39]
+[38] [39] [40]
 Underfull \hbox (badness 10000) in paragraph at lines 682--683
 
  []
@@ -953,7 +954,7 @@ Overfull \hbox (9.18173pt too wide) in paragraph at lines 685--686
 -ate Stu-dent As-so-ci-a-tion
  []
 
-[40] [41] [42])
+[41] [42] [43])
 \openout2 = `Elections/Elections_Table.aux'.
 
  (./Elections/Elections_Table.tex
@@ -961,13 +962,13 @@ Overfull \hbox (17.35371pt too wide) in paragraph at lines 5--21
  [] 
  []
 
-[43
+[44
 
 
 ])
 \openout2 = `Bylaw/Bylaws_Post_Election_Table.aux'.
 
- (./Bylaw/Bylaws_Post_Election_Table.tex [44
+ (./Bylaw/Bylaws_Post_Election_Table.tex [45
 
 
 ]
@@ -982,7 +983,7 @@ Overfull \hbox (3.85255pt too wide) in paragraph at lines 85--86
  dis-tinct from other com-mit-tees'
  []
 
-[45] [46] [47] [48]
+[46] [47] [48] [49]
 Overfull \hbox (6.97331pt too wide) in paragraph at lines 224--227
 []\T1/lmss/m/n/12 shall over-see and up-date, in con-sul-ta-tion with the So-ci
 -ety Com-mu-ni-ca-tions Ad-min-is-tra-tor
@@ -1000,7 +1001,7 @@ Overfull \hbox (40.41017pt too wide) in paragraph at lines 237--239
 rom each Grad-u-ate As-so-ci-a-tion/Department
  []
 
-[49] [50] [51]
+[50] [51] [52]
 Overfull \hbox (5.1897pt too wide) in paragraph at lines 361--362
 []\T1/lmss/m/n/12 shall dis-cuss and make rec-om-men-da-tions to Coun-cil on is
 -sues af-fect-ing grad-u-ate stu-dents
@@ -1012,7 +1013,7 @@ Overfull \hbox (11.72055pt too wide) in paragraph at lines 366--367
 are women and/or in-di-vid-u-als
  []
 
-[52] [53] [54]
+[53] [54] [55]
 LaTeX Font Info:    Try loading font information for OMS+lmss on input line 422
 .
 LaTeX Font Info:    No file OMSlmss.fd. on input line 422.
@@ -1028,7 +1029,7 @@ Overfull \hbox (6.74786pt too wide) in paragraph at lines 439--440
 n-is-tra-tive, in the ac-tiv-ity
  []
 
-[55] [56]
+[56] [57]
 Overfull \hbox (3.50224pt too wide) in paragraph at lines 481--483
 []\T1/lmss/m/n/12 The ad-min-is-tra-tive and mem-ber-ship fees to be levied on 
 full and as-so-ciate mem-bers
@@ -1040,25 +1041,25 @@ Overfull \hbox (8.8447pt too wide) in paragraph at lines 488--491
 above shall be in-tro-duced
  []
 
-[57] [58] [59]
+[58] [59] [60]
 Overfull \hbox (2.51387pt too wide) in paragraph at lines 541--544
 []\T1/lmss/m/n/12 Upon re-quest of a full or as-so-ciate mem-ber of the So-ci-e
 ty, the Pres-i-dent must con-fi-den-tially
  []
 
-[60] [61] [62] [63] [64] [65] [66] [67]
+[61] [62] [63] [64] [65] [66] [67] [68]
 Overfull \hbox (10.0102pt too wide) in paragraph at lines 829--830
 \T1/lmss/m/n/12 notwith-stand-ing the right granted by the Con-sti-tu-tion of t
 he So-ci-ety and notwith-stand-ing
  []
 
-[68]
+[69]
 Overfull \hbox (4.20718pt too wide) in paragraph at lines 841--842
 []\T1/lmss/m/n/12 A mem-ber of the Ex-ec-u-tive may be pro-hib-ited from sign-i
 ng or en-dors-ing con-tracts
  []
 
-[69] [70]
+[70] [71]
 Overfull \hbox (28.99516pt too wide) in paragraph at lines 859--859
 |[]\T1/lmss/bx/n/17.28 Dissemination of Amend-ments to the So-ci-ety's Gov-ern-
 ing
@@ -1070,9 +1071,9 @@ Overfull \hbox (10.42212pt too wide) in paragraph at lines 864--865
 se shall be lim-ited to cor-rec-tions
  []
 
-[71])
+[72])
 Chapter 3.
-[72
+[73
 
 
 ]
@@ -1084,7 +1085,7 @@ Overfull \hbox (2.45877pt too wide) in paragraph at lines 29--31
 -re-solved and is of a time-sensitive
  []
 
-[73
+[74
 
 ]
 Overfull \hbox (10.13614pt too wide) in paragraph at lines 37--40
@@ -1104,13 +1105,13 @@ Overfull \hbox (12.14923pt too wide) in paragraph at lines 56--57
 -ing in the sit-u-a-tion gen-er-at-ing
  []
 
-[74]
+[75]
 Overfull \hbox (13.31256pt too wide) in paragraph at lines 67--69
 []\T1/lmss/m/n/12 In all in-stances where a judge-ment is be-ing prof-fered, ra
 ther than a mere rec-om-men-da-tion,
  []
 
-) [75]
+) [76]
 \openout2 = `Operations_Policy/Discipline_Code.aux'.
 
  (./Operations_Policy/Discipline_Code.tex
@@ -1131,7 +1132,7 @@ Overfull \hbox (3.63625pt too wide) in paragraph at lines 27--28
 ity Col-leges'' in-cludes lands, build-ings
  []
 
-[76
+[77
 
 
 ]
@@ -1140,7 +1141,7 @@ Overfull \hbox (12.50877pt too wide) in paragraph at lines 58--59
 -so-ever, dis-rupt-ing or ob-struct-ing
  []
 
-[77]
+[78]
 Overfull \hbox (25.95374pt too wide) in paragraph at lines 66--67
 []\T1/lmss/m/n/12 Contravention of The Uni-ver-sity of West-ern On-tario Non-Di
 scrimination/Harassment
@@ -1158,13 +1159,13 @@ Overfull \hbox (20.05493pt too wide) in paragraph at lines 75--76
 ce-ment and/or de-struc-tion
  []
 
-[78]
+[79]
 Overfull \hbox (12.37135pt too wide) in paragraph at lines 154--155
 []\T1/lmss/m/n/12 If the stu-dent does not re-spond to the al-le-ga-tion or doe
 s not meet with the Om-budsper-son
  []
 
-[79] [80] [81]
+[80] [81] [82]
 Overfull \hbox (3.10046pt too wide) in paragraph at lines 239--241
 []\T1/lmss/m/n/12 Each mem-ber of a Panel, in-clud-ing the Chair, shall vote. T
 here shall be no ab-sten-tions.
@@ -1176,7 +1177,7 @@ Overfull \hbox (25.74677pt too wide) in paragraph at lines 245--248
 to twenty-four of ini-tial im-ple-men-ta-tion
  []
 
-) [82] [83]
+) [83] [84]
 \openout2 = `Operations_Policy/Elections.aux'.
 
  (./Operations_Policy/Elections.tex
@@ -1191,7 +1192,7 @@ Overfull \hbox (2.63312pt too wide) in paragraph at lines 21--22
 ve mem-ber while be-ing Pres-i-dent. 
  []
 
-[84
+[85
 
 
 ]
@@ -1212,10 +1213,10 @@ Overfull \hbox (3.74823pt too wide) in paragraph at lines 55--57
  us-ing their own ini-tia-tive
  []
 
-[85] [86]) [87]
+[86] [87]) [88]
 \openout2 = `Operations_Policy/Minutes.aux'.
 
- (./Operations_Policy/Minutes.tex) [88
+ (./Operations_Policy/Minutes.tex) [89
 
 
 ]
@@ -1234,7 +1235,7 @@ Overfull \hbox (13.08696pt too wide) in paragraph at lines 50--51
 re all pur-chases re-quir-ing com-pet-i-tive
  []
 
-[89
+[90
 
 
 ]
@@ -1261,7 +1262,7 @@ Overfull \hbox (0.35669pt too wide) in paragraph at lines 75--76
 l RFQ doc-u-ments to all sup-pli-ers
  []
 
-[90]
+[91]
 Overfull \hbox (6.17398pt too wide) in paragraph at lines 95--96
 []\T1/lmss/m/n/12 In any sit-u-a-tions where the req-ui-si-tion-ing com-mit-tee
  has agreed to manda-tory
@@ -1270,13 +1271,13 @@ Overfull \hbox (6.17398pt too wide) in paragraph at lines 95--96
 LaTeX Font Info:    Font shape `T1/lmss/bx/it' in size <12> not available
 (Font)              Font shape `T1/lmss/bx/sl' tried instead on input line 114.
 
-[91]
+[92]
 Overfull \hbox (3.92752pt too wide) in paragraph at lines 131--132
 []\T1/lmss/m/n/12 All qual-i-fy-ing bids shall be eval-u-ated. All bids and the
  ra-tio-nale of the req-ui-si-tion-ing
  []
 
-[92] [93]
+[93] [94]
 Overfull \hbox (14.22508pt too wide) in paragraph at lines 195--196
 []\T1/lmss/m/n/12 The re-port shall in-clude: the rec-om-men-da-tion and ra-tio
 -nale of the com-mit-tee,
@@ -1294,15 +1295,15 @@ Overfull \hbox (16.8431pt too wide) in paragraph at lines 211--212
 fit or co-op-er-a-tive
  []
 
-[94]
+[95]
 Overfull \hbox (6.58542pt too wide) in paragraph at lines 232--233
 []\T1/lmss/m/n/12 The Ori-en-ta-tion and So-cial Com-mit-tee shall be the req-u
 i-si-tion-ing com-mit-tee
  []
 
-) [95]
+) [96]
 Chapter 4.
-[96
+[97
 
 
 ]
@@ -1323,23 +1324,30 @@ Underfull \hbox (badness 10000) in paragraph at lines 5--6
 
  []
 
-) [97
+) [98
 
 ]
+\openout2 = `Committee_Documents/Gradcast.aux'.
+
+ (./Committee_Documents/Gradcast.tex [99
+
+
+]) [100]
 \openout2 = `Committee_Documents/OSC.aux'.
 
- (./Committee_Documents/OSC.tex
+
+(./Committee_Documents/OSC.tex
 Overfull \hbox (23.7062pt too wide) in paragraph at lines 11--12
 []\T1/lmss/m/n/12 Meetings are com-prised of Com-mit-tee mem-bers and, by in-vi
 -ta-tion or re-quest only, non-committee
  []
 
-) [98
+) [101
 
 
 ]
 Chapter 5.
-[99
+[102
 
 
 ]
@@ -1351,7 +1359,7 @@ Overfull \hbox (5.09343pt too wide) in paragraph at lines 35--36
 ers of the In-ves-tiga-tive
  []
 
-[100
+[103
 
 ]
 LaTeX Font Info:    External font `lmex10' loaded for size
@@ -1360,12 +1368,12 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <7> on input line 54.
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <5> on input line 54.
- [101] [102]
+ [104] [105]
 Underfull \hbox (badness 10000) in paragraph at lines 87--97
 
  []
 
-) [103]
+) [106]
 \openout2 = `Rulings/Nov2014.aux'.
 
  (./Rulings/Nov2014.tex
@@ -1379,7 +1387,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 30--40
 
  []
 
-) [104
+) [107
 
 
 ]
@@ -1393,17 +1401,17 @@ their un-der-stood res-ig-na-tion.
 
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 105 might be wrong on input line 48
+(multicol)                Footnotes on page 108 might be wrong on input line 48
 .
 
-[105
+[108
 
 
-] [106]) [107] (./Unified_Docs.ind [108
+] [109]) [110] (./Unified_Docs.ind [111
 
 
-] [109] [110] [111] [112] [113]
-[114] [115] [116] [117] [118
+] [112] [113] [114] [115] [116]
+[117] [118] [119] [120] [121
 
 ]) (./Unified_Docs.aux
 (./Constitution/Constitution.aux) (./Bylaw/Bylaws.aux)
@@ -1411,17 +1419,18 @@ Package multicol Warning: I moved some lines to the next page.
 (./Operations_Policy/Conflict_of_Interest.aux)
 (./Operations_Policy/Discipline_Code.aux) (./Operations_Policy/Elections.aux)
 (./Operations_Policy/Minutes.aux) (./Operations_Policy/Procurement.aux)
-(./Committee_Documents/GSTA.aux) (./Committee_Documents/OSC.aux)
-(./Rulings/July2013.aux) (./Rulings/Nov2014.aux) (./Rulings/Nov2017.aux))
+(./Committee_Documents/GSTA.aux) (./Committee_Documents/Gradcast.aux)
+(./Committee_Documents/OSC.aux) (./Rulings/July2013.aux) (./Rulings/Nov2014.aux
+) (./Rulings/Nov2017.aux))
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 14285 strings out of 492995
- 278992 string characters out of 6132704
- 345506 words of memory out of 5000000
- 17393 multiletter control sequences out of 15000+600000
+ 14293 strings out of 492995
+ 279229 string characters out of 6132704
+ 346158 words of memory out of 5000000
+ 17394 multiletter control sequences out of 15000+600000
  68500 words of font info for 51 fonts, out of 8000000 for 9000
  1148 hyphenation exceptions out of 8191
  62i,8n,56p,1045b,591s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1433,10 +1442,10 @@ ist/fonts/type1/public/lm/lmss12.pfb></usr/local/texlive/2017/texmf-dist/fonts/
 type1/public/lm/lmss17.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/publ
 ic/lm/lmss8.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/lm/lmssb
 x10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/lm/lmsso12.pfb>
-Output written on Unified_Docs.pdf (118 pages, 367670 bytes).
+Output written on Unified_Docs.pdf (121 pages, 371312 bytes).
 PDF statistics:
- 422 PDF objects out of 1000 (max. 8388607)
- 290 compressed objects within 3 object streams
+ 432 PDF objects out of 1000 (max. 8388607)
+ 297 compressed objects within 3 object streams
  0 named destinations out of 1000 (max. 500000)
  18 words of extra memory for PDF output out of 10000 (max. 10000000)
 
