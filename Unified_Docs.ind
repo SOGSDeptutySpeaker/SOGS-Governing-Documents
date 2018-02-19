@@ -876,14 +876,11 @@
     \subitem Recall, 41
       \subsubitem Vote, 42
     \subitem Signing Authority, 58
-  \item Vice--President Academic, 21
-    \subitem Gradcast, 21
-    \subitem Graduate Student Teaching Awards, 21
+  \item Vice--President Academic
     \subitem Recall, 41
       \subsubitem Vote, 42
     \subitem Succession, 37
       \subsubitem President, 36
-    \subitem Western Research Forum, 21
   \item Vice--President Advocacy, 21
     \subitem Liaison
       \subsubitem Commissioners, 21
@@ -916,6 +913,10 @@
     \subitem Succession, 37
   \item Vice-President
     \subitem Voting, 14
+  \item Vice-President Academic, 21
+    \subitem GradCast, 21
+    \subitem Graduate Student Teaching Awards, 21
+    \subitem Western Research Forum, 21
   \item Vice-President Advocacy
     \subitem Drafting and Issuing Statements, 67
   \item Vice-President Finance, 22
