@@ -194,9 +194,9 @@
       \subsubitem Liaison, 26
       \subsubitem Report, 27
     \subitem Election
-      \subsubitem Advertisement, 35
+      \subsubitem Advertisement, 34
       \subsubitem Ballot, 35
-      \subsubitem Term, 35
+      \subsubitem Term, 34
     \subitem Ex-Officio on of Equity Committee, 52
     \subitem Liaison
       \subsubitem Vice--President Advocacy, 21
@@ -476,9 +476,9 @@
     \subitem Campaign Subsidy, 33
     \subitem Chief Returning Officer, 25
     \subitem Commissioner
-      \subsubitem Advertisement, 35
+      \subsubitem Advertisement, 34
       \subsubitem Ballot, 35
-      \subsubitem Term, 35
+      \subsubitem Term, 34
     \subitem Date of Election, 30
     \subitem Dates, 44
     \subitem Elections Appeals Commission, 89
@@ -491,15 +491,13 @@
     \subitem Speaker, The
       \subsubitem Advertisement, 34
       \subsubitem Nomination, 34
-      \subsubitem Vacancy, 34
     \subitem Spending Limit, 31
     \subitem Suffrage, 31
-    \subitem Vice--President
+    \subitem Vice-President
       \subsubitem Acclamation, 34
       \subsubitem Ballot, 34
-      \subsubitem Qualification, 34
-    \subitem Vice-President
       \subsubitem Nomination, 34
+      \subsubitem Qualification, 34
     \subitem Vote
       \subsubitem Advanced Poll, 32
       \subsubitem Ballot, 32
@@ -850,7 +848,6 @@
     \subitem Election
       \subsubitem Advertisement, 34
       \subsubitem Nomination, 34
-      \subsubitem Vacancy, 34
     \subitem Facilitating Councilor By--Election, 39
     \subitem Final Authority on Rules, 24
     \subitem New Councillor Package, 24

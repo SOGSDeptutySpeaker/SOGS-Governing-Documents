@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  18 FEB 2018 23:01
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  18 FEB 2018 23:16
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -937,19 +937,25 @@ Overfull \hbox (36.20438pt too wide) in paragraph at lines 183--187
 ge the va-lid-ity of an elec-tion/referendum
  []
 
-) [33] [34] [35] [36] [37]
-Overfull \hbox (0.6631pt too wide) in paragraph at lines 574--575
+) [33]
+Overfull \hbox (0.40962pt too wide) in paragraph at lines 451--453
+[]\T1/lmss/m/n/12 Nominations for all Vice-Presidential po-si-tions shall close
+ at the Coun-cil pack-age dead-line.
+ []
+
+[34] [35] [36] [37]
+Overfull \hbox (0.6631pt too wide) in paragraph at lines 572--573
 []\T1/lmss/m/n/12 by a mem-ber elected Speaker pro tem at a Coun-cil meet-ing. 
 The Pres-i-dent
  []
 
 [38] [39] [40]
-Underfull \hbox (badness 10000) in paragraph at lines 683--684
+Underfull \hbox (badness 10000) in paragraph at lines 681--682
 
  []
 
 
-Overfull \hbox (9.18173pt too wide) in paragraph at lines 686--687
+Overfull \hbox (9.18173pt too wide) in paragraph at lines 684--685
 []\T1/lmss/m/n/12 Departments or Pro-grams with-out a duly con-sti-tuted Grad-u
 -ate Stu-dent As-so-ci-a-tion
  []
@@ -1446,7 +1452,7 @@ ist/fonts/type1/public/lm/lmss12.pfb></usr/local/texlive/2017/texmf-dist/fonts/
 type1/public/lm/lmss17.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/publ
 ic/lm/lmss8.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/lm/lmssb
 x10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/lm/lmsso12.pfb>
-Output written on Unified_Docs.pdf (122 pages, 371902 bytes).
+Output written on Unified_Docs.pdf (122 pages, 371312 bytes).
 PDF statistics:
  435 PDF objects out of 1000 (max. 8388607)
  299 compressed objects within 3 object streams
