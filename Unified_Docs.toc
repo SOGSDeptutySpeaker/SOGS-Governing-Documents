@@ -74,7 +74,7 @@
 \contentsline {section}{\numberline {2.8}Elections Table}{44}
 \contentsline {section}{\numberline {2.9}Committees of the Society}{45}
 \contentsline {subsection}{\numberline {2.9.1}Creating and Disbanding}{45}
-\contentsline {subsection}{\numberline {2.9.2}Duties of the Chariperson}{45}
+\contentsline {subsection}{\numberline {2.9.2}Duties of the Chairperson}{45}
 \contentsline {subsection}{\numberline {2.9.3}General}{46}
 \contentsline {subsection}{\numberline {2.9.4}Committee Policies}{47}
 \contentsline {subsection}{\numberline {2.9.5}Standing Committees}{47}
@@ -86,7 +86,7 @@
 \contentsline {subsubsection}{\numberline {2.9.5.6}The Graduate Club Committee (GCC)}{49}
 \contentsline {subsubsection}{\numberline {2.9.5.7}The International Graduate Students' Issues Committee (IGSIC)}{50}
 \contentsline {subsubsection}{\numberline {2.9.5.8}The Orientation and Social Committee (OSC)}{50}
-\contentsline {subsubsection}{\numberline {2.9.5.9}Gradcast Editorial Board}{51}
+\contentsline {subsubsection}{\numberline {2.9.5.9}GradCast Editorial Board}{51}
 \contentsline {subsubsection}{\numberline {2.9.5.10}The Graduate Student Issues Committee}{51}
 \contentsline {subsubsection}{\numberline {2.9.5.11}The Policy Committee}{51}
 \contentsline {subsubsection}{\numberline {2.9.5.12}Equity Issues Committee}{52}
