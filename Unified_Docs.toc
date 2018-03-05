@@ -135,6 +135,8 @@
 \contentsline {subsection}{\numberline {3.2.9}Review of Code}{85}
 \contentsline {section}{\numberline {3.3}Elections Policy}{86}
 \contentsline {section}{\numberline {3.4}Minutes Writing Policy}{90}
+\contentsline {subsection}{\numberline {3.4.1}Purpose}{90}
+\contentsline {subsection}{\numberline {3.4.2}General Guidelines}{90}
 \contentsline {section}{\numberline {3.5}Procurement}{91}
 \contentsline {chapter}{\numberline {4}Committee Policies}{98}
 \contentsline {section}{\numberline {4.1}Graduate Student Teaching Awards (GTSA) Committee}{99}
