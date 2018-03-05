@@ -680,73 +680,60 @@
 \indexentry{Roberts Rules of Order!Reserve Powers}{72}
 \indexentry{Bylaws and Constitution!Disseminating Changes}{73}
 \indexentry{Bylaw!Bylaw Section|)}{74}
-\indexentry{Conflict of Interest!Informal Resolution}{76}
-\indexentry{Conflict of Interest!Role of the Speaker}{76}
-\indexentry{Speaker, The!Conflict of Interest Resolution}{76}
-\indexentry{Conflict of Interest!Time-Sensitive Matter}{77}
-\indexentry{Conflict of Interest!Time Insensitive Matter}{77}
-\indexentry{Conflict of Interest!Tribunal!Composition}{77}
-\indexentry{Conflict of Interest!Tribunal!Procedure}{77}
-\indexentry{Conflict of Interest!Tribunal!Role of Speaker}{77}
-\indexentry{Conflict of Interest!Resolutions}{77}
-\indexentry{Conflict of Interest!Punitive Measures}{78}
-\indexentry{Conflict of Interest!Presenting Formal Findings to Council}{78}
-\indexentry{Conflict of Interest!Presenting Informal Resolution to Council}{78}
-\indexentry{Conflict of Interest!Punitive Measures}{78}
-\indexentry{Discipline!Purpose}{79}
-\indexentry{Discipline!Free Speech}{79}
-\indexentry{Discipline!Referral to Law Enforcement}{79}
-\indexentry{Discipline!Definitions}{79}
-\indexentry{Discipline!Jeopardy}{80}
-\indexentry{Discipline!Area of Application}{80}
-\indexentry{Discipline!Prohibited Conduct!Disruption}{80}
-\indexentry{Discipline!Prohibited Conduct!Misconduct against Persons}{80}
-\indexentry{Discipline!Prohibited Conduct!Misconduct involving Property}{81}
-\indexentry{Discipline!Prohibited Conduct!False Information}{81}
-\indexentry{Discipline!Prohibited Conduct!Contravention of Society Regulations}{81}
-\indexentry{Discipline!Prohibited Conduct!Contravention of Other Laws}{81}
-\indexentry{Discipline!Prohibited Conduct!Incitement}{81}
-\indexentry{Discipline!Prohibited Conduct!Refusal to Comply with Sanctions}{81}
-\indexentry{Discipline!Temporary Exclusions}{81}
-\indexentry{Discipline!Interim Prohibition}{82}
-\indexentry{Discipline!Appeals!Grounds for Appeal}{83}
-\indexentry{Discipline!Appeals Review Commission!Granting or Refusing Appeal}{83}
-\indexentry{Appeals Review Commission!Granting or Refusing Appeal}{83}
-\indexentry{Discipline!Appeals!Legal Council}{84}
-\indexentry{Discipline!Appeals REview Commission!Composition}{84}
-\indexentry{Appeals Review Commission!Composition}{84}
-\indexentry{Discipline!Appeals!Procedure}{84}
-\indexentry{Appeals Review Commission!Chairperson!Receiving Appeal}{84}
-\indexentry{Discipline!Appeals!Incomplete Appeal}{84}
-\indexentry{Appeals Review Commission!Incomplete Appeal}{84}
-\indexentry{Discipline!Appeals!Parties to the Appeal}{84}
-\indexentry{Appeals Review Commission!Duties of the Chairperson}{84}
-\indexentry{Chairperson!Appeals Review Commission!Duties}{84}
-\indexentry{Appeals Review Commission!Creating a Panel}{85}
-\indexentry{Appeals Review Commission!Recusal}{85}
-\indexentry{Quorum!Appeals Review Commission!Panel}{85}
-\indexentry{Policy Document!Appeals Review Commission}{85}
-\indexentry{Appeals Review Commission!Oral Hearing}{85}
-\indexentry{Appeals Review Commission!Voting Procedure}{85}
-\indexentry{Discipline!Review of Discipline Manual}{86}
-\indexentry{Policy Committee!Review of Discipline Manual}{86}
-\indexentry{Election!Policy}{87}
-\indexentry{Election!Scrutineer}{88}
-\indexentry{Election!Appeals}{90}
-\indexentry{Election!Elections Appeals Commission}{90}
-\indexentry{Minutes!Policy|(}{91}
-\indexentry{Minutes!Policy|)}{91}
-\indexentry{Finance!Procurement|(}{92}
-\indexentry{Procurement|(}{92}
-\indexentry{Council!Values}{92}
-\indexentry{Purocurement!Sole Source}{93}
-\indexentry{Bus Pass}{93}
-\indexentry{Finance!Procurement|)}{98}
-\indexentry{Procurement|)}{98}
-\indexentry{Committee Policy!Orientation and Social Committee}{103}
-\indexentry{Committee!Orientation and Social Committee!Committee Policy}{103}
-\indexentry{Absenteeism!Committee!Speaker's Ruling|(}{110}
-\indexentry{Speaker!Rulings!Absenteeism on Committees}{110}
-\indexentry{Committee!Removal!Absenteeism}{110}
-\indexentry{Committee!Recall!Procedure}{110}
-\indexentry{Absenteeism!Committee!Speaker's Ruling|)}{112}
+\indexentry{Discipline!Purpose}{78}
+\indexentry{Discipline!Free Speech}{78}
+\indexentry{Discipline!Referral to Law Enforcement}{78}
+\indexentry{Discipline!Definitions}{78}
+\indexentry{Discipline!Jeopardy}{79}
+\indexentry{Discipline!Area of Application}{79}
+\indexentry{Discipline!Prohibited Conduct!Disruption}{79}
+\indexentry{Discipline!Prohibited Conduct!Misconduct against Persons}{79}
+\indexentry{Discipline!Prohibited Conduct!Misconduct involving Property}{80}
+\indexentry{Discipline!Prohibited Conduct!False Information}{80}
+\indexentry{Discipline!Prohibited Conduct!Contravention of Society Regulations}{80}
+\indexentry{Discipline!Prohibited Conduct!Contravention of Other Laws}{80}
+\indexentry{Discipline!Prohibited Conduct!Incitement}{80}
+\indexentry{Discipline!Prohibited Conduct!Refusal to Comply with Sanctions}{80}
+\indexentry{Discipline!Temporary Exclusions}{80}
+\indexentry{Discipline!Interim Prohibition}{81}
+\indexentry{Discipline!Appeals!Grounds for Appeal}{82}
+\indexentry{Discipline!Appeals Review Commission!Granting or Refusing Appeal}{82}
+\indexentry{Appeals Review Commission!Granting or Refusing Appeal}{82}
+\indexentry{Discipline!Appeals!Legal Council}{83}
+\indexentry{Discipline!Appeals REview Commission!Composition}{83}
+\indexentry{Appeals Review Commission!Composition}{83}
+\indexentry{Discipline!Appeals!Procedure}{83}
+\indexentry{Appeals Review Commission!Chairperson!Receiving Appeal}{83}
+\indexentry{Discipline!Appeals!Incomplete Appeal}{83}
+\indexentry{Appeals Review Commission!Incomplete Appeal}{83}
+\indexentry{Discipline!Appeals!Parties to the Appeal}{83}
+\indexentry{Appeals Review Commission!Duties of the Chairperson}{83}
+\indexentry{Chairperson!Appeals Review Commission!Duties}{83}
+\indexentry{Appeals Review Commission!Creating a Panel}{84}
+\indexentry{Appeals Review Commission!Recusal}{84}
+\indexentry{Quorum!Appeals Review Commission!Panel}{84}
+\indexentry{Policy Document!Appeals Review Commission}{84}
+\indexentry{Appeals Review Commission!Oral Hearing}{84}
+\indexentry{Appeals Review Commission!Voting Procedure}{84}
+\indexentry{Discipline!Review of Discipline Manual}{85}
+\indexentry{Policy Committee!Review of Discipline Manual}{85}
+\indexentry{Election!Policy}{86}
+\indexentry{Election!Scrutineer}{87}
+\indexentry{Election!Appeals}{89}
+\indexentry{Election!Elections Appeals Commission}{89}
+\indexentry{Minutes!Policy|(}{90}
+\indexentry{Minutes!Policy|)}{90}
+\indexentry{Finance!Procurement|(}{91}
+\indexentry{Procurement|(}{91}
+\indexentry{Council!Values}{91}
+\indexentry{Purocurement!Sole Source}{92}
+\indexentry{Bus Pass}{92}
+\indexentry{Finance!Procurement|)}{97}
+\indexentry{Procurement|)}{97}
+\indexentry{Committee Policy!Orientation and Social Committee}{102}
+\indexentry{Committee!Orientation and Social Committee!Committee Policy}{102}
+\indexentry{Absenteeism!Committee!Speaker's Ruling|(}{109}
+\indexentry{Speaker!Rulings!Absenteeism on Committees}{109}
+\indexentry{Committee!Removal!Absenteeism}{109}
+\indexentry{Committee!Recall!Procedure}{109}
+\indexentry{Absenteeism!Committee!Speaker's Ruling|)}{111}
