@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  5 MAR 2018 03:38
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  5 MAR 2018 04:55
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -581,11 +581,11 @@ Writing index file Unified_Docs.idx
 (./Unified_Docs.aux (./Constitution/Constitution.aux) (./Bylaw/Bylaws.aux)
 (./Elections/Elections_Table.aux) (./Bylaw/Bylaws_Post_Election_Table.aux)
 (./Operations_Policy/Conflict_of_Interest.aux)
-(./Operations_Policy/Discipline_Code.aux) (./Operations_Policy/Elections.aux)
-(./Operations_Policy/Minutes.aux) (./Operations_Policy/Procurement.aux)
-(./Committee_Documents/GSTA.aux) (./Committee_Documents/Gradcast.aux)
-(./Committee_Documents/OSC.aux) (./Rulings/July2013.aux) (./Rulings/Nov2014.aux
-) (./Rulings/Nov2017.aux))
+(./Operations_Policy/Discipline_Code_2018.aux)
+(./Operations_Policy/Elections.aux) (./Operations_Policy/Minutes.aux)
+(./Operations_Policy/Procurement.aux) (./Committee_Documents/GSTA.aux)
+(./Committee_Documents/Gradcast.aux) (./Committee_Documents/OSC.aux)
+(./Rulings/July2013.aux) (./Rulings/Nov2014.aux) (./Rulings/Nov2017.aux))
 \openout1 = `Unified_Docs.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 89.
@@ -1148,72 +1148,72 @@ Overfull \hbox (15.88943pt too wide) in paragraph at lines 54--55
  []
 
 ) [77]
-\openout2 = `Operations_Policy/Discipline_Code.aux'.
+\openout2 = `Operations_Policy/Discipline_Code_2018.aux'.
 
- (./Operations_Policy/Discipline_Code.tex
-Overfull \hbox (7.76643pt too wide) in paragraph at lines 9--10
-[]\T1/lmss/m/n/12 As mem-bers, stu-dents as-sume the rights and re-spon-si-bil-
-i-ties as-so-ci-ated with mem-ber-ship
- []
+ (./Operations_Policy/Discipline_Code_2018.tex [78
 
 
-Overfull \hbox (20.68588pt too wide) in paragraph at lines 13--15
-[]\T1/lmss/m/n/12 Nothing in this Code shall be con-strued to pro-hibit peace-f
-ul as-sem-blies and demon-stra-tions,
- []
-
-
-Overfull \hbox (3.63625pt too wide) in paragraph at lines 27--28
-[]\T1/lmss/m/n/12 ``Premises of the Uni-ver-sity or its Af-fil-i-ated Uni-ver-s
-ity Col-leges'' in-cludes lands, build-ings
- []
-
-[78
-
-
-]
-Overfull \hbox (12.50877pt too wide) in paragraph at lines 58--59
-[]\T1/lmss/m/n/12 By ac-tion, threat, writ-ten ma-te-rial, or by any means what
--so-ever, dis-rupt-ing or ob-struct-ing
- []
-
-[79]
-Overfull \hbox (25.95374pt too wide) in paragraph at lines 66--67
-[]\T1/lmss/m/n/12 Contravention of The Uni-ver-sity of West-ern On-tario Non-Di
-scrimination/Harassment
- []
-
-
-Overfull \hbox (5.98904pt too wide) in paragraph at lines 68--69
-[]\T1/lmss/m/n/12 Engaging in con-duct that is, or is rea-son-ably seen to be, 
-hu-mil-i-at-ing or de-mean-ing
- []
-
-
-Overfull \hbox (20.05493pt too wide) in paragraph at lines 75--76
+] [79]
+Overfull \hbox (12.4832pt too wide) in paragraph at lines 59--60
 []\T1/lmss/m/n/12 Misappropriation, dam-age, unau-tho-rized pos-ses-sion, de-fa
 ce-ment and/or de-struc-tion
  []
 
+
+Overfull \hbox (28.26917pt too wide) in paragraph at lines 65--67
+[]\T1/lmss/m/n/12 Forging, al-ter-ing or mis-us-ing any doc-u-ment, record, car
+d or in-stru-ment of iden-ti-fi-ca-tion. 
+ []
+
 [80]
-Overfull \hbox (12.37135pt too wide) in paragraph at lines 154--155
-[]\T1/lmss/m/n/12 If the stu-dent does not re-spond to the al-le-ga-tion or doe
-s not meet with the Om-budsper-son
+Overfull \hbox (0.5586pt too wide) in paragraph at lines 81--82
+[]\T1/lmss/m/n/12 If needed to en-sure the Mem-ber's own phys-i-cal or emo-tion
+al safety and well-being;
  []
 
-[81] [82] [83]
-Overfull \hbox (3.10046pt too wide) in paragraph at lines 239--241
-[]\T1/lmss/m/n/12 Each mem-ber of a Panel, in-clud-ing the Chair, shall vote. T
-here shall be no ab-sten-tions.
+[81]
+Overfull \hbox (2.65776pt too wide) in paragraph at lines 95--96
+[]\T1/lmss/m/n/12 If the mem-ber does not re-spond to the al-le-ga-tion or does
+ not meet with the Om-budsper-son
  []
 
 
-Overfull \hbox (25.74677pt too wide) in paragraph at lines 245--248
-[]\T1/lmss/m/n/12 The Pol-icy Com-mit-tee shall re-view the Code within twelve 
-to twenty-four of ini-tial im-ple-men-ta-tion
+Overfull \hbox (24.97095pt too wide) in paragraph at lines 100--101
+[]\T1/lmss/m/n/12 The Om-budsper-son shall re-port an-nu-ally at the An-nual Ge
+n-eral Meet-ing (AGM), sum-ma-riz-ing
  []
 
-) [84] [85]
+
+Overfull \hbox (4.63243pt too wide) in paragraph at lines 109--110
+[]\T1/lmss/m/n/12 New ev-i-dence, not avail-able at the time of the ear-lier de
+-ci-sion, has been dis-cov-ered,
+ []
+
+[82]
+Overfull \hbox (9.85815pt too wide) in paragraph at lines 124--125
+[]\T1/lmss/m/n/12 Membership for the ARC Panel will be drawn from the Ap-peals 
+Re-view Com-mis-sion. 
+ []
+
+
+Overfull \hbox (0.1757pt too wide) in paragraph at lines 132--133
+[]\T1/lmss/m/n/12 Name, stu-dent num-ber, email ad-dress, cur-rent phone num-be
+r, and cur-rent
+ []
+
+[83]
+Overfull \hbox (28.18634pt too wide) in paragraph at lines 145--146
+\T1/lmss/m/n/12 against whom the de-ci-sion has been made (Ap-pel-lant) and the
+ Om-budsper-son (Re-spon-dent). 
+ []
+
+
+Overfull \hbox (1.1254pt too wide) in paragraph at lines 149--150
+[]\T1/lmss/m/n/12 Constitute a Panel of at least three (3) mem-bers in-clud-ing
+ the chair-per-son.
+ []
+
+[84]) [85]
 \openout2 = `Operations_Policy/Elections.aux'.
 
  (./Operations_Policy/Elections.tex
@@ -1458,29 +1458,27 @@ Package multicol Warning: I moved some lines to the next page.
 
 
 ] [113] [114] [115] [116] [117]
-[118] [119] [120] [121] [122
-
-]) (./Unified_Docs.aux
-(./Constitution/Constitution.aux) (./Bylaw/Bylaws.aux)
-(./Elections/Elections_Table.aux) (./Bylaw/Bylaws_Post_Election_Table.aux)
+[118] [119] [120] [121]) (./Unified_Docs.aux (./Constitution/Constitution.aux)
+(./Bylaw/Bylaws.aux) (./Elections/Elections_Table.aux)
+(./Bylaw/Bylaws_Post_Election_Table.aux)
 (./Operations_Policy/Conflict_of_Interest.aux)
-(./Operations_Policy/Discipline_Code.aux) (./Operations_Policy/Elections.aux)
-(./Operations_Policy/Minutes.aux) (./Operations_Policy/Procurement.aux)
-(./Committee_Documents/GSTA.aux) (./Committee_Documents/Gradcast.aux)
-(./Committee_Documents/OSC.aux) (./Rulings/July2013.aux) (./Rulings/Nov2014.aux
-) (./Rulings/Nov2017.aux))
+(./Operations_Policy/Discipline_Code_2018.aux)
+(./Operations_Policy/Elections.aux) (./Operations_Policy/Minutes.aux)
+(./Operations_Policy/Procurement.aux) (./Committee_Documents/GSTA.aux)
+(./Committee_Documents/Gradcast.aux) (./Committee_Documents/OSC.aux)
+(./Rulings/July2013.aux) (./Rulings/Nov2014.aux) (./Rulings/Nov2017.aux))
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 14295 strings out of 492995
- 279254 string characters out of 6132704
- 346160 words of memory out of 5000000
- 17396 multiletter control sequences out of 15000+600000
+ 14296 strings out of 492995
+ 279306 string characters out of 6132704
+ 346163 words of memory out of 5000000
+ 17397 multiletter control sequences out of 15000+600000
  68500 words of font info for 51 fonts, out of 8000000 for 9000
  1148 hyphenation exceptions out of 8191
- 62i,8n,56p,1045b,591s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 62i,8n,56p,1045b,497s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2017/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}</usr/local/
 texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/t
 exlive/2017/texmf-dist/fonts/type1/public/lm/lmcsc10.pfb></usr/local/texlive/20
@@ -1489,10 +1487,10 @@ ist/fonts/type1/public/lm/lmss12.pfb></usr/local/texlive/2017/texmf-dist/fonts/
 type1/public/lm/lmss17.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/publ
 ic/lm/lmss8.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/lm/lmssb
 x10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/lm/lmsso12.pfb>
-Output written on Unified_Docs.pdf (122 pages, 371622 bytes).
+Output written on Unified_Docs.pdf (121 pages, 370689 bytes).
 PDF statistics:
- 435 PDF objects out of 1000 (max. 8388607)
- 299 compressed objects within 3 object streams
+ 432 PDF objects out of 1000 (max. 8388607)
+ 297 compressed objects within 3 object streams
  0 named destinations out of 1000 (max. 500000)
  18 words of extra memory for PDF output out of 10000 (max. 10000000)
 

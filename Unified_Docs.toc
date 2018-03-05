@@ -123,7 +123,16 @@
 \contentsline {subsection}{\numberline {3.1.2}Procedure for Resolution}{75}
 \contentsline {subsection}{\numberline {3.1.3}Tribunal Proceedings}{76}
 \contentsline {subsection}{\numberline {3.1.4}Possible Resolutions}{76}
-\contentsline {section}{\numberline {3.2}Discipline Manual}{78}
+\contentsline {section}{\numberline {3.2}Discipline Code}{78}
+\contentsline {subsection}{\numberline {3.2.1}Introduction and Purpose}{78}
+\contentsline {subsection}{\numberline {3.2.2}Definitions}{78}
+\contentsline {subsection}{\numberline {3.2.3}Relationship to Other University Policies and Codes}{79}
+\contentsline {subsection}{\numberline {3.2.4}Jurisdiction}{79}
+\contentsline {subsection}{\numberline {3.2.5}Misconduct and Prohibited Conduct}{79}
+\contentsline {subsection}{\numberline {3.2.6}Interim Measures}{81}
+\contentsline {subsection}{\numberline {3.2.7}Complaint Procedures}{81}
+\contentsline {subsection}{\numberline {3.2.8}Appeals}{82}
+\contentsline {subsection}{\numberline {3.2.9}Review of Code}{85}
 \contentsline {section}{\numberline {3.3}Elections Policy}{86}
 \contentsline {section}{\numberline {3.4}Minutes Writing Policy}{90}
 \contentsline {section}{\numberline {3.5}Procurement}{91}
