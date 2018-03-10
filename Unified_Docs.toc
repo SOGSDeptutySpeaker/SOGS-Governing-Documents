@@ -68,7 +68,7 @@
 \contentsline {subsection}{\numberline {2.7.2}Jurisdiction}{40}
 \contentsline {subsection}{\numberline {2.7.3}Recall of the President}{41}
 \contentsline {subsection}{\numberline {2.7.4}Recall of executive, non--executive officers and committee \hfill \penalty -\@M chairpersons}{42}
-\contentsline {subsection}{\numberline {2.7.5}Recall of Councilors}{42}
+\contentsline {subsection}{\numberline {2.7.5}Recall of Councillors}{42}
 \contentsline {subsection}{\numberline {2.7.6}Recall of Members of the Appeals Review Commission}{43}
 \contentsline {subsection}{\numberline {2.7.7}Recall of Committee Membership}{43}
 \contentsline {section}{\numberline {2.8}Elections Table}{44}

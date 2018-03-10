@@ -306,8 +306,7 @@
   \item Council, 14, 63
     \subitem Agenda
       \subsubitem Submission, 63
-    \subitem Alternate Councillors, 29
-    \subitem Alternate Councilors, 64
+    \subitem Alternate Councillors, 29, 64
       \subsubitem Quorum, 64
     \subitem Attendance, 63
     \subitem Calling, 63
@@ -356,10 +355,9 @@
     \subitem Alternate, 29
     \subitem Communication with Constituency, 29
     \subitem Dereliction of Duty, 29
+    \subitem Recall, 41
     \subitem Selection, 29
     \subitem Term, 29
-  \item Councilor
-    \subitem Recall, 41
 
   \indexspace
 
@@ -684,7 +682,7 @@
       \subsubitem Less than 3 Members, 46
       \subsubitem More than 3 Members, 46
     \subitem Council
-      \subsubitem Alternate Councilors, 64
+      \subsubitem Alternate Councillors, 64
       \subsubitem Fall/Winter, 64
       \subsubitem Non-Voting Members, 64
       \subsubitem Summer, 64
@@ -700,8 +698,7 @@
     \subitem Appeals Review Committee, 41
     \subitem Commissioner, 26, 27
     \subitem Committee Membership, 43
-    \subitem Councillor, 29
-    \subitem Councilor, 41, 42
+    \subitem Councillor, 29, 41, 42
     \subitem Executive, 41
       \subsubitem Vote, 42
     \subitem Non--Executive, 41
