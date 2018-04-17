@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  17 APR 2018 00:52
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  17 APR 2018 13:57
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -583,10 +583,11 @@ Writing index file Unified_Docs.idx
 (./Operations_Policy/Conflict_of_Interest.aux)
 (./Operations_Policy/Discipline_Code_2018.aux)
 (./Operations_Policy/Elections.aux) (./Operations_Policy/Minutes_2018.aux)
-(./Operations_Policy/Procurement.aux) (./Committee_Documents/GSTA.aux)
-(./Committee_Documents/Gradcast.aux) (./Committee_Documents/OSC.aux)
-(./Committee_Documents/HPC.aux) (./Committee_Documents/Policy.aux)
-(./Rulings/July2013.aux) (./Rulings/Nov2014.aux) (./Rulings/Nov2017.aux))
+(./Operations_Policy/Procurement.aux) (./Committee_Documents/BCC.aux)
+(./Committee_Documents/GSTA.aux) (./Committee_Documents/Gradcast.aux)
+(./Committee_Documents/OSC.aux) (./Committee_Documents/HPC.aux)
+(./Committee_Documents/Policy.aux) (./Rulings/July2013.aux)
+(./Rulings/Nov2014.aux) (./Rulings/Nov2017.aux))
 \openout1 = `Unified_Docs.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 89.
@@ -1350,6 +1351,29 @@ Chapter 4.
 
 
 ]
+\openout2 = `Committee_Documents/BCC.aux'.
+
+ (./Committee_Documents/BCC.tex
+Overfull \hbox (0.75473pt too wide) in paragraph at lines 24--25
+[]\T1/lmss/m/n/12 Membership, in-clud-ing the Chair-per-son and Deputy Chair-pe
+r-son, but ex-clud-ing the ex-officio
+ []
+
+
+Overfull \hbox (3.5028pt too wide) in paragraph at lines 33--34
+[]\T1/lmss/m/n/12 The BCC will act in ac-cor-dance with By-law 2.9.3.9 to man-a
+ge and main-tain at-ten-dance. 
+ []
+
+[98
+
+]
+Overfull \hbox (5.05095pt too wide) in paragraph at lines 55--56
+\T1/lmss/m/n/12 re-spec-tive doc-u-ment and an-nounced to the mem-ber-ship with
+in two (2) months of rat-i-fi-ca-tion. 
+ []
+
+) [99]
 \openout2 = `Committee_Documents/GSTA.aux'.
 
  (./Committee_Documents/GSTA.tex
@@ -1367,7 +1391,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 5--6
 
  []
 
-) [98
+) [100
+
 
 ]
 \openout2 = `Committee_Documents/Gradcast.aux'.
@@ -1378,10 +1403,10 @@ Overfull \hbox (3.18266pt too wide) in paragraph at lines 28--30
 -ing and dis-sem-i-nat-ing com-mit-tee
  []
 
-[99
+[101
 
 
-]) [100]
+]) [102]
 \openout2 = `Committee_Documents/OSC.aux'.
 
  (./Committee_Documents/OSC.tex
@@ -1396,7 +1421,7 @@ Overfull \hbox (7.06584pt too wide) in paragraph at lines 14--17
 -cial Li-ai-son, Ex-officio), Pres-i-dent
  []
 
-[101
+[103
 
 
 ]
@@ -1405,7 +1430,7 @@ Overfull \hbox (18.02791pt too wide) in paragraph at lines 57--59
 n-sure the suc-cess-ful pro-mo-tion
  []
 
-[102] [103]
+[104] [105]
 Overfull \hbox (7.26782pt too wide) in paragraph at lines 114--116
 []\T1/lmss/m/n/12 Shall in-form the Chair and Vice-President Stu-dent Ser-vices
 , and copy the Communi-
@@ -1423,13 +1448,13 @@ Overfull \hbox (14.22519pt too wide) in paragraph at lines 141--144
 om-mit-tee (fam-ily friendly, non-alcohol
  []
 
-[104]
+[106]
 Overfull \hbox (25.10992pt too wide) in paragraph at lines 144--147
 []\T1/lmss/m/n/12 The OSC shall en-deavor to reach out to rep-re-sen-ta-tives f
 rom Grad-u-ate As-so-ci-a-tions/Departments
  []
 
-) [105]
+) [107]
 \openout2 = `Committee_Documents/HPC.aux'.
 
  (./Committee_Documents/HPC.tex
@@ -1444,7 +1469,7 @@ Overfull \hbox (6.68462pt too wide) in paragraph at lines 15--17
 Com-mu-ni-ca-tions Ad-min-is-tra-tor
  []
 
-[106
+[108
 
 
 ]
@@ -1459,7 +1484,7 @@ Overfull \hbox (31.58882pt too wide) in paragraph at lines 60--61
  As-sis-tant, and Com-mu-ni-ca-tions
  []
 
-[107]
+[109]
 Overfull \hbox (3.62338pt too wide) in paragraph at lines 102--103
 \T1/lmss/m/n/12 mem-ber of the HPC to the po-si-tion of Chair even if for a tem
 -po-rary, non-permanent
@@ -1471,27 +1496,27 @@ Overfull \hbox (7.26782pt too wide) in paragraph at lines 107--109
 , and copy the Communi-
  []
 
-[108]
+[110]
 Overfull \hbox (1.3835pt too wide) in paragraph at lines 116--117
 []\T1/lmss/m/n/12 Opt-In/Opt-Out Ap-peals: Health Plan opt-ins/opt-outs shall b
 e per-mit-ted af-ter the dead-line
  []
 
-[109]
+[111]
 Overfull \hbox (29.98677pt too wide) in paragraph at lines 163--165
 []\T1/lmss/m/n/12 Other -- 5% (Dis-counts, Net-work, Bur-saries, Spon-sor-ship,
  Pro-mo-tional, Com-mu-ni-ca-tion,
  []
 
-) [110]
+) [112]
 \openout2 = `Committee_Documents/Policy.aux'.
 
- (./Committee_Documents/Policy.tex) [111
+ (./Committee_Documents/Policy.tex) [113
 
 
 ]
 Chapter 5.
-[112
+[114
 
 
 ]
@@ -1503,7 +1528,7 @@ Overfull \hbox (5.09343pt too wide) in paragraph at lines 35--36
 ers of the In-ves-tiga-tive
  []
 
-[113
+[115
 
 ]
 LaTeX Font Info:    External font `lmex10' loaded for size
@@ -1512,12 +1537,12 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <7> on input line 54.
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <5> on input line 54.
- [114] [115]
+ [116] [117]
 Underfull \hbox (badness 10000) in paragraph at lines 87--97
 
  []
 
-) [116]
+) [118]
 \openout2 = `Rulings/Nov2014.aux'.
 
  (./Rulings/Nov2014.tex
@@ -1531,7 +1556,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 30--40
 
  []
 
-) [117
+) [119
 
 
 ]
@@ -1545,35 +1570,36 @@ their un-der-stood res-ig-na-tion.
 
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 118 might be wrong on input line 48
+(multicol)                Footnotes on page 120 might be wrong on input line 48
 .
 
-[118
+[120
 
 
-] [119]) [120] (./Unified_Docs.ind [121
+] [121]) [122] (./Unified_Docs.ind [123
 
 
-] [122] [123] [124] [125] [126]
-[127] [128] [129] [130]) (./Unified_Docs.aux (./Constitution/Constitution.aux)
+] [124] [125] [126] [127] [128]
+[129] [130] [131] [132]) (./Unified_Docs.aux (./Constitution/Constitution.aux)
 (./Bylaw/Bylaws.aux) (./Elections/Elections_Table.aux)
 (./Bylaw/Bylaws_Post_Election_Table.aux)
 (./Operations_Policy/Conflict_of_Interest.aux)
 (./Operations_Policy/Discipline_Code_2018.aux)
 (./Operations_Policy/Elections.aux) (./Operations_Policy/Minutes_2018.aux)
-(./Operations_Policy/Procurement.aux) (./Committee_Documents/GSTA.aux)
-(./Committee_Documents/Gradcast.aux) (./Committee_Documents/OSC.aux)
-(./Committee_Documents/HPC.aux) (./Committee_Documents/Policy.aux)
-(./Rulings/July2013.aux) (./Rulings/Nov2014.aux) (./Rulings/Nov2017.aux))
+(./Operations_Policy/Procurement.aux) (./Committee_Documents/BCC.aux)
+(./Committee_Documents/GSTA.aux) (./Committee_Documents/Gradcast.aux)
+(./Committee_Documents/OSC.aux) (./Committee_Documents/HPC.aux)
+(./Committee_Documents/Policy.aux) (./Rulings/July2013.aux)
+(./Rulings/Nov2014.aux) (./Rulings/Nov2017.aux))
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 14310 strings out of 492995
- 279706 string characters out of 6132704
- 347459 words of memory out of 5000000
- 17397 multiletter control sequences out of 15000+600000
+ 14318 strings out of 492995
+ 279903 string characters out of 6132704
+ 348114 words of memory out of 5000000
+ 17398 multiletter control sequences out of 15000+600000
  68500 words of font info for 51 fonts, out of 8000000 for 9000
  1148 hyphenation exceptions out of 8191
  62i,8n,56p,1045b,565s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1585,10 +1611,10 @@ ist/fonts/type1/public/lm/lmss12.pfb></usr/local/texlive/2017/texmf-dist/fonts/
 type1/public/lm/lmss17.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/publ
 ic/lm/lmss8.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/lm/lmssb
 x10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/lm/lmsso12.pfb>
-Output written on Unified_Docs.pdf (130 pages, 388075 bytes).
+Output written on Unified_Docs.pdf (132 pages, 392146 bytes).
 PDF statistics:
- 461 PDF objects out of 1000 (max. 8388607)
- 316 compressed objects within 4 object streams
+ 467 PDF objects out of 1000 (max. 8388607)
+ 320 compressed objects within 4 object streams
  0 named destinations out of 1000 (max. 500000)
  18 words of extra memory for PDF output out of 10000 (max. 10000000)
 
