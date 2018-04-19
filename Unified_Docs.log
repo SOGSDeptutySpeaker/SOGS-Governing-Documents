@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  19 APR 2018 14:07
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  19 APR 2018 14:09
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1478,12 +1478,12 @@ e per-mit-ted af-ter the dead-line
  []
 
 
-Overfull \hbox (13.85794pt too wide) in paragraph at lines 155--178
+Overfull \hbox (13.85794pt too wide) in paragraph at lines 144--167
 [][] 
  []
 
 [109]
-Overfull \hbox (29.98677pt too wide) in paragraph at lines 191--193
+Overfull \hbox (29.98677pt too wide) in paragraph at lines 180--182
 []\T1/lmss/m/n/12 Other -- 5% (Dis-counts, Net-work, Bur-saries, Spon-sor-ship,
  Pro-mo-tional, Com-mu-ni-ca-tion,
  []
