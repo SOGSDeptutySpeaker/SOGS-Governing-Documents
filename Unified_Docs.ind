@@ -653,7 +653,8 @@
       \subsubitem Travel Grants, 60
     \subitem Loan Agreement, 20
     \subitem Loan Authority, 58
-    \subitem Long--Term Investments, 20, 22
+    \subitem Long--Term Investments, 22
+    \subitem Long-Term Investments, 20
     \subitem Office Staff, 20
     \subitem Personnel Contract, 55
     \subitem Recall, 41
@@ -826,10 +827,7 @@
     \subitem Grad Club, 22
       \subsubitem Inventory, 23
       \subsubitem Liaison with Manager, 23
-    \subitem Graduate Support Program Administration
-      \subsubitem Emergency Loans, 20
     \subitem Liaison with Hospitality and Food Services, 23
-    \subitem Loan Agreement, 20
     \subitem Long--Term Investments, 22
     \subitem Monthly Financial Report, 22
     \subitem Recall, 41
@@ -863,9 +861,10 @@
     \subitem Deposits, 22
     \subitem Graduate Support Program Administration
       \subsubitem Child Care, 60
-      \subsubitem Emergency Loans, 60
+      \subsubitem Emergency Loans, 20, 60
       \subsubitem Maximum Funding, 60
       \subsubitem Travel Grants, 60
+    \subitem Loan Agreement, 20
     \subitem Loan Authority, 58
 
   \indexspace
