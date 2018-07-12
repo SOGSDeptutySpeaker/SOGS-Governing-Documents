@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  5 JUN 2018 15:01
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  12 JUL 2018 13:49
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1339,12 +1339,6 @@ Overfull \hbox (12.07417pt too wide) in paragraph at lines 167--168
 em-ber-ships of sev-eral thou-sand,
  []
 
-
-Overfull \hbox (14.22508pt too wide) in paragraph at lines 181--182
-[]\T1/lmss/m/n/12 The re-port shall in-clude: the rec-om-men-da-tion and ra-tio
--nale of the com-mit-tee,
- []
-
 [95]
 Overfull \hbox (12.43994pt too wide) in paragraph at lines 196--197
 []\T1/lmss/m/n/12 The Ori-en-ta-tion and So-cial Com-mit-tee shall be the Req-u
@@ -1646,7 +1640,7 @@ ist/fonts/type1/public/lm/lmss12.pfb></usr/local/texlive/2017/texmf-dist/fonts/
 type1/public/lm/lmss17.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/publ
 ic/lm/lmss8.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/lm/lmssb
 x10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/lm/lmsso12.pfb>
-Output written on Unified_Docs.pdf (134 pages, 396845 bytes).
+Output written on Unified_Docs.pdf (134 pages, 396912 bytes).
 PDF statistics:
  474 PDF objects out of 1000 (max. 8388607)
  325 compressed objects within 4 object streams
