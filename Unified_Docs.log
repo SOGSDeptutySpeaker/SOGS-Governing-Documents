@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  12 JUL 2018 15:09
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  12 JUL 2018 15:21
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1224,40 +1224,40 @@ Overfull \hbox (1.1254pt too wide) in paragraph at lines 149--150
 [84]) [85]
 \openout2 = `Operations_Policy/Elections.aux'.
 
- (./Operations_Policy/Elections.tex
-Overfull \hbox (1.26022pt too wide) in paragraph at lines 21--22
+ (./Operations_Policy/Elections.tex [86
+
+
+]
+Overfull \hbox (1.26022pt too wide) in paragraph at lines 22--23
 []\T1/lmss/m/n/12 In the event that the elected Pres-i-dent is a de-part-men-ta
 l or part-time rep-re-sen-ta-tive,
  []
 
 
-Overfull \hbox (2.63312pt too wide) in paragraph at lines 21--22
+Overfull \hbox (2.63312pt too wide) in paragraph at lines 22--23
 \T1/lmss/m/n/12 de-part-men-tal rep-re-sen-ta-tive, Speaker or other Ex-ec-u-ti
 ve mem-ber while be-ing Pres-i-dent. 
  []
 
-[86
 
-
-]
-Overfull \hbox (0.748pt too wide) in paragraph at lines 22--23
+Overfull \hbox (0.748pt too wide) in paragraph at lines 23--24
 []\T1/lmss/m/n/12 Actual trans-fer of sign-ing au-thor-ity and re-spon-si-bil-i
 -ties of the Of-fice of the Pres-i-dent
  []
 
 
-Overfull \hbox (0.72375pt too wide) in paragraph at lines 30--31
+Overfull \hbox (0.72375pt too wide) in paragraph at lines 31--32
 []\T1/lmss/m/n/12 At that meet-ing an agree-ment will be signed by all par-ties
  wherein they ac-knowl-edge
  []
 
-
-Overfull \hbox (3.74823pt too wide) in paragraph at lines 55--57
+[87]
+Overfull \hbox (3.74823pt too wide) in paragraph at lines 56--58
 []\T1/lmss/m/n/12 No can-di-date/referendum group or in-di-vid-ual mem-ber may,
  us-ing their own ini-tia-tive
  []
 
-[87] [88]) [89]
+[88]) [89]
 \openout2 = `Operations_Policy/Minutes_2018.aux'.
 
  (./Operations_Policy/Minutes_2018.tex) [90
@@ -1625,7 +1625,7 @@ Here is how much of TeX's memory you used:
  17398 multiletter control sequences out of 15000+600000
  68500 words of font info for 51 fonts, out of 8000000 for 9000
  1148 hyphenation exceptions out of 8191
- 62i,8n,56p,1045b,565s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 62i,8n,56p,1045b,593s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2017/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}</usr/local/
 texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/t
 exlive/2017/texmf-dist/fonts/type1/public/lm/lmcsc10.pfb></usr/local/texlive/20
@@ -1634,7 +1634,7 @@ ist/fonts/type1/public/lm/lmss12.pfb></usr/local/texlive/2017/texmf-dist/fonts/
 type1/public/lm/lmss17.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/publ
 ic/lm/lmss8.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/lm/lmssb
 x10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/lm/lmsso12.pfb>
-Output written on Unified_Docs.pdf (134 pages, 396494 bytes).
+Output written on Unified_Docs.pdf (134 pages, 396623 bytes).
 PDF statistics:
  474 PDF objects out of 1000 (max. 8388607)
  325 compressed objects within 4 object streams
